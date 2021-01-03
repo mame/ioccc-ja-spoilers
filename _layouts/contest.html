@@ -20,6 +20,8 @@ layout: default
 
 {{ content }}
 
+{% include ad.html %}
+
 {% assign contests = site.pages | where: "layout", "contest" | sort: "year" %}
 {% assign prev_page = contests | reverse | where_exp: "item", "item.year < page.year" | first %}
 {% assign next_page = contests | where_exp: "item", "item.year > page.year" | first %}
