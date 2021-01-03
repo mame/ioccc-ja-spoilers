@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<h2>入賞作品一覧</h2>
+
+<div class="entries list-group">
+{% assign entries = site.pages | where: "dir", page.url | sort: "order" %}
+{% for entry in entries %}
+  {% if entry.layout != "contest" %}
+  <a href="{{ site.baseurl }}{{ entry.url }}" class="list-group-item list-group-item-action flex-column align-items-start">
+    <p class="entry-id">[[{{ entry.id }}]]</p>
+    <p class="award">{{ entry.award }}</p>
+    <p class="award-ja">{{ entry.award_ja }}</p>
+  </a>
+  {% endif %}
+{% endfor %}
+</div>
+
+{{ content }}
+
+{% assign contests = site.pages | where: "layout", "contest" | sort: "year" %}
+{% assign prev_page = contests | reverse | where_exp: "item", "item.year < page.year" | first %}
+{% assign next_page = contests | where_exp: "item", "item.year > page.year" | first %}
+
+<nav class="prev-next" aria-label="prev-next-entries">
+  <ul class="nav justify-content-between">
+{% if prev_page %}
+    <li><a class="btn page-link rounded-pill" href="{{ site.baseurl }}{{ prev_page.url }}"><span aria-hidden="true">&larr;</span> IOCCC {{ prev_page.year }}</a></li>
+{% else %}
+    <li></li>
+{% endif %}
+{% if next_page %}
+    <li><a class="btn page-link rounded-pill" href="{{ site.baseurl }}{{ next_page.url }}">IOCCC {{ next_page.year }} <span aria-hidden="true">&rarr;</span></a></li>
+{% else %}
+    <li></li>
+{% endif %}
+  </ul>
+</nav>

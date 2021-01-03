@@ -1,0 +1,108 @@
+---
+---
+
+h1.title {
+  margin: 2rem 0rem;
+}
+
+div.award-title {
+  margin: 2rem 0rem;
+}
+
+div.award-title h1 {
+  margin: 2rem 0rem 0rem 0rem;
+}
+
+div.award-title p.authors {
+  text-align: right;
+}
+
+h2 {
+  margin-top: 2rem;
+}
+
+div.contests {
+  margin: 1.5rem 0.5rem 1.5rem 0.5rem;
+}
+
+div.entries {
+  margin: 1.5rem 0.5rem 0rem 0.5rem;
+}
+
+div.entries p.entry-id {
+  font-size: 0.8rem;
+  margin: 0rem 0rem 0.5rem 0rem;
+}
+
+div.entries p.award {
+  font-size: 1.5rem;
+  margin: 0rem;
+}
+
+div.entries p.award-ja {
+  margin: 0rem;
+}
+
+.CodeMirror {
+  margin: 0rem;
+  height: auto;
+}
+
+.CodeMirror pre {
+  word-break: break-all;
+  line-break: anywhere;
+}
+
+p.program-cite {
+  text-align: right;
+}
+
+p.diff-download {
+  text-align: right;
+}
+
+pre {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  background: #000000;
+  color: #ddffdd;
+}
+
+pre.wrap code {
+  white-space: pre-wrap;
+  word-break: break-all;
+  line-break: anywhere;
+}
+
+cite {
+  font-size: 0.8rem;
+}
+
+div.program-control {
+  text-align: right;
+}
+
+div.program-control div.custom-control-inline {
+  margin-left: 1rem;
+  margin-right: 0rem;
+}
+
+hr {
+  margin: 3rem 0rem;
+  border-top: 1px solid #bbb;
+  text-align: center;
+}
+
+nav.prev-next {
+  margin: 3rem 0rem;
+}
+
+footer {
+  margin: 2rem 0rem 0rem 0rem;
+  padding: 1rem;
+}
+
+footer p {
+  margin: 0rem;
+  text-align: center;
+}

@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<div class="award-title">
+  <h1>{{ page.award }}</h1>
+  <p>{{ page.award_ja }}</p>
+  <p class="authors">
+受賞者：
+{%- for author in page.authors -%}
+{%- assign show_name = site.data.authors[author] -%}
+{%- if show_name == nil -%}
+{%- assign show_name = author | replace: "_", " " -%}
+{%- endif -%}
+{% if forloop.last and forloop.index > 1 %} and {% else %}{% if forloop.first %}{% else %}, {% endif %}{% endif -%}
+    <a href="{{ site.baseurl }}/authors.html#{{ author }}">{{ show_name }}</a>
+{%- endfor -%}
+  </p>
+</div>
+
+<div class="program-control">
+  <div class="custom-control custom-checkbox custom-control-inline">
+    <input type="checkbox" class="custom-control-input" id="program-linewrap"{% if page.linewrap %} checked{% endif %}>
+    <label class="custom-control-label" for="program-linewrap">Line wrap</label>
+  </div>
+  <div class="custom-control custom-checkbox custom-control-inline">
+    <input type="checkbox" class="custom-control-input" id="program-highlight">
+    <label class="custom-control-label" for="program-highlight">Highlight</label>
+  </div>
+</div>
+<textarea id="program"{% if page.tabsize %} class="tabsize-{{ page.tabsize }}"{% endif %} readonly>{% include {{ page.file | default: page.id | replace_first: "/", "-" }}.c.inc %}</textarea>
+<p class="program-cite"><cite>引用元：<a href="{{ page.orig_url }}">{{ page.orig_url }}</a></cite></p>
+<p>審査員・作者による説明：<a href="{{ page.hint_url }}">{{ page.hint_url }}</a></p>
+
+{{ content }}
+
+{% if page.patch %}
+<h2>パッチ</h2>
+{% assign patch = page.file | default: page.id | replace_first: "/", "-" | append: ".patch" %}
+<textarea id="diff" readonly>{% include {{ patch }}.inc %}</textarea>
+<p class="diff-download"><a href="{{ site.baseurl }}/patches/{{ patch }}">パッチをダウンロード</a></p>
+{% endif %}
+
+{%- assign fellows = site.pages | where: "year", page.year -%}
+{%- assign prev = page.order | minus: 1 -%}
+{%- assign prev_page = fellows | where: "order", prev | first -%}
+{%- assign next = page.order | plus: 1 -%}
+{%- assign next_page = fellows | where: "order", next | first -%}
+
+<nav class="prev-next" aria-label="prev-next-entries">
+  <ul class="nav justify-content-between">
+{% if prev_page %}
+    <li><a class="btn page-link rounded-pill" href="{{ site.baseurl }}{{ prev_page.url }}"><span aria-hidden="true">&larr;</span> 前の作品</a></li>
+{% else %}
+    <li></li>
+{% endif %}
+{% if next_page %}
+    <li><a class="btn page-link rounded-pill" href="{{ site.baseurl }}{{ next_page.url }}">次の作品 <span aria-hidden="true">&rarr;</span></a></li>
+{% else %}
+<li><a class="btn page-link rounded-pill" href="{{ site.baseurl }}{{ page.dir }}">IOCCC {{ page.dir | slice: 1, 4 }}一覧 <span aria-hidden="true">&ldca;</span></a></li>
+{% endif %}
+  </ul>
+</nav>
+
+<script src="{{ site.baseurl }}{% link code.js %}"></script>

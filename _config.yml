@@ -1,0 +1,22 @@
+title: IOCCC日本語ネタバレ解説
+email: mame@ruby-lang.org
+description: >-
+  C言語プログラムの独創性で競い合うプログラミングコンテスト、International Obfuscated C Code Contest (IOCCC)の全作品を日本語で紹介することを目指すサイトです。
+
+baseurl: "/ioccc-ja-spoilers"
+url: "http://mame.github.io"
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "entry"

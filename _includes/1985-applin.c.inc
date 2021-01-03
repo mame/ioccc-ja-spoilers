@@ -1,0 +1,1 @@
+main(v,c)char**c;{for(v[c++]=&quot;Hello, world!\n)&quot;;(!!c)[*c]&amp;&amp;(v--||--c&amp;&amp;execlp(*c,*c,c[!!c]+!!c,!c));**c=!c)write(!!*c,*c,!!**c);}
