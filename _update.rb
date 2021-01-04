@@ -37,12 +37,12 @@ end
 
 Dir.glob(File.join(__dir__, "*/*.md")).sort.each do |file|
   src = File.read(file)
-  src = src.gsub(/\[\[\[(\d{4}\/\w+)\]\]\]\(\{\{ site\.baseurl \}\}\{% link \1\.md %\}\)|\[\[(\d{4}\/\w+)\]\]/) do
+  src = src.gsub(/\[\[\[(\d{4}\/\w+)\]\]\]\(\{\{ site\.baseurl \}\}\{% link \1\.md %\}\)|\[\[(\d{4}\/\w+)\]\]（未執筆）/) do
     entry = ($1 || $2)
     if File.readable?(File.join(__dir__, entry + ".md"))
       "[[[#{ entry }]]]({{ site.baseurl }}{% link #{ entry }.md %})"
     else
-      "[[#{ entry }]]"
+      "[[#{ entry }]]（未執筆）"
     end
   end
   File.write(file, src)
