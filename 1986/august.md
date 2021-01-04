@@ -5,7 +5,7 @@ order: 2
 authors: "Lennart_Augustsson"
 orig_url: "https://www.ioccc.org/1986/august/august.c"
 hint_url: "https://www.ioccc.org/1986/august/hint.html"
-award: "Best complex task done in a complex way"
+title: "IOCCC 1986: Best complex task done in a complex way"
 award_ja: "複雑なやり方で行われる最高の複雑なタスク"
 ---
 

@@ -5,7 +5,7 @@ order: 6
 authors: "Eric_Marshall"
 orig_url: "https://www.ioccc.org/1986/marshall/marshall.c"
 hint_url: "https://www.ioccc.org/1986/marshall/hint.html"
-award: "Best layout"
+title: "IOCCC 1986: Best layout"
 award_ja: "最高のレイアウト"
 ---
 

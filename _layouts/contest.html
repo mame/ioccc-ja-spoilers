@@ -10,7 +10,8 @@ layout: default
   {% if entry.layout != "contest" %}
   <a href="{{ site.baseurl }}{{ entry.url }}" class="list-group-item list-group-item-action flex-column align-items-start">
     <p class="entry-id">[[{{ entry.id }}]]</p>
-    <p class="award">{{ entry.award }}</p>
+{% assign award = entry.title | split: ": " | last %}
+    <p class="award">{{ award }}</p>
     <p class="award-ja">{{ entry.award_ja }}</p>
   </a>
   {% endif %}

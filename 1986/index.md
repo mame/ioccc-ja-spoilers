@@ -1,5 +1,6 @@
 ---
 year: 1986
+title: "IOCCC 1986の解説"
 layout: contest
 ---
 ## 全体の印象

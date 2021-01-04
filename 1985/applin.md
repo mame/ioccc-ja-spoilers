@@ -8,7 +8,7 @@ authors:
   - "Robert_Heckendorn"
 orig_url: "https://www.ioccc.org/1985/applin/applin.c"
 hint_url: "https://www.ioccc.org/1985/applin/hint.html"
-award: "Best one liner"
+title: "IOCCC 1985: Best one liner"
 award_ja: "最高のワンライナー（1行プログラム）"
 ---
 

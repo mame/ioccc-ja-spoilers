@@ -6,7 +6,7 @@ patch: true
 authors: "Dave_Decot"
 orig_url: "https://www.ioccc.org/1984/decot/decot.c"
 hint_url: "https://www.ioccc.org/1984/decot/hint.html"
-award: "Second place award"
+title: "IOCCC 1984: Second place award"
 award_ja: "第2位賞"
 ---
 

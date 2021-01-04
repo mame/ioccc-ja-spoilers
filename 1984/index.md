@@ -1,5 +1,6 @@
 ---
 year: 1984
+title: "IOCCC 1984の解説"
 layout: contest
 ---
 

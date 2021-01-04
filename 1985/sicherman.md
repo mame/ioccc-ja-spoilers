@@ -5,7 +5,7 @@ order: 4
 authors: "Col._G._L._Sicherman"
 orig_url: "https://www.ioccc.org/1985/sicherman/sicherman.c"
 hint_url: "https://www.ioccc.org/1985/sicherman/hint.html"
-award: "The worst abuse of the C preprocessor"
+title: "IOCCC 1985: The worst abuse of the C preprocessor"
 award_ja: "Cプリプロセッサの最悪の悪用"
 ---
 

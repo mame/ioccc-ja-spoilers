@@ -5,7 +5,7 @@ order: 5
 authors: "Carl_Shapiro"
 orig_url: "https://www.ioccc.org/1985/shapiro/shapiro.c"
 hint_url: "https://www.ioccc.org/1985/shapiro/hint.html"
-award: "Grand prize for most well-rounded in confusion"
+title: "IOCCC 1985: Grand prize for most well-rounded in confusion"
 award_ja: "もっとも混乱たっぷりの大賞"
 ---
 

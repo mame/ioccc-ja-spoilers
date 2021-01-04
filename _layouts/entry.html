@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div class="award-title">
-  <h1>{{ page.award }}</h1>
+  {% assign award = page.title | split: ": " | last %}
+  <h1>{{ award }}</h1>
   <p>{{ page.award_ja }}</p>
   <p class="authors">
 受賞者：

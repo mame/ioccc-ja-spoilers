@@ -6,7 +6,7 @@ patch: true
 authors: "Walter_Bright"
 orig_url: "https://www.ioccc.org/1986/bright/bright.c"
 hint_url: "https://www.ioccc.org/1986/bright/hint.html"
-award: "Most useful obfuscation"
+title: "IOCCC 1986: Most useful obfuscation"
 award_ja: "もっとも便利な難読化"
 ---
 

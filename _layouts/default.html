@@ -17,7 +17,8 @@
 {%- assign title = "IOCCC " | append: year | append: "の解説" -%}
 {%- endif -%}
 {%- if page.layout == "entry" -%}
-{%- assign title = page.award | append: " - IOCCC " | append: year -%}
+{%- assign award = page.title | split: ": " | last %}
+{%- assign title = award | append: " - IOCCC " | append: year -%}
 {%- endif -%}
     <title>{{ title }} | {{ site.title }}</title>
 {%- seo title=false -%}
@@ -66,7 +67,7 @@
         <li class="breadcrumb-item">IOCCC {{ page.dir | slice: 1, 4 }}</li>
 {% elsif page.layout == "entry" %}
         <li class="breadcrumb-item"><a href="{{ site.baseurl }}{{ page.dir }}">IOCCC {{ page.dir | slice: 1, 4 }}</a></li>
-        <li class="breadcrumb-item active">{{ page.award }}</li>
+        <li class="breadcrumb-item active">{{ award }}</li>
 {% else %}
 error
 {% endif %}

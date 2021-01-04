@@ -7,7 +7,7 @@ authors:
   - "Robbert_van_Renesse"
 orig_url: "https://www.ioccc.org/1984/mullender/mullender.c"
 hint_url: "https://www.ioccc.org/1984/mullender/hint.html"
-award: "The Grand Prize"
+title: "IOCCC 1984: The Grand Prize"
 award_ja: "大賞"
 ---
 
