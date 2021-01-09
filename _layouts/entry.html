@@ -38,7 +38,7 @@ layout: default
 {% if page.patch %}
 <h2>パッチ</h2>
 {% assign patch = page.file | default: page.id | replace_first: "/", "-" | append: ".patch" %}
-<textarea id="diff" readonly>{% include {{ patch }}.inc %}</textarea>
+<textarea id="diff"{% if page.tabsize %} class="tabsize-{{ page.tabsize }}"{% endif %} readonly>{% include {{ patch }}.inc %}</textarea>
 <p class="diff-download"><a href="{{ site.baseurl }}/patches/{{ patch }}">パッチをダウンロード</a></p>
 {% endif %}
 

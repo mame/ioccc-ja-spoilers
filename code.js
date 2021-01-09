@@ -20,7 +20,10 @@
 
   const $diff = document.getElementById("diff");
   if ($diff) {
-    const diff_opts = { theme: "midnight", mode: "diff", readOnly: "nocursor", showTrailingSpace: false }
+    const diff_opts = { theme: "midnight", mode: "diff", readOnly: "nocursor", tabSize: 8 }
+    if ($diff.className && $diff.className.startsWith("tabsize-")) {
+      diff_opts.tabSize = parseInt($diff.className.slice(8));
+    }
     const $diff_codeMirror = CodeMirror.fromTextArea($diff, diff_opts);
   }
 })();
