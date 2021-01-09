@@ -8,7 +8,7 @@ layout: contest
 
 第1回ということで、シンプルなコードばかり。入賞作品数も4つだけ。
 
-[ルール](https://www.ioccc.org/1984/rules)も非常にシンプルで、次の5点。
+[ルール](https://github.com/ioccc-src/winner/blob/main/1984/rules)も非常にシンプルで、次の5点。
 
 1. 512バイト以下であること。
 2. 未公開作品であること。

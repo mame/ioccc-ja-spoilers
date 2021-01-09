@@ -5,7 +5,7 @@ layout: contest
 ---
 ## 全体の印象
 
-[ルール](https://www.ioccc.org/1985/rules)に評価ポイントが明記された。
+[ルール](https://github.com/ioccc-src/winner/blob/main/1985/rules)に評価ポイントが明記された。
 次が満たされると加点される。
 
 * (a) lintを通しても文句が出ないこと。
