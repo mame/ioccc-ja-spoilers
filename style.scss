@@ -74,6 +74,21 @@ pre.wrap code {
   line-break: anywhere;
 }
 
+blockquote {
+  border-left: 5px solid #cccccc;
+  padding-left: 0.5rem;
+}
+
+figure {
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+figcaption {
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
 cite {
   font-size: 0.8rem;
 }
