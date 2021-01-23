@@ -1,0 +1,1 @@
+char*_=&quot;Hello world.\n&quot;;
