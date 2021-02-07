@@ -1,0 +1,11 @@
+#include &lt;curses.h&gt;
+int u=484,X[]={-1,0,0,1},Y[]={0,1,-1,0},x,y,D,i,j,a;
+char o,m,*t,*O=&quot;MNOH&quot;,*k=&quot;hjkl&quot;,*s=&quot;######\0######\0######\0      \0      \0      \0  ___ \0 /   \\\0 \\___/\0  ___ \0 /@@@\\\0 \\@@@/\0| | /\\\0----||\0    \\/\0  /--\\\0   \\/ \0 ==|  \0 ==|  \0   /\\ \0  \\--/\0 /O__o\0 \\___/\0 /_\\_ \0  &lt;&lt;  \0  &lt;&lt;  \0  &lt;&lt;  \0      \0vvvvvv\0      \0      \0^^^^^^\0      \0  /\\  \0 &lt;  &gt; \0  \\/  \0o__O\\ \0\\___/ \0 _/_\\ \0 O__O \0/----\\\0_/  \\_\0 ^__^ \0/----\\\0_/  \\_&quot; ,
+M[12][22]={&quot;AAAAAAAAAAAAAAAAAAAAAA&quot; ,&quot;ALCABBBBBBBABBCBBCABBA&quot;, &quot;ACCABAKAAABAFBABABAEBA&quot;, &quot;ABBBBABBIBBBBBEEABACLA&quot;, &quot;ACCBNIBBAAAAGALBBBABCA&quot;, &quot;AAAAAAAJACBABBCABAABCA&quot;, &quot;ALLAACCBACBAAALLCABBBA&quot;, &quot;ABDLAAABABCAAAALCABBLA&quot;, &quot;ABCBIBBBBBBBBAAAAACBBA&quot;, &quot;ABCCAABBADBBBBDBDBDBCA&quot;, &quot;ALBBACCCCDBCABBBDBBBBA&quot;, &quot;AAAAAAAAAAAAAAAAAAAAAA&quot; };main(){initscr();clear();
+noecho();cbreak();x=y=4;D=39,o=&#39;M&#39;;m=M[y][x] ;while(D&amp;&amp;u){for(i=j=a=0;j&lt;7;!(mvaddstr(
+j*3+a,i*6,s+(((M[((y-1)/5)*5+j][((x-1)/10)*10+i]-&#39;A&#39;)*3+a++)*7)),a^3)&amp;&amp;(a=0,!
+(++i^12))&amp;&amp;(a=i=0,j++));refresh();M[y][x] =&#39;B&#39;;if(t=(char*)strchr(k,getch())){int e=
+x,g=y,f=x,h=y,d=t-k;o=O[d];f=(e=x+X[d])+X[d];h=(g=y+Y[d])+Y[d];switch(M[g][e] ){case
+&#39;B&#39;:x=e;y=g,u--;break ;case &#39;C&#39;:if(M[h][f] ==&#39;B&#39;)M[h][f] =M[g][e] ,x=e,y=g,u--; else if(M[h][f] ==&#39;C&#39;)M[h][f] =M[g][e] =&#39;L&#39;;break ;case &#39;D&#39;:if(M[h][f] ==&#39;B&#39;)M[h][f] =M[g][e] ,x=e,y=g,u--; break ;case&#39;L&#39;:x=e;y=g,u--;D
+--;break ;case &#39;E&#39;:if(M[h][f] ==&#39;B&#39;)M[h][f] =M[g][e] ,x=e,y=g,u--; else if(M[h][f] ==&#39;I&#39;&amp;&amp;d==0)M[h][f] =M[g][e] =&#39;B&#39;;break ; case &#39;F&#39;:if(M[h][f] ==&#39;B&#39;)M[h][f] =M[g][e] ,x=e,y=g,u--; else if(M[h][f] ==&#39;J&#39;&amp;&amp;d==1)M[h][f] =M[g][e] =&#39;B&#39;;break ; case &#39;G&#39;:if(M[h][f] ==&#39;B&#39;)M[h][f] =M[g][e] ,x=e,y=g,u--; else if(M[h][f] ==&#39;K&#39;&amp;&amp;d==2)M[h][f] =M[g][e] =&#39;B&#39;;break ; }}m=M[y][x] ;M[y][x] =o;}clear();mvaddstr(12
+,31,u?&quot;Well done!&quot;:&quot;Too many moves&quot;);move(23,0);refresh();endwin();return 0;}

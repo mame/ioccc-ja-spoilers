@@ -1,0 +1,1 @@
+main(a,b){while((a=getchar())+1)putchar((b=64^a&amp;223)&amp;&amp;b&lt;27?a&amp;96|(b+12)%26+1:a);}

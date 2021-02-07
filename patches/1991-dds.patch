@@ -1,0 +1,11 @@
+--- dds.c
++++ dds.c
+@@ -1,7 +1,7 @@
+ #include <stdio.h>
+ #define Q r=R[*p++-'0'];while(
+ #define B ;break;case
+-char*s="Qjou!s\\311^-g\\311^-n\\311^-c\\::^-q-ma%mO1JBHm%BQ-aP1J[O1HB%[Q<nbj\
++char s[]="Qdibs!+hfut)*<jou!s\\311^-g\\311^-n\\311^-c\\::^-q-ma%mO1JBHm%BQ-aP1J[O1HB%[Q<nbj\
+ o)*|gps)<<*txjudi)m*|aQdbtf!::::;sfuvso<aQefgbvmu;aQ<m,,a%CQ<csfbla%bQ<aN2!Q\
+ \ndbtf!aP2Q;m>aP2Q<a%!D12J!JGJHJOJQJFJSJJJMHS%HD12D12N3!N4\nJUJT%UQm>aP4HC%T\
+ Qs\\q,,^>m,2<m>aP4HC%SD12N1\nJNQm>s\\..q^aHC%NHb%GN1!D32P3%RN1UP1D12JPQUaP1H\
