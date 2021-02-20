@@ -93,11 +93,26 @@ cite {
   font-size: 0.8rem;
 }
 
-div.program-control {
+div.program-nav {
+  display: flex;
+  justify-content: space-between;
+  align-content: flex-end;
+  flex-flow: wrap;
+}
+
+div.program-nav p.skip-link {
+  margin: 0rem;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+
+div.program-nav div.program-control {
+  flex-shrink: 0;
+  flex-grow: 1;
   text-align: right;
 }
 
-div.program-control div.custom-control-inline {
+div.program-nav div.program-control div.custom-control-inline {
   margin-left: 1rem;
   margin-right: 0rem;
 }

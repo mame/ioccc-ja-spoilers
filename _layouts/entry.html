@@ -19,14 +19,18 @@ layout: default
   </p>
 </div>
 
-<div class="program-control">
-  <div class="custom-control custom-checkbox custom-control-inline">
-    <input type="checkbox" class="custom-control-input" id="program-linewrap"{% if page.linewrap %} checked{% endif %}>
-    <label class="custom-control-label" for="program-linewrap">Line wrap</label>
-  </div>
-  <div class="custom-control custom-checkbox custom-control-inline">
-    <input type="checkbox" class="custom-control-input" id="program-highlight">
-    <label class="custom-control-label" for="program-highlight">Highlight</label>
+
+<div class="program-nav">
+  <p class="skip-link"><a href="#%E5%8B%95%E4%BD%9C">動作・解説にジャンプ <span aria-hidden="true">&raquo;</span></a></p>
+  <div class="program-control">
+    <div class="custom-control custom-checkbox custom-control-inline">
+      <input type="checkbox" class="custom-control-input" id="program-linewrap"{% if page.linewrap %} checked{% endif %}>
+      <label class="custom-control-label" for="program-linewrap">Line wrap</label>
+    </div>
+    <div class="custom-control custom-checkbox custom-control-inline">
+      <input type="checkbox" class="custom-control-input" id="program-highlight">
+      <label class="custom-control-label" for="program-highlight">Highlight</label>
+    </div>
   </div>
 </div>
 <textarea id="program"{% if page.tabsize %} class="tabsize-{{ page.tabsize }}"{% endif %} readonly>{% include {{ page.file | default: page.id | replace_first: "/", "-" }}.c.inc %}</textarea>
