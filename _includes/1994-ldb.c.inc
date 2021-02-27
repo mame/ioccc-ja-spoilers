@@ -1,0 +1,1 @@
+int _,O,__??(&#39;}&#39;??);main(){while(O?gets((rand()%O++?&#39;:&#39;:_)+__)||puts(&amp;__??(_??))&amp;_:srand(time((O+++_)))||O);}
