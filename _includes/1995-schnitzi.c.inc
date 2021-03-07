@@ -1,0 +1,1 @@
+main(l,i,I)char**i;{l/=!(l&gt;(I=atoi(*++i))||fork()&amp;&amp;main(l+1,i-1)||I%l);return printf(&quot;%d\n&quot;,l);}
