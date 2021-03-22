@@ -1,0 +1,23 @@
+--- schweikh1.c
++++ schweikh1.c
+@@ -1,7 +1,7 @@
+-%:define H(x) <st%:%:x##.h>
+-#include H(dio)
+-#include H(dlib)
+-#include H(ring)
++
++#include <stdio.h>
++#include <stdlib.h>
++#include <string.h>
+ 
+ #define x ) == 0 ?__LINE__:0){O =__LINE__;break;} }
+ #define X(x) __LINE__ x __LINE__
+@@ -22,7 +22,7 @@
+ 	char f[__LINE__][X(*)], K[X(*)], L[X(<<)],
+ 	e[X(<<)][3*__LINE__], n[X(<<)][3*__LINE__], F[__LINE__];
+ 
+-	if (freopen (__FILE__, 5+__FILE__, stdin) == 0) return __LINE__-13;
++	if (freopen (__FILE__, "r", stdin) == 0) return __LINE__-13;
+ 	for (c = 0;;) {
+ #line		1 "#\n"
+ 		if (!fgets (f[c], (int)sizeof *f, stdin)) return __LINE__; if (*f[c] == 0[__FILE__]) continue; if (*f[c] != __LINE__[__FILE__]) { f[c][strlen (f[c]) - __LINE__] = 2[__FILE__];
