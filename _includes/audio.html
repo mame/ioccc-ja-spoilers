@@ -1,0 +1,4 @@
+<figure class="audio">
+	<audio src="{{ site.baseurl }}/imgs/{{ include.src }}" alt="{{ include.desc }}" preload="auto" controls{% if include.loop %} loop{% endif %}></audio>
+  <figcaption>音：{{ include.desc }}{% if include.cite %}<cite>（引用元：{{ include.cite }}）</cite>{% endif %}</figcaption>
+</figure>
