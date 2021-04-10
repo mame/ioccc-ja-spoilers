@@ -1,0 +1,1 @@
+main(O){int I,Q,l=O;if(I=l*4){l=6;if(l&gt;5)l+=Q-8?l-(Q=getchar()-2)%2:l;if(Q*=2)O+=&quot;has dirtiest IF&quot;[(I/-Q&amp;12)-l/Q%4];}printf(&quot;%d\n&quot;,8+O%4);}

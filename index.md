@@ -15,6 +15,7 @@ IOCCCをよく知らない人は、まず[このサイトについて]({{ site.b
 
 更新履歴:
 
+* 2021/04/10: [IOCCC 2004]({{ site.baseurl }}{% link 2004/index.md %})の解説を公開しました。
 * 2021/04/04: [IOCCC 2001]({{ site.baseurl }}{% link 2001/index.md %})の解説を公開しました。
 * 2021/03/28: [IOCCC 2000]({{ site.baseurl }}{% link 2000/index.md %})の解説を公開しました。
 * 2021/03/22: [IOCCC 1998]({{ site.baseurl }}{% link 1998/index.md %})の解説を公開しました。

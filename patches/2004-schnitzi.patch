@@ -1,0 +1,11 @@
+--- schnitzi.c
++++ schnitzi.c
+@@ -13,7 +13,7 @@
+ do sprintf(a[0][j],"%s",m,
+ sprintf   (a[1][j],"%s",l));
+ while     (++j<20);
+-scanf     ("%d %d\n",&r,&s);
++scanf     ("%d %d\n",&r,&s);s*=10;
+ gets      (d);
+ do        {
+ sscanf    (d,"%d %d %f %f %f %f %d %d %d",&o[b],&p[b],&u[b],&v[b],&w[b],&z[b],&x[b],&y[b],&q[b],j=n[b]=i=0);
