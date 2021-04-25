@@ -1,0 +1,24 @@
+--- toledo3.c
++++ toledo3.c
+@@ -1,6 +1,6 @@
+ #include <X11/Xlib.h>
+ char *l="dbcefcbddabcddcba~WAB+  +BAW~              +-84HLSU?A6J57IKJT576,",
+-*F="          ,>>,>  xl~w/?  ,>>>,s  m\177>>\177\177  mm2>>>  >uk>>> ",*f;y,u;
++*F="          ,>>,>  xl~w/?  ,>>>,s  m\177>>\177\177  mm2>>>  >uk>>> ",*f;long y,u;
+ #define v for (i=0,b=0;b>511?b=0,i+=64:0,i<512;b+=64) A=i/64*10+b/64+21,XCopy\
+ Plane(d, r[I[A]+7+14*(i+b>>6&1)+28*(A==z)],w,C,0,0,64,64,b,i,1); XFlush(d);
+ #define _(a) *f++=a&*F?-(z%14<7):"U\252U\0DDDD"[z/14*2|u&1],
+@@ -11,10 +11,12 @@
+ #define H while(
+ #define D ;if(
+ 
++long
++
+ I[304],b,i,z;main(x,W)                   char**W; { Display *d =
+  XOpenDisplay(""); Window               w = XCreateSimpleWindow
+   (d, DefaultRootWindow(d),            64,64,512,512,2,G(Black)
+-   ,G(Black)); XGCValues g;           XButtonEvent e; int A,r
++   ,G(Black)); XGCValues g;           XButtonEvent e; long A,r
+     [56],Z,* m = I , C ,Y;           XSelectInput(d,w,32772);
+      XMapWindow( d, w); g.          foreground = G(White);
+       C=XCreateGC(d,w,4,&g);       F+=48; H f=I,i=0,z<56){
