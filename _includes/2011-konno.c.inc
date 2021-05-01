@@ -1,0 +1,1 @@
+main(_,l)char**l;{6*putchar(--_%20?_+_/21&amp;56&gt;_?strchr(1[l],_^&quot;pt`u}rxf~c{wk~zyHHOJ]QULGQ[Z&quot;[_/2])?111:46:32:10)^_&amp;&amp;main(2+_,l);}
