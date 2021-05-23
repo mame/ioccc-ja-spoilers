@@ -1,0 +1,1 @@
+d=80,e,j;g(){j+=getchar();}main(a,b)char**b;{for(;;){j=0;g();if(j&lt;0)break;g(g());putchar(b[1][j/3*strlen(b[1])&gt;&gt;8]);if(!(++e%d))puts(&quot;&quot;);}}
