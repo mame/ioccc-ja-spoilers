@@ -1,0 +1,1 @@
+f(y,x){int m,z;for(m=z=1;m*m&lt;=y?z=y%m?z:m:x+1?z&lt;2?y&amp;&amp;f(x,0):f(z,x),putchar(x?10:32&lt;&lt;!y),y-=z*!!y:(f(z,y/z),0);)m++;}main(y){f(y-1,-1);}

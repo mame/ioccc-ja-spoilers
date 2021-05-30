@@ -205,7 +205,7 @@ $ ./endoh1 < column.txt
 
 作者自身によるデモ動画。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QMYfkOtYYlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html src="QMYfkOtYYlg" desc="作者によるデモ動画" %}
 
 ## 解説
 
