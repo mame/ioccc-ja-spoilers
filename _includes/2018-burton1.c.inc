@@ -1,0 +1,1 @@
+char O,o[];main(l){for(;~l;O||puts(o))O=(O[o]=~(l=getchar())?4&lt;(4^l&gt;&gt;5)?l:46:0)?-~O&amp;printf(&quot;%02x &quot;,l)*5:!O;}
