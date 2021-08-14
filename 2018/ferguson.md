@@ -11,7 +11,7 @@ award_ja: "イタチの言葉の最高の使い方"
 
 ## 動作
 
-[イタチ問題](https://en.wikipedia.org/wiki/Weasel_program)のプログラム。
+[イタチプログラム](https://en.wikipedia.org/wiki/Weasel_program)のプログラム。
 
 "METHINKS IT IS LIKE A WEASEL"という文字列になるまで突然変異を繰り返す。
 
@@ -229,10 +229,10 @@ Generation  733 Offspring 24: METHINKS IT IS LIKE A WEASEL
 
 ## 解説
 
-[イタチ問題](https://en.wikipedia.org/wiki/Weasel_program)とは、[リチャード・ドーキンス](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BB%E3%83%89%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B9)が著書[『盲目の時計職人』](https://ja.wikipedia.org/wiki/%E7%9B%B2%E7%9B%AE%E3%81%AE%E6%99%82%E8%A8%88%E8%81%B7%E4%BA%BA)で提唱した思考実験らしい。
+[イタチプログラム](https://en.wikipedia.org/wiki/Weasel_program)とは、[リチャード・ドーキンス](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BB%E3%83%89%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B9)が著書[『盲目の時計職人』](https://ja.wikipedia.org/wiki/%E7%9B%B2%E7%9B%AE%E3%81%AE%E6%99%82%E8%A8%88%E8%81%B7%E4%BA%BA)で提唱した思考実験らしい。
 背景には、「猿がタイプライターを無限に叩き続ければ、いつか必ず任意のテキスト（たとえばシェイクスピアの作品でも）を打ち出す」という[無限の猿定理](https://ja.wikipedia.org/wiki/%E7%84%A1%E9%99%90%E3%81%AE%E7%8C%BF%E5%AE%9A%E7%90%86)がある。
 シェイクスピアの全文を出すには、当然ものすごく長い時間がかかる。
-しかし、たとえば"Methinks it is like a weasel"という短い一文をターゲットとし、キーボードを大文字アルファベット26文字とスペースだけの制限されたものにすれば、もっと短い時間でできるのでは？というのがドーキンスのイタチ問題らしい。
+しかし、たとえば"Methinks it is like a weasel"という短い一文をターゲットとし、キーボードを大文字アルファベット26文字とスペースだけの制限されたものにすれば、もっと短い時間でできるのでは？というのがドーキンスのイタチプログラムらしい。
 ドーキンスは、単純にランダム探索するのではなく、突然変異の中からなるべくターゲットに近い文字列を残すことを繰り返すことで、現実的な時間でたどり着けることを示したとのこと（問題の本は[自然選択](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E9%81%B8%E6%8A%9E%E8%AA%AC)の本らしい）。
 
 hint.textは実に長大で、1000行以上ある。
