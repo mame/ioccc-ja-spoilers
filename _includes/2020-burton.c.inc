@@ -1,0 +1,1 @@
+int main(int b,char**i){long long n=B,a=I^n,r=(a/b&amp;a)&gt;&gt;4,y=atoi(*++i),_=(((a^n/b)*(y&gt;&gt;T)|y&gt;&gt;S)&amp;r)|(a^r);printf(&quot;%.8s\n&quot;,(char*)&amp;_);}
