@@ -78,7 +78,7 @@ $ ./theorem -r 0 0 0 0 < theorem.c > sorter.c
 
 $ gcc -o sorter sorter.c
 
-$ echo -e '2\n3\n1" | ./sorter 0 0 0 0
+$ echo -e "2\n3\n1" | ./sorter 0 0 0 0
 1
 2
 3

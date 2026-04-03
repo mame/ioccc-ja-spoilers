@@ -7,7 +7,7 @@ orig_url: "https://www.ioccc.org/1989/paul.c"
 hint_url: "https://github.com/ioccc-src/winner/blob/main/1989/paul.hint"
 title: "IOCCC 1989: Most complex algorithm"
 award_ja: "もっとも複雑なアルゴリズム"
-linewarp: true
+linewrap: true
 ---
 
 ## 動作

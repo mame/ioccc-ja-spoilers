@@ -36,7 +36,7 @@ $ ./brnstnd < sorta.i2+2
 コード中に次のような文字列が埋め込まれている（この文字列は命令のテーブルとして使われている）。
 ```
 "I'd love ta win: the most useful !$>%`/#<&*|^ _OBFUSCATED_ utility. Pleez?"
-````
+```
 
 このとおり、Most useful programを狙っていたらしい。
 審査員はこういうコンテストへの干渉は断固として受け入れず、代わりにBest of Showを与えたとのこと。

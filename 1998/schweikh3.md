@@ -26,7 +26,7 @@ $ ln file3 file4
 
 $ ls file? | ./schweikh3
 17672   file2   file1   =       1       1
-````
+```
 
 ## 解説
 

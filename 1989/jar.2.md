@@ -20,7 +20,7 @@ Lispインタプリタ。
 ```
 $ gcc -o jar.2 jar.2.c
 
-$ echo "(+ 1 1") | ./jar.2
+$ echo "(+ 1 1)" | ./jar.2
 
 $ cat fib.lisp
 (defun fib (n)

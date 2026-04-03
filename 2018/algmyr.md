@@ -59,7 +59,7 @@ Hello
 $ cat world.txt
 world
 
-$./prog hello.txt world.txt | sox -t raw -c 2 -r 44100 -L -e floating-point -b 32 - hello-world.wav
+$ ./prog hello.txt world.txt | sox -t raw -c 2 -r 44100 -L -e floating-point -b 32 - hello-world.wav
 
 $ sox hello-world.wav -n spectrogram -d 10 -X 300
 ```
