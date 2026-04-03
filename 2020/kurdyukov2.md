@@ -15,7 +15,7 @@ award_ja: "もっともざっくり"
 
 サンプルの入力画像。
 
-{% include img.html src="2020-kurdyukov2-1.jpg" desc="sample.jpg" cite="https://www.ioccc.org/2020/giles/pi.wav" %}
+{% include img.html src="2020-kurdyukov2-1.jpg" desc="sample.jpg" cite="https://www.ioccc.org/2020/kurdyukov2/index.html" %}
 
 ```
 $ cc -o prog prog.c -ljpeg

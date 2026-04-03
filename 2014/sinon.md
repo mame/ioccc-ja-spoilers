@@ -54,7 +54,7 @@ Glock 18C: ########################
 
 これでゲームスタートしている。
 `('A')`みたいなのが敵。
-Timeは残り時間、[Hecate II](https://ja.wikipedia.org/wiki/PGM_%E3%83%98%E3%82%AB%E3%83%BC%E3%83%88II)と[Glock 18C](run.cをコンパイル・実行し、その出力をrun.cに破壊的にかき戻す://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AD%E3%83%83%E3%82%AF17)はそれぞれの銃の残弾数を表す。
+Timeは残り時間、[Hecate II](https://ja.wikipedia.org/wiki/PGM_%E3%83%98%E3%82%AB%E3%83%BC%E3%83%88II)と[Glock 18C](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AD%E3%83%83%E3%82%AF18)はそれぞれの銃の残弾数を表す。
 
 run.cをコンパイル・実行すると、Glock 18Cを撃って、敵が少し減る。
 
