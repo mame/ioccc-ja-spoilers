@@ -4,7 +4,7 @@ year: 2005
 order: 4
 authors: "V._Chia"
 orig_url: "https://www.ioccc.org/2005/chia/chia.c"
-hint_url: "https://www.ioccc.org/2005/chia/hint.text"
+hint_url: "https://www.ioccc.org/2005/chia/index.html"
 title: "IOCCC 2005: Most ambiguous language"
 award_ja: "もっとも曖昧な言語"
 ---

@@ -4,8 +4,8 @@ year: 1993
 order: 11
 patch: true
 authors: "James_Bonfield"
-orig_url: "https://www.ioccc.org/1993/rince.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1993/rince.hint"
+orig_url: "https://www.ioccc.org/1993/rince/rince.orig.c"
+hint_url: "https://www.ioccc.org/1993/rince/index.html"
 title: "IOCCC 1993: Most Well Rounded"
 award_ja: "もっともよく練り上げられている"
 ---

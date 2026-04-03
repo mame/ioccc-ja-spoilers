@@ -4,8 +4,8 @@ year: 2004
 order: 13
 patch: true
 authors: "Daniel_Vik"
-orig_url: "https://www.ioccc.org/2004/vik1.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/vik1.hint"
+orig_url: "https://www.ioccc.org/2004/vik1/vik1.orig.c"
+hint_url: "https://www.ioccc.org/2004/vik1/index.html"
 title: "IOCCC 2004: Best X11 Game"
 award_ja: "最高のX11ゲーム"
 ---

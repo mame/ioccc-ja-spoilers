@@ -4,8 +4,8 @@ year: 1996
 order: 2
 patch: true
 authors: "Thor_Eldby"
-orig_url: "https://www.ioccc.org/1996/eldby.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1996/eldby.hint"
+orig_url: "https://www.ioccc.org/1996/eldby/eldby.orig.c"
+hint_url: "https://www.ioccc.org/1996/eldby/index.html"
 title: "IOCCC 1996: Best Output"
 award_ja: "最高の出力"
 ---

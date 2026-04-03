@@ -3,8 +3,8 @@ id: 1998/df
 year: 1998
 order: 4
 authors: "Daniel_Fischer"
-orig_url: "https://www.ioccc.org/1998/df.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/df.hint"
+orig_url: "https://www.ioccc.org/1998/df/df.orig.c"
+hint_url: "https://www.ioccc.org/1998/df/index.html"
 title: "IOCCC 1998: Best Data Hiding"
 award_ja: "最高のデータ隠蔽"
 ---

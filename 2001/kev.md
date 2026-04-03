@@ -3,8 +3,8 @@ id: 2001/kev
 year: 2001
 order: 9
 authors: "Kevin_Pulo"
-orig_url: "https://www.ioccc.org/2001/kev.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/kev.hint"
+orig_url: "https://www.ioccc.org/2001/kev/kev.orig.c"
+hint_url: "https://www.ioccc.org/2001/kev/index.html"
 title: "IOCCC 2001: Best Curses Game"
 award_ja: "最高のcursesゲーム"
 ---

@@ -3,8 +3,8 @@ id: 1990/stig
 year: 1990
 order: 8
 authors: "Stig_Hemmer"
-orig_url: "https://www.ioccc.org/1990/stig.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1990/stig.hint"
+orig_url: "https://www.ioccc.org/1990/stig/stig.orig.c"
+hint_url: "https://www.ioccc.org/1990/stig/index.html"
 title: "IOCCC 1990: Strangest Abuse of the Rules"
 award_ja: "もっとも奇妙なルール悪用"
 ---

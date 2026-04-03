@@ -3,8 +3,8 @@ id: 1988/litmaath
 year: 1988
 order: 3
 authors: "Maarten_Litmaath"
-orig_url: "https://www.ioccc.org/1988/litmaath.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1988/litmaath.hint"
+orig_url: "https://www.ioccc.org/1988/litmaath/litmaath.orig.c"
+hint_url: "https://www.ioccc.org/1988/litmaath/index.html"
 title: "IOCCC 1988: Best small program"
 award_ja: "最高の小さいプログラム"
 ---

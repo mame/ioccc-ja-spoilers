@@ -3,8 +3,8 @@ id: 2001/cheong
 year: 2001
 order: 3
 authors: "Raymond_Cheong"
-orig_url: "https://www.ioccc.org/2001/cheong.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/cheong.hint"
+orig_url: "https://www.ioccc.org/2001/cheong/cheong.orig.c"
+hint_url: "https://www.ioccc.org/2001/cheong/index.html"
 title: "IOCCC 2001: Best short program"
 award_ja: "最高のショートプログラム"
 ---

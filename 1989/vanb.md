@@ -3,8 +3,8 @@ id: 1989/vanb
 year: 1989
 order: 8
 authors: "David_Van_Brackle"
-orig_url: "https://www.ioccc.org/1989/vanb.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1989/vanb.hint"
+orig_url: "https://www.ioccc.org/1989/vanb/vanb.orig.c"
+hint_url: "https://www.ioccc.org/1989/vanb/index.html"
 title: "IOCCC 1989: Best one liner"
 award_ja: "最高のワンライナー"
 ---

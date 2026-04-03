@@ -3,8 +3,8 @@ id: 2000/dhyang
 year: 2000
 order: 5
 authors: "Don_Yang"
-orig_url: "https://www.ioccc.org/2000/dhyang.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/dhyang.hint"
+orig_url: "https://www.ioccc.org/2000/dhyang/dhyang.orig.c"
+hint_url: "https://www.ioccc.org/2000/dhyang/index.html"
 title: "IOCCC 2000: Best Layout"
 award_ja: "最高のレイアウト"
 ---

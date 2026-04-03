@@ -4,7 +4,7 @@ year: 2011
 order: 10
 authors: "Gregor_Richards"
 orig_url: "https://www.ioccc.org/2011/richards/richards.c"
-hint_url: "https://www.ioccc.org/2011/richards/hint.html"
+hint_url: "https://www.ioccc.org/2011/richards/index.html"
 title: "IOCCC 2011: Most surprisingly portable"
 award_ja: "もっとも驚くほどポータブル"
 ---

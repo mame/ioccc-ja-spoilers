@@ -4,7 +4,7 @@ year: 2018
 order: 7
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2018/endoh1/prog.c"
-hint_url: "https://www.ioccc.org/2018/endoh1/hint.html"
+hint_url: "https://www.ioccc.org/2018/endoh1/index.html"
 title: "IOCCC 2018: Best tool to reveal holes"
 award_ja: "穴を明らかにする最高のツール"
 ---

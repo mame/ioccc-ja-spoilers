@@ -4,7 +4,7 @@ year: 2005
 order: 11
 authors: "Arne_Timwi_Heizmann"
 orig_url: "https://www.ioccc.org/2005/timwi/timwi.c"
-hint_url: "https://www.ioccc.org/2005/timwi/hint.text"
+hint_url: "https://www.ioccc.org/2005/timwi/index.html"
 title: "IOCCC 2005: Most discourteous interpreter"
 award_ja: "もっとも失礼なインタプリタ"
 ---

@@ -5,8 +5,8 @@ order: 4
 authors:
   - "Moxen_N._Briddlebane"
   - "Lord_Zarbon"
-orig_url: "https://www.ioccc.org/2000/briddlebane.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/briddlebane.hint"
+orig_url: "https://www.ioccc.org/2000/briddlebane/briddlebane.orig.c"
+hint_url: "https://www.ioccc.org/2000/briddlebane/index.html"
 title: "IOCCC 2000: Best Abuse of User"
 award_ja: "ユーザに対する最高の悪口"
 ---

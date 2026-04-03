@@ -3,8 +3,8 @@ id: 1992/westley
 year: 1992
 order: 12
 authors: "Brian_Westley"
-orig_url: "https://www.ioccc.org/1992/westley.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/westley.hint"
+orig_url: "https://www.ioccc.org/1992/westley/westley.orig.c"
+hint_url: "https://www.ioccc.org/1992/westley/index.html"
 title: "IOCCC 1992: Best Small Program"
 award_ja: "最高の小さいプログラム"
 ---

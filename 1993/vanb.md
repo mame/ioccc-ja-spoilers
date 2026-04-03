@@ -3,8 +3,8 @@ id: 1993/vanb
 year: 1993
 order: 10
 authors: "David_Van_Brackle"
-orig_url: "https://www.ioccc.org/1993/vanb.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1993/vanb.hint"
+orig_url: "https://www.ioccc.org/1993/vanb/vanb.orig.c"
+hint_url: "https://www.ioccc.org/1993/vanb/index.html"
 title: "IOCCC 1993: Most Irregular Expression"
 award_ja: "最も非正規な表現"
 ---

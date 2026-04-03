@@ -3,8 +3,8 @@ id: 1988/applin
 year: 1988
 order: 9
 authors: "Jack_Applin"
-orig_url: "https://www.ioccc.org/1988/applin.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1988/applin.hint"
+orig_url: "https://www.ioccc.org/1988/applin/applin.orig.c"
+hint_url: "https://www.ioccc.org/1988/applin/index.html"
 title: "IOCCC 1988: Best of show"
 award_ja: "最優秀賞"
 ---

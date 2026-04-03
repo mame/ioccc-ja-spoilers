@@ -4,7 +4,7 @@ year: 2012
 order: 14
 authors: "Adar_Zeitak"
 orig_url: "https://www.ioccc.org/2012/zeitak/zeitak.c"
-hint_url: "https://www.ioccc.org/2012/zeitak/hint.html"
+hint_url: "https://www.ioccc.org/2012/zeitak/index.html"
 title: "IOCCC 2012: Balanced use of obfuscation - Gold award"
 award_ja: "バランスの良い難読化の使い方 - 金賞"
 tabsize: 4

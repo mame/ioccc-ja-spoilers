@@ -4,7 +4,7 @@ year: 2005
 order: 2
 authors: "Anonymous_2005"
 orig_url: "https://www.ioccc.org/2005/anon/anon.c"
-hint_url: "https://www.ioccc.org/2005/anon/hint.text"
+hint_url: "https://www.ioccc.org/2005/anon/index.html"
 title: "IOCCC 2005: Best 3D puzzle"
 award_ja: "最高の3Dパズル"
 ---

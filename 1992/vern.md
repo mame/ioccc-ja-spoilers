@@ -3,8 +3,8 @@ id: 1992/vern
 year: 1992
 order: 13
 authors: "Vern_Paxson"
-orig_url: "https://www.ioccc.org/1992/vern.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/vern.hint"
+orig_url: "https://www.ioccc.org/1992/vern/vern.orig.c"
+hint_url: "https://www.ioccc.org/1992/vern/index.html"
 title: "IOCCC 1992: Best of Show"
 award_ja: "最優秀賞"
 ---

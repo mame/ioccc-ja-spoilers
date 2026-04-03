@@ -3,8 +3,8 @@ id: 1993/lmfjyh
 year: 1993
 order: 7
 authors: "Jyrki_Holopainen"
-orig_url: "https://www.ioccc.org/1993/lmfjyh.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1993/lmfjyh.hint"
+orig_url: "https://www.ioccc.org/1993/lmfjyh/lmfjyh.orig.c"
+hint_url: "https://www.ioccc.org/1993/lmfjyh/index.html"
 title: "IOCCC 1993: Most Versatile Source"
 award_ja: "もっとも多用途なソース"
 ---

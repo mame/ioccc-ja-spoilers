@@ -4,7 +4,7 @@ year: 2015
 order: 6
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2015/endoh3/prog.c"
-hint_url: "https://www.ioccc.org/2015/endoh3/hint.html"
+hint_url: "https://www.ioccc.org/2015/endoh3/index.html"
 title: "IOCCC 2015: Back to the Future Award"
 award_ja: "バック・トゥ・ザ・フューチャー賞"
 ---

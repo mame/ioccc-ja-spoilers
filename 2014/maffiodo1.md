@@ -4,7 +4,7 @@ year: 2014
 order: 5
 authors: "Sandro_Maffiodo"
 orig_url: "https://www.ioccc.org/2014/maffiodo1/prog.c"
-hint_url: "https://www.ioccc.org/2014/maffiodo1/hint.html"
+hint_url: "https://www.ioccc.org/2014/maffiodo1/index.html"
 title: "IOCCC 2014: Homage to a classic game"
 award_ja: "クラシックゲームへのオマージュ"
 tabsize: 4

@@ -3,8 +3,8 @@ id: 1990/scjones
 year: 1990
 order: 7
 authors: "Larry_Jones"
-orig_url: "https://www.ioccc.org/1990/scjones.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1990/scjones.hint"
+orig_url: "https://www.ioccc.org/1990/scjones/scjones.orig.c"
+hint_url: "https://www.ioccc.org/1990/scjones/index.html"
 title: "IOCCC 1990: ANSI Committee's Worst Abuse of C"
 award_ja: "ANSI委員会のCの最悪の悪用"
 ---

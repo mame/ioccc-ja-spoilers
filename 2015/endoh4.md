@@ -4,7 +4,7 @@ year: 2015
 order: 7
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2015/endoh4/prog.c"
-hint_url: "https://www.ioccc.org/2015/endoh4/hint.html"
+hint_url: "https://www.ioccc.org/2015/endoh4/index.html"
 title: "IOCCC 2015: Best One-liner"
 award_ja: "最高のワンライナー"
 ---

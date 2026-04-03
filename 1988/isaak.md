@@ -4,8 +4,8 @@ year: 1988
 order: 2
 patch: true
 authors: "Mark_Isaak"
-orig_url: "https://www.ioccc.org/1988/isaak.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1988/isaak.hint"
+orig_url: "https://www.ioccc.org/1988/isaak/isaak.orig.c"
+hint_url: "https://www.ioccc.org/1988/isaak/index.html"
 title: "IOCCC 1988: Best visuals"
 award_ja: "最高の見た目"
 ---

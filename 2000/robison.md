@@ -3,8 +3,8 @@ id: 2000/robison
 year: 2000
 order: 10
 authors: "Arch_D_Robison"
-orig_url: "https://www.ioccc.org/2000/robison.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/robison.hint"
+orig_url: "https://www.ioccc.org/2000/robison/robison.orig.c"
+hint_url: "https://www.ioccc.org/2000/robison/index.html"
 title: "IOCCC 2000: Best game"
 award_ja: "最高のゲーム"
 ---

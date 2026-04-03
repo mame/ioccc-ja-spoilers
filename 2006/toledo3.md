@@ -5,7 +5,7 @@ order: 13
 patch: true
 authors: "Oscar_Toledo_G."
 orig_url: "https://www.ioccc.org/2006/toledo3/toledo3.c"
-hint_url: "https://www.ioccc.org/2006/toledo3/hint.text"
+hint_url: "https://www.ioccc.org/2006/toledo3/index.html"
 title: "IOCCC 2006: Most Portable Chess Set"
 award_ja: "もっともポータブルなチェスセット"
 ---

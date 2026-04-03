@@ -3,8 +3,8 @@ id: 1994/imc
 year: 1994
 order: 4
 authors: "Ian_Collier"
-orig_url: "https://www.ioccc.org/1994/imc.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1994/imc.hint"
+orig_url: "https://www.ioccc.org/1994/imc/imc.orig.c"
+hint_url: "https://www.ioccc.org/1994/imc/index.html"
 title: "IOCCC 1994: Most Obfuscated Algorithm"
 award_ja: "もっとも難読化されたアルゴリズム"
 ---

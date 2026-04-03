@@ -3,8 +3,8 @@ id: 1996/jonth
 year: 1996
 order: 5
 authors: "Jon_Thingvold"
-orig_url: "https://www.ioccc.org/1996/jonth.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1996/jonth.hint"
+orig_url: "https://www.ioccc.org/1996/jonth/jonth.orig.c"
+hint_url: "https://www.ioccc.org/1996/jonth/index.html"
 title: "IOCCC 1996: Best X11 Entry"
 award_ja: "最高のX11作品"
 ---

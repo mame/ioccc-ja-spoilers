@@ -3,8 +3,8 @@ id: 2004/kopczynski
 year: 2004
 order: 8
 authors: "Eryk_Kopczynski"
-orig_url: "https://www.ioccc.org/2004/kopczynski.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/kopczynski.hint"
+orig_url: "https://www.ioccc.org/2004/kopczynski/kopczynski.orig.c"
+hint_url: "https://www.ioccc.org/2004/kopczynski/index.html"
 title: "IOCCC 2004: Best one-liner"
 award_ja: "最高のワンライナー"
 ---

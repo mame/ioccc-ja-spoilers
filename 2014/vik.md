@@ -4,7 +4,7 @@ year: 2014
 order: 10
 authors: "Daniel_Vik"
 orig_url: "https://www.ioccc.org/2014/vik/prog.c"
-hint_url: "https://www.ioccc.org/2014/vik/hint.html"
+hint_url: "https://www.ioccc.org/2014/vik/index.html"
 title: "IOCCC 2014: Best handling of beeps"
 award_ja: "ビープの最高の扱い方"
 ---

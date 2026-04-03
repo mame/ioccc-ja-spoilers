@@ -5,8 +5,8 @@ order: 6
 authors:
   - "J_David_Lowe"
   - "Neil_Mix"
-orig_url: "https://www.ioccc.org/1998/dloweneil.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/dloweneil.hint"
+orig_url: "https://www.ioccc.org/1998/dloweneil/dloweneil.orig.c"
+hint_url: "https://www.ioccc.org/1998/dloweneil/index.html"
 title: "IOCCC 1998: Most Fun"
 award_ja: "もっとも楽しい"
 ---

@@ -5,7 +5,7 @@ order: 6
 patch: true
 authors: "Brian_Westley"
 orig_url: "https://www.ioccc.org/1987/westley/westley.c"
-hint_url: "https://www.ioccc.org/1987/westley/hint.html"
+hint_url: "https://www.ioccc.org/1987/westley/index.html"
 title: "IOCCC 1987: Best Layout"
 award_ja: "最高のレイアウト"
 ---

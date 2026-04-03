@@ -4,7 +4,7 @@ year: 2015
 order: 3
 authors: "Etienne_Duble"
 orig_url: "https://www.ioccc.org/2015/duble/prog.c"
-hint_url: "https://www.ioccc.org/2015/duble/hint.html"
+hint_url: "https://www.ioccc.org/2015/duble/index.html"
 title: "IOCCC 2015: Best Handwriting"
 award_ja: "最高の手書き"
 ---

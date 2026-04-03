@@ -4,7 +4,7 @@ year: 2005
 order: 9
 authors: "Anthony_C._Howe"
 orig_url: "https://www.ioccc.org/2005/mynx/mynx.c"
-hint_url: "https://www.ioccc.org/2005/mynx/hint.text"
+hint_url: "https://www.ioccc.org/2005/mynx/index.html"
 title: "IOCCC 2005: Best use of the www"
 award_ja: "wwwの最高の使い方"
 ---

@@ -3,8 +3,8 @@ id: 1998/bas1
 year: 1998
 order: 1
 authors: "Bas_de_Bakker"
-orig_url: "https://www.ioccc.org/1998/bas1.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/bas1.hint"
+orig_url: "https://www.ioccc.org/1998/bas1/bas1.orig.c"
+hint_url: "https://www.ioccc.org/1998/bas1/index.html"
 title: "IOCCC 1998: Best Encapsulation"
 award_ja: "最高のカプセル化"
 ---

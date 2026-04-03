@@ -3,8 +3,8 @@ id: 2004/omoikane
 year: 2004
 order: 10
 authors: "Don_Yang"
-orig_url: "https://www.ioccc.org/2004/omoikane.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/omoikane.hint"
+orig_url: "https://www.ioccc.org/2004/omoikane/omoikane.orig.c"
+hint_url: "https://www.ioccc.org/2004/omoikane/index.html"
 title: "IOCCC 2004: Best Utility"
 award_ja: "最高のユーティリティ"
 ---

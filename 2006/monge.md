@@ -4,7 +4,7 @@ year: 2006
 order: 6
 authors: "Maurizio_Monge"
 orig_url: "https://www.ioccc.org/2006/monge/monge.c"
-hint_url: "https://www.ioccc.org/2006/monge/hint.text"
+hint_url: "https://www.ioccc.org/2006/monge/index.html"
 title: "IOCCC 2006: Best Compiled Graphics"
 award_ja: "最高のコンパイルされたグラフィックス"
 ---

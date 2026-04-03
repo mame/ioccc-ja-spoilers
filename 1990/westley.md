@@ -4,8 +4,8 @@ year: 1990
 order: 10
 patch: true
 authors: "Brian_Westley"
-orig_url: "https://www.ioccc.org/1990/westley.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1990/westley.hint"
+orig_url: "https://www.ioccc.org/1990/westley/westley.orig.c"
+hint_url: "https://www.ioccc.org/1990/westley/index.html"
 title: "IOCCC 1990: Best Layout"
 award_ja: "最高のレイアウト"
 ---

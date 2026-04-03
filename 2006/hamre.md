@@ -4,7 +4,7 @@ year: 2006
 order: 4
 authors: "Steinar_Hamre"
 orig_url: "https://www.ioccc.org/2006/hamre/hamre.c"
-hint_url: "https://www.ioccc.org/2006/hamre/hint.text"
+hint_url: "https://www.ioccc.org/2006/hamre/index.html"
 title: "IOCCC 2006: Most Irrational"
 award_ja: "もっとも不合理"
 ---

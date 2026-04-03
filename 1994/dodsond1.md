@@ -3,8 +3,8 @@ id: 1994/dodsond1
 year: 1994
 order: 1
 authors: "Don_Dodson"
-orig_url: "https://www.ioccc.org/1994/dodsond1.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1994/dodsond1.hint"
+orig_url: "https://www.ioccc.org/1994/dodsond1/dodsond1.orig.c"
+hint_url: "https://www.ioccc.org/1994/dodsond1/index.html"
 title: "IOCCC 1994: Best Game"
 award_ja: "最高のゲーム"
 ---

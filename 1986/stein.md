@@ -4,7 +4,7 @@ year: 1986
 order: 8
 authors: "Jan_Stein"
 orig_url: "https://www.ioccc.org/1986/stein/stein.c"
-hint_url: "https://www.ioccc.org/1986/stein/hint.html"
+hint_url: "https://www.ioccc.org/1986/stein/index.html"
 title: "IOCCC 1986: Best one liner"
 award_ja: "最高のワンライナー"
 ---

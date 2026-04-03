@@ -5,7 +5,7 @@ order: 14
 patch: true
 authors: "Oscar_Toledo_G."
 orig_url: "https://www.ioccc.org/2006/toledo2/toledo2.c"
-hint_url: "https://www.ioccc.org/2006/toledo2/hint.text"
+hint_url: "https://www.ioccc.org/2006/toledo2/index.html"
 title: "IOCCC 2006: Best of Show"
 award_ja: "最優秀賞"
 ---

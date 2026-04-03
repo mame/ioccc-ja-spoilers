@@ -4,7 +4,7 @@ year: 2014
 order: 6
 authors: "Sandro_Maffiodo"
 orig_url: "https://www.ioccc.org/2014/maffiodo2/prog.c"
-hint_url: "https://www.ioccc.org/2014/maffiodo2/hint.html"
+hint_url: "https://www.ioccc.org/2014/maffiodo2/index.html"
 title: "IOCCC 2014: Most tweetable entry"
 award_ja: "もっともツイート可能な作品"
 ---

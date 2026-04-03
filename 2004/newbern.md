@@ -3,8 +3,8 @@ id: 2004/newbern
 year: 2004
 order: 9
 authors: "Jeff_Newbern"
-orig_url: "https://www.ioccc.org/2004/newbern.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/newbern.hint"
+orig_url: "https://www.ioccc.org/2004/newbern/newbern.orig.c"
+hint_url: "https://www.ioccc.org/2004/newbern/index.html"
 title: "IOCCC 2004: Best Font Engine"
 award_ja: "最高のフォントエンジン"
 ---

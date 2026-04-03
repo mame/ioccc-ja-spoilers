@@ -6,7 +6,7 @@ authors:
   - "Anonymous_2015"
   - "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2015/endoh1/prog.c"
-hint_url: "https://www.ioccc.org/2015/endoh1/hint.html"
+hint_url: "https://www.ioccc.org/2015/endoh1/index.html"
 title: "IOCCC 2015: Most Diffused Reaction"
 award_ja: "もっとも拡散した反応"
 ---

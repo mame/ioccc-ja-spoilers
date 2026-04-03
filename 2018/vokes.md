@@ -4,7 +4,7 @@ year: 2018
 order: 13
 authors: "Scott_Vokes"
 orig_url: "https://www.ioccc.org/2018/vokes/prog.c"
-hint_url: "https://www.ioccc.org/2018/vokes/hint.html"
+hint_url: "https://www.ioccc.org/2018/vokes/index.html"
 title: "IOCCC 2018: Most connected"
 award_ja: "もっとも接続されている"
 ---

@@ -4,8 +4,8 @@ year: 2001
 order: 5
 patch: true
 authors: "Chris_King"
-orig_url: "https://www.ioccc.org/2001/ctk.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/ctk.hint"
+orig_url: "https://www.ioccc.org/2001/ctk/ctk.orig.c"
+hint_url: "https://www.ioccc.org/2001/ctk/index.html"
 title: "IOCCC 2001: Worst Driver"
 award_ja: "最悪なドライバー"
 ---

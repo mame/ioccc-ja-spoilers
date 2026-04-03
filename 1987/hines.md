@@ -5,7 +5,7 @@ order: 3
 patch: true
 authors: "Spencer_Hines"
 orig_url: "https://www.ioccc.org/1987/hines/hines.c"
-hint_url: "https://www.ioccc.org/1987/hines/hint.html"
+hint_url: "https://www.ioccc.org/1987/hines/index.html"
 title: "IOCCC 1987: Worst Style"
 award_ja: "最悪のスタイル"
 ---

@@ -3,8 +3,8 @@ id: 1988/reddy
 year: 1988
 order: 5
 authors: "Gopi_Reddy"
-orig_url: "https://www.ioccc.org/1988/reddy.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1988/reddy.hint"
+orig_url: "https://www.ioccc.org/1988/reddy/reddy.orig.c"
+hint_url: "https://www.ioccc.org/1988/reddy/index.html"
 title: "IOCCC 1988: Most useful Obfuscated C program"
 award_ja: "もっとも便利な難読化Cプログラム"
 linewrap: true

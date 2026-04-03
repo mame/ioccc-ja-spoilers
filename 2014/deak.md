@@ -4,7 +4,7 @@ year: 2014
 order: 2
 authors: "Ferenc_Deak"
 orig_url: "https://www.ioccc.org/2014/deak/prog.c"
-hint_url: "https://www.ioccc.org/2014/deak/hint.html"
+hint_url: "https://www.ioccc.org/2014/deak/index.html"
 title: "IOCCC 2014: Most underscored argument"
 award_ja: "もっともアンダースコアな引数"
 ---

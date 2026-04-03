@@ -7,8 +7,8 @@ authors:
   - "John_Tromp"
   - "Freek_Wiedijk"
 file: 1989/tromp.bsd
-orig_url: "https://www.ioccc.org/1989/tromp.bsd.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1989/tromp.bsd.hint"
+orig_url: "https://www.ioccc.org/1989/tromp/tromp.orig.c"
+hint_url: "https://www.ioccc.org/1989/tromp/index.html"
 title: "IOCCC 1989: Best game"
 award_ja: "最高のゲーム"
 ---

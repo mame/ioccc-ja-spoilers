@@ -4,7 +4,7 @@ year: 2018
 order: 10
 authors: "Edward_Giles"
 orig_url: "https://www.ioccc.org/2018/giles/prog.c"
-hint_url: "https://www.ioccc.org/2018/giles/hint.html"
+hint_url: "https://www.ioccc.org/2018/giles/index.html"
 title: "IOCCC 2018: Most unstable"
 award_ja: "もっとも不安定"
 ---

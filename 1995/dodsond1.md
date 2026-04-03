@@ -3,8 +3,8 @@ id: 1995/dodsond1
 year: 1995
 order: 2
 authors: "Don_Dodson"
-orig_url: "https://www.ioccc.org/1995/dodsond1.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1995/dodsond1.hint"
+orig_url: "https://www.ioccc.org/1995/dodsond1/dodsond1.orig.c"
+hint_url: "https://www.ioccc.org/1995/dodsond1/index.html"
 title: "IOCCC 1995: Most Humorous"
 award_ja: "もっともユーモラス"
 ---

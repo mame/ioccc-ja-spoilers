@@ -4,7 +4,7 @@ year: 2012
 order: 12
 authors: "Daniel_Vik"
 orig_url: "https://www.ioccc.org/2012/vik/vik.c"
-hint_url: "https://www.ioccc.org/2012/vik/hint.html"
+hint_url: "https://www.ioccc.org/2012/vik/index.html"
 title: "IOCCC 2012: Best use of cocoa - Bronze award"
 award_ja: "ココアの最高の使い方 - 銅賞"
 ---

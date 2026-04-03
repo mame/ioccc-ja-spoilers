@@ -4,7 +4,7 @@ year: 2018
 order: 2
 authors: "Derek_Anderson"
 orig_url: "https://www.ioccc.org/2018/anderson/prog.c"
-hint_url: "https://www.ioccc.org/2018/anderson/hint.html"
+hint_url: "https://www.ioccc.org/2018/anderson/index.html"
 title: "IOCCC 2018: Most able to divine code gaps"
 award_ja: "もっともコードの隙間を言い当てられる"
 ---

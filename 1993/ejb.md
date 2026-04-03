@@ -3,8 +3,8 @@ id: 1993/ejb
 year: 1993
 order: 4
 authors: "E._Jay_Berkenbilt"
-orig_url: "https://www.ioccc.org/1993/ejb.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1993/ejb.hint"
+orig_url: "https://www.ioccc.org/1993/ejb/ejb.orig.c"
+hint_url: "https://www.ioccc.org/1993/ejb/index.html"
 title: "IOCCC 1993: Best Obfuscated Algorithm"
 award_ja: "最高の難読化アルゴリズム"
 ---

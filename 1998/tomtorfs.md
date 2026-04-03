@@ -3,8 +3,8 @@ id: 1998/tomtorfs
 year: 1998
 order: 13
 authors: "Tom_Torfs"
-orig_url: "https://www.ioccc.org/1998/tomtorfs.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/tomtorfs.hint"
+orig_url: "https://www.ioccc.org/1998/tomtorfs/tomtorfs.orig.c"
+hint_url: "https://www.ioccc.org/1998/tomtorfs/index.html"
 title: "IOCCC 1998: Best Self-Documenting"
 award_ja: "最高の自己説明"
 ---

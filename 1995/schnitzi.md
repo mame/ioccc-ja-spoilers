@@ -3,8 +3,8 @@ id: 1995/schnitzi
 year: 1995
 order: 10
 authors: "Mark_Schnitzius"
-orig_url: "https://www.ioccc.org/1995/schnitzi.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1995/schnitzi.hint"
+orig_url: "https://www.ioccc.org/1995/schnitzi/schnitzi.orig.c"
+hint_url: "https://www.ioccc.org/1995/schnitzi/index.html"
 title: "IOCCC 1995: Best One Liner"
 award_ja: "最高のワンライナー"
 ---

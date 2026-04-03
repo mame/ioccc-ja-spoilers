@@ -4,8 +4,8 @@ year: 1993
 order: 5
 patch: true
 authors: "Jon_Thingvold"
-orig_url: "https://www.ioccc.org/1993/jonth.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1993/jonth.hint"
+orig_url: "https://www.ioccc.org/1993/jonth/jonth.orig.c"
+hint_url: "https://www.ioccc.org/1993/jonth/index.html"
 title: "IOCCC 1993: Most Obfuscated X Program"
 award_ja: "もっとも難読化されたXプログラム"
 ---

@@ -4,8 +4,8 @@ year: 1992
 order: 10
 patch: true
 authors: "Andrea_Marangoni"
-orig_url: "https://www.ioccc.org/1992/marangon.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/marangon.hint"
+orig_url: "https://www.ioccc.org/1992/marangon/marangon.orig.c"
+hint_url: "https://www.ioccc.org/1992/marangon/index.html"
 title: "IOCCC 1992: Best Game"
 award_ja: "最高のゲーム"
 linewrap: true

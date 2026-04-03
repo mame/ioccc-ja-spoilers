@@ -3,8 +3,8 @@ id: 1991/rince
 year: 1991
 order: 6
 authors: "James_Bonfield"
-orig_url: "https://www.ioccc.org/1991/rince.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1991/rince.hint"
+orig_url: "https://www.ioccc.org/1991/rince/rince.orig.c"
+hint_url: "https://www.ioccc.org/1991/rince/index.html"
 title: "IOCCC 1991: Best Game"
 award_ja: "最高のゲーム"
 linewrap: true

@@ -3,8 +3,8 @@ id: 1992/albert
 year: 1992
 order: 2
 authors: "Albert_van_der_Horst"
-orig_url: "https://www.ioccc.org/1992/albert.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/albert.hint"
+orig_url: "https://www.ioccc.org/1992/albert/albert.orig.c"
+hint_url: "https://www.ioccc.org/1992/albert/index.html"
 title: "IOCCC 1992: Most Useful Program"
 award_ja: "もっとも便利なプログラム"
 ---

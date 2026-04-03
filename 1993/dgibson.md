@@ -3,8 +3,8 @@ id: 1993/dgibson
 year: 1993
 order: 3
 authors: "David_Gibson"
-orig_url: "https://www.ioccc.org/1993/dgibson.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1993/dgibson.hint"
+orig_url: "https://www.ioccc.org/1993/dgibson/dgibson.orig.c"
+hint_url: "https://www.ioccc.org/1993/dgibson/index.html"
 title: "IOCCC 1993: Best Abuse of the C Preprocessor"
 award_ja: "Cプリプロセッサの最高の悪用"
 ---

@@ -4,8 +4,8 @@ year: 1990
 order: 3
 patch: true
 authors: "Diomidis_Spinellis"
-orig_url: "https://www.ioccc.org/1990/dds.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1990/dds.hint"
+orig_url: "https://www.ioccc.org/1990/dds/dds.orig.c"
+hint_url: "https://www.ioccc.org/1990/dds/index.html"
 title: "IOCCC 1990: Best Language Tool"
 award_ja: "最高の言語ツール"
 ---

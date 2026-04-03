@@ -4,7 +4,7 @@ year: 2015
 order: 2
 authors: "Gil_Dogon"
 orig_url: "https://www.ioccc.org/2015/dogon/prog.c"
-hint_url: "https://www.ioccc.org/2015/dogon/hint.html"
+hint_url: "https://www.ioccc.org/2015/dogon/index.html"
 title: "IOCCC 2015: Most Crafty"
 award_ja: "もっとも狡猾"
 ---

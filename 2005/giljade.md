@@ -4,7 +4,7 @@ year: 2005
 order: 5
 authors: "Gil_Dogon"
 orig_url: "https://www.ioccc.org/2005/giljade/giljade.c"
-hint_url: "https://www.ioccc.org/2005/giljade/hint.text"
+hint_url: "https://www.ioccc.org/2005/giljade/index.html"
 title: "IOCCC 2005: Best 2D puzzle"
 award_ja: "最高の2Dパズル"
 ---

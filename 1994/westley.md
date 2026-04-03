@@ -3,8 +3,8 @@ id: 1994/westley
 year: 1994
 order: 10
 authors: "Brian_Westley"
-orig_url: "https://www.ioccc.org/1994/westley.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1994/westley.hint"
+orig_url: "https://www.ioccc.org/1994/westley/westley.orig.c"
+hint_url: "https://www.ioccc.org/1994/westley/index.html"
 title: "IOCCC 1994: Worst Abuse of the C Preprocessor"
 award_ja: "Cプリプロセッサの最悪の悪用"
 ---

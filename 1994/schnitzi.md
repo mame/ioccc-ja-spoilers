@@ -3,8 +3,8 @@ id: 1994/schnitzi
 year: 1994
 order: 6
 authors: "Mark_Schnitzius"
-orig_url: "https://www.ioccc.org/1994/schnitzi.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1994/schnitzi.hint"
+orig_url: "https://www.ioccc.org/1994/schnitzi/schnitzi.orig.c"
+hint_url: "https://www.ioccc.org/1994/schnitzi/index.html"
 title: "IOCCC 1994: Best Layout"
 award_ja: "最高のレイアウト"
 ---

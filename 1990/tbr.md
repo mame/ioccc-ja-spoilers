@@ -6,8 +6,8 @@ patch: true
 authors:
   - "Byron_Rakitzis"
   - "Sean_Dorward"
-orig_url: "https://www.ioccc.org/1990/tbr.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1990/tbr.hint"
+orig_url: "https://www.ioccc.org/1990/tbr/tbr.orig.c"
+hint_url: "https://www.ioccc.org/1990/tbr/index.html"
 title: "IOCCC 1990: Best Utility"
 award_ja: "最高のユーティリティ"
 ---

@@ -4,8 +4,8 @@ year: 1989
 order: 1
 patch: true
 authors: "Jay_Vosburgh"
-orig_url: "https://www.ioccc.org/1989/fubar.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1989/fubar.hint"
+orig_url: "https://www.ioccc.org/1989/fubar/fubar.orig.c"
+hint_url: "https://www.ioccc.org/1989/fubar/index.html"
 title: "IOCCC 1989: Best self-modifying program"
 award_ja: "最高の自己書き換えプログラム"
 ---

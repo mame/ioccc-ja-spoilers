@@ -3,8 +3,8 @@ id: 1998/dorssel
 year: 1998
 order: 7
 authors: "Frans_van_Dorsselaer"
-orig_url: "https://www.ioccc.org/1998/dorssel.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/dorssel.hint"
+orig_url: "https://www.ioccc.org/1998/dorssel/dorssel.orig.c"
+hint_url: "https://www.ioccc.org/1998/dorssel/index.html"
 title: "IOCCC 1998: Obsolescent Feature"
 award_ja: "陳腐化した機能"
 ---

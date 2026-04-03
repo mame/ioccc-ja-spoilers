@@ -4,8 +4,8 @@ year: 1990
 order: 11
 patch: true
 authors: "Adrian_Mariano"
-orig_url: "https://www.ioccc.org/1990/theorem.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1990/theorem.hint"
+orig_url: "https://www.ioccc.org/1990/theorem/theorem.orig.c"
+hint_url: "https://www.ioccc.org/1990/theorem/index.html"
 title: "IOCCC 1990: Best of Show"
 award_ja: "最優秀賞"
 ---

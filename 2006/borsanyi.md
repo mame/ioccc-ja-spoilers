@@ -4,7 +4,7 @@ year: 2006
 order: 2
 authors: "Szabolcs_Borsanyi"
 orig_url: "https://www.ioccc.org/2006/borsanyi/borsanyi.c"
-hint_url: "https://www.ioccc.org/2006/borsanyi/hint.text"
+hint_url: "https://www.ioccc.org/2006/borsanyi/index.html"
 title: "IOCCC 2006: Most Useful"
 award_ja: "もっとも便利"
 ---

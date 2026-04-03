@@ -4,7 +4,7 @@ year: 2013
 order: 9
 authors: "Qiming_HOU"
 orig_url: "https://www.ioccc.org/2013/hou/hou.c"
-hint_url: "https://www.ioccc.org/2013/hou/hint.html"
+hint_url: "https://www.ioccc.org/2013/hou/index.html"
 title: "IOCCC 2013: Best use of 1 Infinite Loop"
 award_ja: "無限ループの最高の使い方"
 linewrap: true

@@ -3,8 +3,8 @@ id: 1988/phillipps
 year: 1988
 order: 4
 authors: "Ian_Phillipps"
-orig_url: "https://www.ioccc.org/1988/phillipps.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1988/phillipps.hint"
+orig_url: "https://www.ioccc.org/1988/phillipps/phillipps.orig.c"
+hint_url: "https://www.ioccc.org/1988/phillipps/index.html"
 title: "IOCCC 1988: Least likely to compile successfully"
 award_ja: "もっともコンパイルできなさそう"
 linewrap: true

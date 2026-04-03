@@ -4,7 +4,7 @@ year: 2012
 order: 11
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2012/endoh1/endoh1.c"
-hint_url: "https://www.ioccc.org/2012/endoh1/hint.html"
+hint_url: "https://www.ioccc.org/2012/endoh1/index.html"
 title: "IOCCC 2012: Most complex ASCII fluid - Honorable mention"
 award_ja: "もっとも複雑なASCII流体 - 選外佳作"
 ---

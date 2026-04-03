@@ -4,7 +4,7 @@ year: 2012
 order: 13
 authors: "Tsukasa_Hamano"
 orig_url: "https://www.ioccc.org/2012/hamano/hamano.c"
-hint_url: "https://www.ioccc.org/2012/hamano/hint.html"
+hint_url: "https://www.ioccc.org/2012/hamano/index.html"
 title: "IOCCC 2012: Most elementary use of C - Silver award"
 award_ja: "Cのもっとも初歩的な使い方 - 銀賞"
 ---

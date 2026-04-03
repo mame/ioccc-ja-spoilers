@@ -4,7 +4,7 @@ year: 2015
 order: 9
 authors: "Christopher_Mills"
 orig_url: "https://www.ioccc.org/2015/mills1/prog.c"
-hint_url: "https://www.ioccc.org/2015/mills1/hint.html"
+hint_url: "https://www.ioccc.org/2015/mills1/index.html"
 title: "IOCCC 2015: \"For the Birds!\" Award"
 award_ja: "『フォー・ザ・バーズ』賞"
 ---

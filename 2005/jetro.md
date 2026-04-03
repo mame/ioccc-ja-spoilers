@@ -4,7 +4,7 @@ year: 2005
 order: 6
 authors: "Jetro_Lauha"
 orig_url: "https://www.ioccc.org/2005/jetro/jetro.c"
-hint_url: "https://www.ioccc.org/2005/jetro/hint.text"
+hint_url: "https://www.ioccc.org/2005/jetro/index.html"
 title: "IOCCC 2005: Most sonorous output"
 award_ja: "もっとも鳴り響く出力"
 ---

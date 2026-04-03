@@ -4,7 +4,7 @@ year: 2012
 order: 3
 authors: "J_David_Lowe"
 orig_url: "https://www.ioccc.org/2012/dlowe/dlowe.c"
-hint_url: "https://www.ioccc.org/2012/dlowe/hint.html"
+hint_url: "https://www.ioccc.org/2012/dlowe/index.html"
 title: "IOCCC 2012: Best way to lose a life"
 award_ja: "命を落とす最良の方法"
 ---

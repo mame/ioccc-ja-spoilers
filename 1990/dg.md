@@ -4,8 +4,8 @@ year: 1990
 order: 4
 patch: true
 authors: "David_Goodenough"
-orig_url: "https://www.ioccc.org/1990/dg.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1990/dg.hint"
+orig_url: "https://www.ioccc.org/1990/dg/dg.orig.c"
+hint_url: "https://www.ioccc.org/1990/dg/index.html"
 title: "IOCCC 1990: Best Abuse of the C Preprocessor"
 award_ja: "Cプリプロセッサの最高の悪用"
 ---

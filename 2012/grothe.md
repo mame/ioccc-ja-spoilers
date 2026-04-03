@@ -6,7 +6,7 @@ authors:
   - "Aaron_Grothe"
   - "David_Madore"
 orig_url: "https://www.ioccc.org/2012/grothe/grothe.c"
-hint_url: "https://www.ioccc.org/2012/grothe/hint.html"
+hint_url: "https://www.ioccc.org/2012/grothe/index.html"
 title: "IOCCC 2012: Most conspiratorial"
 award_ja: "もっとも共謀的"
 ---

@@ -4,7 +4,7 @@ year: 1986
 order: 5
 authors: "Jim_Hague"
 orig_url: "https://www.ioccc.org/1986/hague/hague.c"
-hint_url: "https://www.ioccc.org/1986/hague/hint.html"
+hint_url: "https://www.ioccc.org/1986/hague/index.html"
 title: "IOCCC 1986: Worst abuse of the C preprocessor"
 award_ja: "Cプリプロセッサの最悪な悪用"
 ---

@@ -3,8 +3,8 @@ id: 1992/adrian
 year: 1992
 order: 1
 authors: "Adrian_Mariano"
-orig_url: "https://www.ioccc.org/1992/adrian.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/adrian.hint"
+orig_url: "https://www.ioccc.org/1992/adrian/adrian.orig.c"
+hint_url: "https://www.ioccc.org/1992/adrian/index.html"
 title: "IOCCC 1992: Most Educational"
 award_ja: "もっとも教育的"
 ---

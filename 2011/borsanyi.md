@@ -4,7 +4,7 @@ year: 2011
 order: 2
 authors: "Szabolcs_Borsanyi"
 orig_url: "https://www.ioccc.org/2011/borsanyi/borsanyi.c"
-hint_url: "https://www.ioccc.org/2011/borsanyi/hint.html"
+hint_url: "https://www.ioccc.org/2011/borsanyi/index.html"
 title: "IOCCC 2011: Best data utility"
 award_ja: "最高のデータツール"
 ---

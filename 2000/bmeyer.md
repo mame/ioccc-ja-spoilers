@@ -3,8 +3,8 @@ id: 2000/bmeyer
 year: 2000
 order: 3
 authors: "Bernd_Meyer"
-orig_url: "https://www.ioccc.org/2000/bmeyer.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/bmeyer.hint"
+orig_url: "https://www.ioccc.org/2000/bmeyer/bmeyer.orig.c"
+hint_url: "https://www.ioccc.org/2000/bmeyer/index.html"
 title: "IOCCC 2000: Best Utility"
 award_ja: "最高のユーティリティ"
 ---

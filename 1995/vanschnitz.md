@@ -5,8 +5,8 @@ order: 12
 authors:
   - "Mark_Schnitzius"
   - "David_Van_Brackle"
-orig_url: "https://www.ioccc.org/1995/vanschnitz.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1995/vanschnitz.hint"
+orig_url: "https://www.ioccc.org/1995/vanschnitz/vanschnitz.orig.c"
+hint_url: "https://www.ioccc.org/1995/vanschnitz/index.html"
 title: "IOCCC 1995: Worst Abuse of the C Preprocessor"
 award_ja: "Cプリプロセッサの最悪の悪用"
 ---

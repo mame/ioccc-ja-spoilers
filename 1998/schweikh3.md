@@ -3,8 +3,8 @@ id: 1998/schweikh3
 year: 1998
 order: 12
 authors: "Jens_Schweikhardt"
-orig_url: "https://www.ioccc.org/1998/schweikh3.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/schweikh3.hint"
+orig_url: "https://www.ioccc.org/1998/schweikh3/schweikh3.orig.c"
+hint_url: "https://www.ioccc.org/1998/schweikh3/index.html"
 title: "IOCCC 1998: Most Space Efficient"
 award_ja: "もっとも空間効率的"
 ---

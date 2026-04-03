@@ -3,8 +3,8 @@ id: 2001/rosten
 year: 2001
 order: 11
 authors: "Edward_Rosten"
-orig_url: "https://www.ioccc.org/2001/rosten.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/rosten.hint"
+orig_url: "https://www.ioccc.org/2001/rosten/rosten.orig.c"
+hint_url: "https://www.ioccc.org/2001/rosten/index.html"
 title: "IOCCC 2001: Best abuse of the user"
 award_ja: "最高のユーザ苦しめ"
 ---

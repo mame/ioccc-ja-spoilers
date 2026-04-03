@@ -3,8 +3,8 @@ id: 2000/tomx
 year: 2000
 order: 13
 authors: "Thomas_P_John"
-orig_url: "https://www.ioccc.org/2000/tomx.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/tomx.hint"
+orig_url: "https://www.ioccc.org/2000/tomx/tomx.orig.c"
+hint_url: "https://www.ioccc.org/2000/tomx/index.html"
 title: "IOCCC 2000: Most Complete Program"
 award_ja: "もっとも完備なプログラム"
 ---

@@ -4,7 +4,7 @@ year: 2011
 order: 3
 authors: "J_David_Lowe"
 orig_url: "https://www.ioccc.org/2011/dlowe/dlowe.c"
-hint_url: "https://www.ioccc.org/2011/dlowe/hint.html"
+hint_url: "https://www.ioccc.org/2011/dlowe/index.html"
 title: "IOCCC 2011: Most self deprecating"
 award_ja: "もっとも自虐的"
 ---

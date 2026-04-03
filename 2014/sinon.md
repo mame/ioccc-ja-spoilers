@@ -4,7 +4,7 @@ year: 2014
 order: 8
 authors: "Don_Yang"
 orig_url: "https://www.ioccc.org/2014/sinon/prog.c"
-hint_url: "https://www.ioccc.org/2014/sinon/hint.html"
+hint_url: "https://www.ioccc.org/2014/sinon/index.html"
 title: "IOCCC 2014: Best choice of optimization"
 award_ja: "最適化の最高の選択"
 ---

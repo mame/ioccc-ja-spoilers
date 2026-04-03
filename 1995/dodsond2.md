@@ -3,8 +3,8 @@ id: 1995/dodsond2
 year: 1995
 order: 3
 authors: "Don_Dodson"
-orig_url: "https://www.ioccc.org/1995/dodsond2.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1995/dodsond2.hint"
+orig_url: "https://www.ioccc.org/1995/dodsond2/dodsond2.orig.c"
+hint_url: "https://www.ioccc.org/1995/dodsond2/index.html"
 title: "IOCCC 1995: Best Game"
 award_ja: "最高のゲーム"
 ---

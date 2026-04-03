@@ -3,8 +3,8 @@ id: 2000/bellard
 year: 2000
 order: 2
 authors: "Fabrice_Bellard"
-orig_url: "https://www.ioccc.org/2000/bellard.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/bellard.hint"
+orig_url: "https://www.ioccc.org/2000/bellard/bellard.orig.c"
+hint_url: "https://www.ioccc.org/2000/bellard/index.html"
 title: "IOCCC 2000: Most Specific Output"
 award_ja: "もっとも限定された出力"
 ---

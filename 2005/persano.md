@@ -4,7 +4,7 @@ year: 2005
 order: 15
 authors: "Mauro_Persano"
 orig_url: "https://www.ioccc.org/2005/persano/persano.c"
-hint_url: "https://www.ioccc.org/2005/persano/hint.text"
+hint_url: "https://www.ioccc.org/2005/persano/index.html"
 title: "IOCCC 2005: Best of Show"
 award_ja: "最優秀賞"
 ---

@@ -5,7 +5,7 @@ order: 3
 patch: true
 authors: "Ed_Lycklama"
 orig_url: "https://www.ioccc.org/1985/lycklama/lycklama.c"
-hint_url: "https://www.ioccc.org/1985/lycklama/hint.html"
+hint_url: "https://www.ioccc.org/1985/lycklama/index.html"
 title: "IOCCC 1985: The strangest appearing program"
 award_ja: "もっとも変な見た目のプログラム"
 ---

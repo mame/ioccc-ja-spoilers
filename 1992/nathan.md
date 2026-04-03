@@ -3,8 +3,8 @@ id: 1992/nathan
 year: 1992
 order: 11
 authors: "Nathan_Sidwell"
-orig_url: "https://www.ioccc.org/1992/nathan.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/nathan.hint"
+orig_url: "https://www.ioccc.org/1992/nathan/nathan.orig.c"
+hint_url: "https://www.ioccc.org/1992/nathan/index.html"
 title: "IOCCC 1992: Worst Abuse of the Rules"
 award_ja: "ルールの最悪な悪用"
 ---

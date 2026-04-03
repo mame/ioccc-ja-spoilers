@@ -4,7 +4,7 @@ year: 2012
 order: 2
 authors: "Alex_Deckmyn"
 orig_url: "https://www.ioccc.org/2012/deckmyn/deckmyn.c"
-hint_url: "https://www.ioccc.org/2012/deckmyn/hint.html"
+hint_url: "https://www.ioccc.org/2012/deckmyn/index.html"
 title: "IOCCC 2012: Most notable and best tool"
 award_ja: "もっとも注目すべきで、最高のツール"
 ---

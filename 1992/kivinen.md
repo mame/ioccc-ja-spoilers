@@ -4,8 +4,8 @@ year: 1992
 order: 8
 patch: true
 authors: "Tero_Kivinen"
-orig_url: "https://www.ioccc.org/1992/kivinen.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/kivinen.hint"
+orig_url: "https://www.ioccc.org/1992/kivinen/kivinen.orig.c"
+hint_url: "https://www.ioccc.org/1992/kivinen/index.html"
 title: "IOCCC 1992: Best X Program"
 award_ja: "最高のXプログラム"
 ---

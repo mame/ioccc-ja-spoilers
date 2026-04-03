@@ -3,8 +3,8 @@ id: 2000/anderson
 year: 2000
 order: 1
 authors: "Glyn_Anderson"
-orig_url: "https://www.ioccc.org/2000/anderson.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/anderson.hint"
+orig_url: "https://www.ioccc.org/2000/anderson/anderson.orig.c"
+hint_url: "https://www.ioccc.org/2000/anderson/index.html"
 title: "IOCCC 2000: Best Use of Flags"
 award_ja: "最高のフラグの使い方"
 ---

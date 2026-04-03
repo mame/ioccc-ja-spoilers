@@ -4,7 +4,7 @@ year: 2012
 order: 1
 authors: "Philip_Blakely"
 orig_url: "https://www.ioccc.org/2012/blakely/blakely.c"
-hint_url: "https://www.ioccc.org/2012/blakely/hint.html"
+hint_url: "https://www.ioccc.org/2012/blakely/index.html"
 title: "IOCCC 2012: Most GIFted expressions"
 award_ja: "もっとも天才的な式"
 ---

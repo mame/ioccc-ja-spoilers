@@ -4,7 +4,7 @@ year: 1984
 order: 2
 authors: "Mike_Laman"
 orig_url: "https://www.ioccc.org/1984/laman/laman.c"
-hint_url: "https://www.ioccc.org/1984/laman/hint.html"
+hint_url: "https://www.ioccc.org/1984/laman/index.html"
 title: "IOCCC 1984: Third place"
 award_ja: "第3位"
 ---

@@ -4,8 +4,8 @@ year: 1991
 order: 7
 patch: true
 authors: "Diomidis_Spinellis"
-orig_url: "https://www.ioccc.org/1991/dds.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1991/dds.hint"
+orig_url: "https://www.ioccc.org/1991/dds/dds.orig.c"
+hint_url: "https://www.ioccc.org/1991/dds/index.html"
 title: "IOCCC 1991: Most Well Rounded"
 award_ja: "もっともよく練り上げられている"
 ---

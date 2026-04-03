@@ -6,7 +6,7 @@ authors:
   - "Sjoerd_Mullender"
   - "Robbert_van_Renesse"
 orig_url: "https://www.ioccc.org/1984/mullender/mullender.c"
-hint_url: "https://www.ioccc.org/1984/mullender/hint.html"
+hint_url: "https://www.ioccc.org/1984/mullender/index.html"
 title: "IOCCC 1984: The Grand Prize"
 award_ja: "大賞"
 ---

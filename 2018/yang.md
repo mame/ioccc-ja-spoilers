@@ -4,7 +4,7 @@ year: 2018
 order: 14
 authors: "Don_Yang"
 orig_url: "https://www.ioccc.org/2018/yang/prog.c"
-hint_url: "https://www.ioccc.org/2018/yang/hint.html"
+hint_url: "https://www.ioccc.org/2018/yang/index.html"
 title: "IOCCC 2018: Most shifty"
 award_ja: "もっともずる賢い"
 ---

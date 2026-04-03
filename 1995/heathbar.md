@@ -3,8 +3,8 @@ id: 1995/heathbar
 year: 1995
 order: 6
 authors: "Heather_Downs"
-orig_url: "https://www.ioccc.org/1995/heathbar.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1995/heathbar.hint"
+orig_url: "https://www.ioccc.org/1995/heathbar/heathbar.orig.c"
+hint_url: "https://www.ioccc.org/1995/heathbar/index.html"
 title: "IOCCC 1995: Best Layout"
 award_ja: "最高のレイアウト"
 ---

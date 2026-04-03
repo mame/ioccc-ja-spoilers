@@ -4,7 +4,7 @@ year: 2019
 order: 1
 authors: "Ondřej_Adamovský"
 orig_url: "https://www.ioccc.org/2019/adamovsky/prog.c"
-hint_url: "https://www.ioccc.org/2019/adamovsky/hint.html"
+hint_url: "https://www.ioccc.org/2019/adamovsky/index.html"
 title: "IOCCC 2019: Most functional interpreter"
 award_ja: "もっとも関数的なインタプリタ"
 ---

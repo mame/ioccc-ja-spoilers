@@ -4,7 +4,7 @@ year: 2013
 order: 15
 authors: "Adrian_Cable"
 orig_url: "https://www.ioccc.org/2013/cable2/cable2.c"
-hint_url: "https://www.ioccc.org/2013/cable2/hint.html"
+hint_url: "https://www.ioccc.org/2013/cable2/index.html"
 title: "IOCCC 2013: Best of show"
 award_ja: "最優秀賞"
 ---

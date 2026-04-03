@@ -4,7 +4,7 @@ year: 2019
 order: 11
 authors: "Ben_Lynn"
 orig_url: "https://www.ioccc.org/2019/lynn/prog.c"
-hint_url: "https://www.ioccc.org/2019/lynn/hint.html"
+hint_url: "https://www.ioccc.org/2019/lynn/index.html"
 title: "IOCCC 2019: Most functional compiler"
 award_ja: "もっとも関数的なコンパイラ"
 ---

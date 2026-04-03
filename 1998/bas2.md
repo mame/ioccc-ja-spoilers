@@ -3,8 +3,8 @@ id: 1998/bas2
 year: 1998
 order: 2
 authors: "Bas_de_Bakker"
-orig_url: "https://www.ioccc.org/1998/bas2.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/bas2.hint"
+orig_url: "https://www.ioccc.org/1998/bas2/bas2.orig.c"
+hint_url: "https://www.ioccc.org/1998/bas2/index.html"
 title: "IOCCC 1998: Best Small Program"
 award_ja: "最高のスモールプログラム"
 ---

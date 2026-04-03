@@ -4,7 +4,7 @@ year: 2018
 order: 11
 authors: "Qiming_HOU"
 orig_url: "https://www.ioccc.org/2018/hou/prog.c"
-hint_url: "https://www.ioccc.org/2018/hou/hint.html"
+hint_url: "https://www.ioccc.org/2018/hou/index.html"
 title: "IOCCC 2018: Most likely to top the charts"
 award_ja: "もっともチャートの1位になりそう"
 ---

@@ -3,8 +3,8 @@ id: 1994/tvr
 year: 1994
 order: 8
 authors: "Teemu_Rantanen"
-orig_url: "https://www.ioccc.org/1994/tvr.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1994/tvr.hint"
+orig_url: "https://www.ioccc.org/1994/tvr/tvr.orig.c"
+hint_url: "https://www.ioccc.org/1994/tvr/index.html"
 title: "IOCCC 1994: Best X11 Program"
 award_ja: "最高のX11プログラム"
 ---

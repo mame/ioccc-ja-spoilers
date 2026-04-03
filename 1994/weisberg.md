@@ -3,8 +3,8 @@ id: 1994/weisberg
 year: 1994
 order: 9
 authors: "Jeff_Weisberg"
-orig_url: "https://www.ioccc.org/1994/weisberg.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1994/weisberg.hint"
+orig_url: "https://www.ioccc.org/1994/weisberg/weisberg.orig.c"
+hint_url: "https://www.ioccc.org/1994/weisberg/index.html"
 title: "IOCCC 1994: Best Short Program"
 award_ja: "最高のショートプログラム"
 ---

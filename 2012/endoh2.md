@@ -4,7 +4,7 @@ year: 2012
 order: 4
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2012/endoh2/endoh2.c"
-hint_url: "https://www.ioccc.org/2012/endoh2/hint.html"
+hint_url: "https://www.ioccc.org/2012/endoh2/index.html"
 title: "IOCCC 2012: PiE in the sky award"
 award_ja: "絵空事で賞"
 ---

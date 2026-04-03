@@ -4,7 +4,7 @@ year: 2018
 order: 8
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2018/endoh2/prog.c"
-hint_url: "https://www.ioccc.org/2018/endoh2/hint.html"
+hint_url: "https://www.ioccc.org/2018/endoh2/index.html"
 title: "IOCCC 2018: Best use of python"
 award_ja: "Pythonの最高の使用"
 ---

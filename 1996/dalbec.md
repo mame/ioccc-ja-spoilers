@@ -3,8 +3,8 @@ id: 1996/dalbec
 year: 1996
 order: 1
 authors: "John_Dalbec"
-orig_url: "https://www.ioccc.org/1996/dalbec.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1996/dalbec.hint"
+orig_url: "https://www.ioccc.org/1996/dalbec/dalbec.orig.c"
+hint_url: "https://www.ioccc.org/1996/dalbec/index.html"
 title: "IOCCC 1996: Best Numerical Obfuscation"
 award_ja: "最高の数値的難読化"
 ---

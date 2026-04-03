@@ -3,8 +3,8 @@ id: 2004/gavin
 year: 2004
 order: 15
 authors: "Gavin_Barraclough"
-orig_url: "https://www.ioccc.org/2004/gavin.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/gavin.hint"
+orig_url: "https://www.ioccc.org/2004/gavin/gavin.orig.c"
+hint_url: "https://www.ioccc.org/2004/gavin/index.html"
 title: "IOCCC 2004: Best of Show"
 award_ja: "最優秀賞"
 ---

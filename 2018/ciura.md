@@ -4,7 +4,7 @@ year: 2018
 order: 6
 authors: "Marcin_Ciura"
 orig_url: "https://www.ioccc.org/2018/ciura/prog.c"
-hint_url: "https://www.ioccc.org/2018/ciura/hint.html"
+hint_url: "https://www.ioccc.org/2018/ciura/index.html"
 title: "IOCCC 2018: Most likely to be awarded"
 award_ja: "もっとも表彰されそう"
 ---

@@ -3,8 +3,8 @@ id: 1990/pjr
 year: 1990
 order: 6
 authors: "Peter_J_Ruczynski"
-orig_url: "https://www.ioccc.org/1990/pjr.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1990/pjr.hint"
+orig_url: "https://www.ioccc.org/1990/pjr/pjr.orig.c"
+hint_url: "https://www.ioccc.org/1990/pjr/index.html"
 title: "IOCCC 1990: Most Unusual Data Structure"
 award_ja: "もっとも異常なデータ構造"
 ---

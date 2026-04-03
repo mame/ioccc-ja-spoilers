@@ -3,8 +3,8 @@ id: 1998/banks
 year: 1998
 order: 14
 authors: "Carl_Banks"
-orig_url: "https://www.ioccc.org/1998/banks.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/banks.hint"
+orig_url: "https://www.ioccc.org/1998/banks/banks.orig.c"
+hint_url: "https://www.ioccc.org/1998/banks/index.html"
 title: "IOCCC 1998: Best of Show"
 award_ja: "最優秀賞"
 ---

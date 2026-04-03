@@ -4,7 +4,7 @@ year: 2006
 order: 1
 authors: "Michael_Birken"
 orig_url: "https://www.ioccc.org/2006/birken/birken.c"
-hint_url: "https://www.ioccc.org/2006/birken/hint.text"
+hint_url: "https://www.ioccc.org/2006/birken/index.html"
 title: "IOCCC 2006: EDAMAME Award (Electronic Design Automation - Mechanical Abstract Machine Emulator)"
 award_ja: "EDAMAME賞（電子的設計自動化 - 機械的抽象機械エミュレータ）"
 ---

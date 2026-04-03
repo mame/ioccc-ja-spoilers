@@ -4,7 +4,7 @@ year: 2019
 order: 9
 authors: "Edward_Giles"
 orig_url: "https://www.ioccc.org/2019/giles/prog.c"
-hint_url: "https://www.ioccc.org/2019/giles/hint.html"
+hint_url: "https://www.ioccc.org/2019/giles/index.html"
 title: "IOCCC 2019: Most in need of wide space"
 award_ja: "もっとも広いスペースが必要"
 ---

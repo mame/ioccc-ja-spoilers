@@ -4,7 +4,7 @@ year: 2013
 order: 8
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2013/endoh4/endoh4.c"
-hint_url: "https://www.ioccc.org/2013/endoh4/hint.html"
+hint_url: "https://www.ioccc.org/2013/endoh4/index.html"
 title: "IOCCC 2013: Most solid"
 award_ja: "もっとも堅実"
 ---

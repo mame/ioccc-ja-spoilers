@@ -7,8 +7,8 @@ authors:
   - "Jari_Arkko"
   - "Ora_Lassila"
   - "Esko_Nuutila"
-orig_url: "https://www.ioccc.org/1989/jar.2.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1989/jar.2.hint"
+orig_url: "https://www.ioccc.org/1989/jar.2/jar.2.orig.c"
+hint_url: "https://www.ioccc.org/1989/jar.2/index.html"
 title: "IOCCC 1989: Best of show"
 award_ja: "最優秀賞"
 ---

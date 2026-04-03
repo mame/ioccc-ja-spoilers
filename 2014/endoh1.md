@@ -4,7 +4,7 @@ year: 2014
 order: 3
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2014/endoh1/prog.c"
-hint_url: "https://www.ioccc.org/2014/endoh1/hint.html"
+hint_url: "https://www.ioccc.org/2014/endoh1/index.html"
 title: "IOCCC 2014: Most square (YODA award)"
 award_ja: "もっとも四角い（ヨーダ賞）"
 ---

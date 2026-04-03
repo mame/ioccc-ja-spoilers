@@ -3,8 +3,8 @@ id: 2001/jason
 year: 2001
 order: 15
 authors: "Jason_Orendorff"
-orig_url: "https://www.ioccc.org/2001/jason.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/jason.hint"
+orig_url: "https://www.ioccc.org/2001/jason/jason.orig.c"
+hint_url: "https://www.ioccc.org/2001/jason/index.html"
 title: "IOCCC 2001: Best of Show"
 award_ja: "最優秀賞"
 ---

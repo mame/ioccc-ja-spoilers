@@ -3,8 +3,8 @@ id: 1988/spinellis
 year: 1988
 order: 7
 authors: "Diomidis_Spinellis"
-orig_url: "https://www.ioccc.org/1988/spinellis.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1988/spinellis.hint"
+orig_url: "https://www.ioccc.org/1988/spinellis/spinellis.orig.c"
+hint_url: "https://www.ioccc.org/1988/spinellis/index.html"
 title: "IOCCC 1988: Best abuse of the rules"
 award_ja: "ルールの最高の悪用"
 ---

@@ -4,7 +4,7 @@ year: 2005
 order: 10
 authors: "Stephen_Sykes"
 orig_url: "https://www.ioccc.org/2005/sykes/sykes.c"
-hint_url: "https://www.ioccc.org/2005/sykes/hint.text"
+hint_url: "https://www.ioccc.org/2005/sykes/index.html"
 title: "IOCCC 2005: Best emulator"
 award_ja: "最高のエミュレータ"
 ---

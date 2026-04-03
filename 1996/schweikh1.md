@@ -3,8 +3,8 @@ id: 1996/schweikh1
 year: 1996
 order: 7
 authors: "Jens_Schweikhardt"
-orig_url: "https://www.ioccc.org/1996/schweikh1.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1996/schweikh1.hint"
+orig_url: "https://www.ioccc.org/1996/schweikh1/schweikh1.orig.c"
+hint_url: "https://www.ioccc.org/1996/schweikh1/index.html"
 title: "IOCCC 1996: Worst Abuse of the C Preprocessor"
 award_ja: "Cプリプロセッサの最悪の悪用"
 ---

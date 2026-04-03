@@ -4,7 +4,7 @@ year: 1987
 order: 5
 authors: "Larry_Wall"
 orig_url: "https://www.ioccc.org/1987/wall/wall.c"
-hint_url: "https://www.ioccc.org/1987/wall/hint.html"
+hint_url: "https://www.ioccc.org/1987/wall/index.html"
 title: "IOCCC 1987: Most Useful Obfuscation"
 award_ja: "もっとも便利な難読化"
 ---

@@ -4,7 +4,7 @@ year: 2011
 order: 13
 authors: "Matt_Zucker"
 orig_url: "https://www.ioccc.org/2011/zucker/zucker.c"
-hint_url: "https://www.ioccc.org/2011/zucker/hint.html"
+hint_url: "https://www.ioccc.org/2011/zucker/index.html"
 title: "IOCCC 2011: Most shiny"
 award_ja: "もっともピカピカ"
 ---

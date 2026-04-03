@@ -4,7 +4,7 @@ year: 2012
 order: 7
 authors: "Seonghoon_Kang"
 orig_url: "https://www.ioccc.org/2012/kang/kang.c"
-hint_url: "https://www.ioccc.org/2012/kang/hint.html"
+hint_url: "https://www.ioccc.org/2012/kang/index.html"
 title: "IOCCC 2012: Best short program"
 award_ja: "最高のショートプログラム"
 ---

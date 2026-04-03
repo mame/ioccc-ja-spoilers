@@ -3,8 +3,8 @@ id: 2001/coupard
 year: 2001
 order: 4
 authors: "Pierre-Philippe_Coupard"
-orig_url: "https://www.ioccc.org/2001/coupard.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/coupard.hint"
+orig_url: "https://www.ioccc.org/2001/coupard/coupard.orig.c"
+hint_url: "https://www.ioccc.org/2001/coupard/index.html"
 title: "IOCCC 2001: Most obfuscated sound"
 award_ja: "もっとも難読化された音"
 ---

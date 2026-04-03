@@ -3,8 +3,8 @@ id: 1989/paul
 year: 1989
 order: 4
 authors: "Paul_E._Black"
-orig_url: "https://www.ioccc.org/1989/paul.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1989/paul.hint"
+orig_url: "https://www.ioccc.org/1989/paul/paul.orig.c"
+hint_url: "https://www.ioccc.org/1989/paul/index.html"
 title: "IOCCC 1989: Most complex algorithm"
 award_ja: "もっとも複雑なアルゴリズム"
 linewrap: true

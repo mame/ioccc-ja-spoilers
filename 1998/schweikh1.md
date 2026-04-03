@@ -4,8 +4,8 @@ year: 1998
 order: 10
 patch: true
 authors: "Jens_Schweikhardt"
-orig_url: "https://www.ioccc.org/1998/schweikh1.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/schweikh1.hint"
+orig_url: "https://www.ioccc.org/1998/schweikh1/schweikh1.orig.c"
+hint_url: "https://www.ioccc.org/1998/schweikh1/index.html"
 title: "IOCCC 1998: CPP Abuse"
 award_ja: "CPP悪用"
 ---

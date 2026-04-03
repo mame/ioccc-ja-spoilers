@@ -3,8 +3,8 @@ id: 2000/rince
 year: 2000
 order: 9
 authors: "James_Bonfield"
-orig_url: "https://www.ioccc.org/2000/rince.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/rince.hint"
+orig_url: "https://www.ioccc.org/2000/rince/rince.orig.c"
+hint_url: "https://www.ioccc.org/2000/rince/index.html"
 title: "IOCCC 2000: Astronomically Obfuscated"
 award_ja: "天文学的難読化"
 ---

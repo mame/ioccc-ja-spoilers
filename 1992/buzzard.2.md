@@ -3,8 +3,8 @@ id: 1992/buzzard.2
 year: 1992
 order: 5
 authors: "Sean_Barrett"
-orig_url: "https://www.ioccc.org/1992/buzzard.2.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/buzzard.2.hint"
+orig_url: "https://www.ioccc.org/1992/buzzard.2/buzzard.2.orig.c"
+hint_url: "https://www.ioccc.org/1992/buzzard.2/index.html"
 title: "IOCCC 1992: Best Language Tool"
 award_ja: "最高の言語ツール"
 ---

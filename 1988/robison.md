@@ -3,8 +3,8 @@ id: 1988/robison
 year: 1988
 order: 6
 authors: "Arch_D_Robison"
-orig_url: "https://www.ioccc.org/1988/robison.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1988/robison.hint"
+orig_url: "https://www.ioccc.org/1988/robison/robison.orig.c"
+hint_url: "https://www.ioccc.org/1988/robison/index.html"
 title: "IOCCC 1988: Best abuse of C constructs"
 award_ja: "C構文の最高の悪用"
 ---

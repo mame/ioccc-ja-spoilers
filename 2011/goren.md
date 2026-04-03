@@ -5,7 +5,7 @@ order: 6
 patch: true
 authors: "Uri_Goren"
 orig_url: "https://www.ioccc.org/2011/goren/goren.c"
-hint_url: "https://www.ioccc.org/2011/goren/hint.html"
+hint_url: "https://www.ioccc.org/2011/goren/index.html"
 title: "IOCCC 2011: Most artistic"
 award_ja: "もっとも芸術的"
 ---

@@ -3,8 +3,8 @@ id: 2004/gavare
 year: 2004
 order: 4
 authors: "Anders_Gavare"
-orig_url: "https://www.ioccc.org/2004/gavare.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/gavare.hint"
+orig_url: "https://www.ioccc.org/2004/gavare/gavare.orig.c"
+hint_url: "https://www.ioccc.org/2004/gavare/index.html"
 title: "IOCCC 2004: Best Use of Light and Spheres"
 award_ja: "ライトと球の最高の使い方"
 ---

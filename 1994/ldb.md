@@ -3,8 +3,8 @@ id: 1994/ldb
 year: 1994
 order: 5
 authors: "Laurion_Burchall"
-orig_url: "https://www.ioccc.org/1994/ldb.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1994/ldb.hint"
+orig_url: "https://www.ioccc.org/1994/ldb/ldb.orig.c"
+hint_url: "https://www.ioccc.org/1994/ldb/index.html"
 title: "IOCCC 1994: Best One-liner"
 award_ja: "最高のワンライナー"
 ---

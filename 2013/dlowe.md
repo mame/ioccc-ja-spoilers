@@ -4,7 +4,7 @@ year: 2013
 order: 4
 authors: "J_David_Lowe"
 orig_url: "https://www.ioccc.org/2013/dlowe/dlowe.c"
-hint_url: "https://www.ioccc.org/2013/dlowe/hint.html"
+hint_url: "https://www.ioccc.org/2013/dlowe/index.html"
 title: "IOCCC 2013: Best sparkling utility"
 award_ja: "最高のきらめくツール"
 ---

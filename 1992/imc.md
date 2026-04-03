@@ -3,8 +3,8 @@ id: 1992/imc
 year: 1992
 order: 7
 authors: "Ian_Collier"
-orig_url: "https://www.ioccc.org/1992/imc.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/imc.hint"
+orig_url: "https://www.ioccc.org/1992/imc/imc.orig.c"
+hint_url: "https://www.ioccc.org/1992/imc/index.html"
 title: "IOCCC 1992: Best Output"
 award_ja: "最高の出力"
 ---

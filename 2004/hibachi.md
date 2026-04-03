@@ -4,8 +4,8 @@ year: 2004
 order: 5
 authors: "Anthony_C._Howe"
 file: 2004/hibachi
-orig_url: "http://ioccc.org/2004/hibachi.tar.gz"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/hibachi.hint"
+orig_url: "https://www.ioccc.org/2004/hibachi/hibachi.orig.c"
+hint_url: "https://www.ioccc.org/2004/hibachi/index.html"
 title: "IOCCC 2004: Best Abuse of the Guidelines"
 award_ja: "ガイドラインの最高の悪用"
 ---

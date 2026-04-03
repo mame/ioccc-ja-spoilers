@@ -3,8 +3,8 @@ id: 2001/dgbeards
 year: 2001
 order: 6
 authors: "Doug_Beardsley"
-orig_url: "https://www.ioccc.org/2001/dgbeards.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/dgbeards.hint"
+orig_url: "https://www.ioccc.org/2001/dgbeards/dgbeards.orig.c"
+hint_url: "https://www.ioccc.org/2001/dgbeards/index.html"
 title: "IOCCC 2001: Best AI"
 award_ja: "最高のAI"
 ---

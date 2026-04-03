@@ -5,7 +5,7 @@ order: 2
 patch: true
 authors: "Paul_Heckbert"
 orig_url: "https://www.ioccc.org/1987/heckbert/heckbert.c"
-hint_url: "https://www.ioccc.org/1987/heckbert/hint.html"
+hint_url: "https://www.ioccc.org/1987/heckbert/index.html"
 title: "IOCCC 1987: Best Obfuscator of Programs"
 award_ja: "最高のプログラム難読化"
 ---

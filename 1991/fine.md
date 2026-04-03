@@ -3,8 +3,8 @@ id: 1991/fine
 year: 1991
 order: 5
 authors: "Thomas_A._Fine"
-orig_url: "https://www.ioccc.org/1991/fine.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1991/fine.hint"
+orig_url: "https://www.ioccc.org/1991/fine/fine.orig.c"
+hint_url: "https://www.ioccc.org/1991/fine/index.html"
 title: "IOCCC 1991: Best One Liner"
 award_ja: "最高のワンライナー"
 ---

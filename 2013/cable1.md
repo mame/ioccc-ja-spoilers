@@ -4,7 +4,7 @@ year: 2013
 order: 2
 authors: "Adrian_Cable"
 orig_url: "https://www.ioccc.org/2013/cable1/cable1.c"
-hint_url: "https://www.ioccc.org/2013/cable1/hint.html"
+hint_url: "https://www.ioccc.org/2013/cable1/index.html"
 title: "IOCCC 2013: Most partisan 1-liner"
 award_ja: "もっとも党派心の強いワンライナー"
 ---

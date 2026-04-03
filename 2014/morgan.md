@@ -4,7 +4,7 @@ year: 2014
 order: 7
 authors: "Yves-Marie_Morgan"
 orig_url: "https://www.ioccc.org/2014/morgan/prog.c"
-hint_url: "https://www.ioccc.org/2014/morgan/hint.html"
+hint_url: "https://www.ioccc.org/2014/morgan/index.html"
 title: "IOCCC 2014: Most likely to succeed"
 award_ja: "もっとも成功しそう"
 ---

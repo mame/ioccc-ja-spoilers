@@ -4,7 +4,7 @@ year: 2018
 order: 3
 authors: "Fabrice_Bellard"
 orig_url: "https://www.ioccc.org/2018/bellard/prog.c"
-hint_url: "https://www.ioccc.org/2018/bellard/hint.html"
+hint_url: "https://www.ioccc.org/2018/bellard/index.html"
 title: "IOCCC 2018: Most inflationary"
 award_ja: "もっともインフレ"
 ---

@@ -3,8 +3,8 @@ id: 2004/burley
 year: 2004
 order: 3
 authors: "Brent_Burley"
-orig_url: "https://www.ioccc.org/2004/burley.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/burley.hint"
+orig_url: "https://www.ioccc.org/2004/burley/burley.orig.c"
+hint_url: "https://www.ioccc.org/2004/burley/index.html"
 title: "IOCCC 2004: Best Calculated Risk"
 award_ja: "最高の計算されたリスク"
 ---

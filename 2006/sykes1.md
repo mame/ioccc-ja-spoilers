@@ -4,7 +4,7 @@ year: 2006
 order: 10
 authors: "Stephen_Sykes"
 orig_url: "https://www.ioccc.org/2006/sykes1/sykes1.c"
-hint_url: "https://www.ioccc.org/2006/sykes1/hint.text"
+hint_url: "https://www.ioccc.org/2006/sykes1/index.html"
 title: "IOCCC 2006: Best Assembler"
 award_ja: "最高のアセンブラ"
 ---

@@ -4,7 +4,7 @@ year: 1986
 order: 1
 authors: "Jack_Applin"
 orig_url: "https://www.ioccc.org/1986/applin/applin.c"
-hint_url: "https://www.ioccc.org/1986/applin/hint.html"
+hint_url: "https://www.ioccc.org/1986/applin/index.html"
 title: "IOCCC 1986: Most adaptable program"
 award_ja: "もっとも適応性のあるプログラム"
 ---

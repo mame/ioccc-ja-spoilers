@@ -5,7 +5,7 @@ order: 9
 authors: "Don_Yang"
 file: 2012/nyaruko
 orig_url: "https://www.ioccc.org/2012/omoikane/nyaruko.c"
-hint_url: "https://www.ioccc.org/2012/omoikane/hint.html"
+hint_url: "https://www.ioccc.org/2012/omoikane/index.html"
 title: "IOCCC 2012: Most surreptitious"
 award_ja: "もっともこっそり"
 ---

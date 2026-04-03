@@ -4,8 +4,8 @@ year: 1998
 order: 11
 patch: true
 authors: "Jens_Schweikhardt"
-orig_url: "https://www.ioccc.org/1998/schweikh2.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/schweikh2.hint"
+orig_url: "https://www.ioccc.org/1998/schweikh2/schweikh2.orig.c"
+hint_url: "https://www.ioccc.org/1998/schweikh2/index.html"
 title: "IOCCC 1998: Most Erratic Behavior"
 award_ja: "もっとも不安定な挙動"
 ---

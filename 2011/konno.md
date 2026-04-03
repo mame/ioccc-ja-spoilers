@@ -4,7 +4,7 @@ year: 2011
 order: 9
 authors: "Taketo_Konno"
 orig_url: "https://www.ioccc.org/2011/konno/konno.c"
-hint_url: "https://www.ioccc.org/2011/konno/hint.html"
+hint_url: "https://www.ioccc.org/2011/konno/index.html"
 title: "IOCCC 2011: Best one liner"
 award_ja: "最高のワンライナー"
 ---

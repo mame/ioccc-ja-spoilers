@@ -3,8 +3,8 @@ id: 1994/horton
 year: 1994
 order: 3
 authors: "Mark_Horton"
-orig_url: "https://www.ioccc.org/1994/horton.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1994/horton.hint"
+orig_url: "https://www.ioccc.org/1994/horton/horton.orig.c"
+hint_url: "https://www.ioccc.org/1994/horton/index.html"
 title: "IOCCC 1994: Best Utility"
 award_ja: "最高のユーティリティ"
 ---

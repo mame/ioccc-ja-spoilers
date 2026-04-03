@@ -4,8 +4,8 @@ year: 1988
 order: 1
 patch: true
 authors: "Paul_Dale"
-orig_url: "https://www.ioccc.org/1988/dale.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1988/dale.hint"
+orig_url: "https://www.ioccc.org/1988/dale/dale.orig.c"
+hint_url: "https://www.ioccc.org/1988/dale/index.html"
 title: "IOCCC 1988: Best abuse of system calls"
 award_ja: "システムコールの最高の悪用"
 ---

@@ -4,7 +4,7 @@ year: 2006
 order: 5
 authors: "Raphael_Meyer"
 orig_url: "https://www.ioccc.org/2006/meyer/meyer.c"
-hint_url: "https://www.ioccc.org/2006/meyer/hint.text"
+hint_url: "https://www.ioccc.org/2006/meyer/index.html"
 title: "IOCCC 2006: Best Game"
 award_ja: "最高のゲーム"
 ---

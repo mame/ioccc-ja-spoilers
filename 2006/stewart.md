@@ -4,7 +4,7 @@ year: 2006
 order: 9
 authors: "Thomas_Stewart"
 orig_url: "https://www.ioccc.org/2006/stewart/stewart.c"
-hint_url: "https://www.ioccc.org/2006/stewart/hint.text"
+hint_url: "https://www.ioccc.org/2006/stewart/index.html"
 title: "IOCCC 2006: Best Computed Graphics"
 award_ja: "最高の計算されたグラフィックス"
 ---

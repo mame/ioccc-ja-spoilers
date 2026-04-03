@@ -4,8 +4,8 @@ year: 1995
 order: 1
 patch: true
 authors: "Carlos_Duarte"
-orig_url: "https://www.ioccc.org/1995/cdua.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1995/cdua.hint"
+orig_url: "https://www.ioccc.org/1995/cdua/cdua.orig.c"
+hint_url: "https://www.ioccc.org/1995/cdua/index.html"
 title: "IOCCC 1995: Best Output"
 award_ja: "最高の出力"
 ---

@@ -3,8 +3,8 @@ id: 2004/anonymous
 year: 2004
 order: 1
 authors: "Anonymous_2004"
-orig_url: "https://www.ioccc.org/2004/anonymous.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/anonymous.hint"
+orig_url: "https://www.ioccc.org/2004/anonymous/anonymous.orig.c"
+hint_url: "https://www.ioccc.org/2004/anonymous/index.html"
 title: "IOCCC 2004: Best use of \"Precious\" Lines"
 award_ja: "「いとしい」行の最高の使い方"
 ---

@@ -4,7 +4,7 @@ year: 2005
 order: 7
 authors: "Peter_Klausler"
 orig_url: "https://www.ioccc.org/2005/klausler/klausler.c"
-hint_url: "https://www.ioccc.org/2005/klausler/hint.text"
+hint_url: "https://www.ioccc.org/2005/klausler/index.html"
 title: "IOCCC 2005: Abuse of the rules"
 award_ja: "ルールの悪用"
 ---

@@ -4,7 +4,7 @@ year: 2011
 order: 1
 authors: "Philip_Blakely"
 orig_url: "https://www.ioccc.org/2011/blakely/blakely.c"
-hint_url: "https://www.ioccc.org/2011/blakely/hint.html"
+hint_url: "https://www.ioccc.org/2011/blakely/index.html"
 title: "IOCCC 2011: Most devolving"
 award_ja: "もっとも退化的"
 ---

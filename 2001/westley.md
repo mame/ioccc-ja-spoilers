@@ -3,8 +3,8 @@ id: 2001/westley
 year: 2001
 order: 13
 authors: "Brian_Westley"
-orig_url: "https://www.ioccc.org/2001/westley.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/westley.hint"
+orig_url: "https://www.ioccc.org/2001/westley/westley.orig.c"
+hint_url: "https://www.ioccc.org/2001/westley/index.html"
 title: "IOCCC 2001: Best position-independent code"
 award_ja: "最高の位置独立コード"
 ---

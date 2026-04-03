@@ -4,8 +4,8 @@ year: 1998
 order: 3
 patch: true
 authors: "Alan_De_Smet"
-orig_url: "https://www.ioccc.org/1998/chaos.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/chaos.hint"
+orig_url: "https://www.ioccc.org/1998/chaos/chaos.orig.c"
+hint_url: "https://www.ioccc.org/1998/chaos/index.html"
 title: "IOCCC 1998: Best Object Orientation"
 award_ja: "最高のオブジェクト指向"
 ---

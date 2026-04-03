@@ -3,8 +3,8 @@ id: 1996/westley
 year: 1996
 order: 10
 authors: "Brian_Westley"
-orig_url: "https://www.ioccc.org/1996/westley.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1996/westley.hint"
+orig_url: "https://www.ioccc.org/1996/westley/westley.orig.c"
+hint_url: "https://www.ioccc.org/1996/westley/index.html"
 title: "IOCCC 1996: Best One Liner"
 award_ja: "最高のワンライナー"
 ---

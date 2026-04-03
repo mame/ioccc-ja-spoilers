@@ -6,8 +6,8 @@ authors:
   - "James_A._Woods"
   - "Karl_F._Fox"
   - "Paul_Eggert"
-orig_url: "https://www.ioccc.org/1990/jaw.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1990/jaw.hint"
+orig_url: "https://www.ioccc.org/1990/jaw/jaw.orig.c"
+hint_url: "https://www.ioccc.org/1990/jaw/index.html"
 title: "IOCCC 1990: Best Entropy-reducer"
 award_ja: "最高のエントロピー削減器"
 ---

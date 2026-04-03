@@ -3,8 +3,8 @@ id: 2001/herrmann1
 year: 2001
 order: 7
 authors: "Immanuel_Herrmann"
-orig_url: "https://www.ioccc.org/2001/herrmann1.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/herrmann1.hint"
+orig_url: "https://www.ioccc.org/2001/herrmann1/herrmann1.orig.c"
+hint_url: "https://www.ioccc.org/2001/herrmann1/index.html"
 title: "IOCCC 2001: Best abuse of the C preprocessor"
 award_ja: "Cプリプロセッサの最高の悪用"
 ---

@@ -4,7 +4,7 @@ year: 2015
 order: 10
 authors: "Christopher_Mills"
 orig_url: "https://www.ioccc.org/2015/mills2/prog.c"
-hint_url: "https://www.ioccc.org/2015/mills2/hint.html"
+hint_url: "https://www.ioccc.org/2015/mills2/index.html"
 title: "IOCCC 2015: Most Compact"
 award_ja: "もっともコンパクト"
 ---

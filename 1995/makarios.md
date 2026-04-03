@@ -5,8 +5,8 @@ order: 8
 authors:
   - "Selene_Makarios"
   - "Heather_Downs"
-orig_url: "https://www.ioccc.org/1995/makarios.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1995/makarios.hint"
+orig_url: "https://www.ioccc.org/1995/makarios/makarios.orig.c"
+hint_url: "https://www.ioccc.org/1995/makarios/index.html"
 title: "IOCCC 1995: Best Short Program"
 award_ja: "最高のショートプログラム"
 ---

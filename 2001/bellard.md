@@ -4,8 +4,8 @@ year: 2001
 order: 2
 patch: true
 authors: "Fabrice_Bellard"
-orig_url: "https://www.ioccc.org/2001/bellard.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/bellard.hint"
+orig_url: "https://www.ioccc.org/2001/bellard/bellard.orig.c"
+hint_url: "https://www.ioccc.org/2001/bellard/index.html"
 title: "IOCCC 2001: Best abuse of the rules"
 award_ja: "ルールの最高の悪用"
 ---

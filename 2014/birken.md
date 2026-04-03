@@ -6,7 +6,7 @@ authors:
   - "Michael_Birken"
   - "Alexander_Prishchepov"
 orig_url: "https://www.ioccc.org/2014/birken/prog.c"
-hint_url: "https://www.ioccc.org/2014/birken/hint.html"
+hint_url: "https://www.ioccc.org/2014/birken/index.html"
 title: "IOCCC 2014: Best use of port 1701"
 award_ja: "ポート1701の最高の使い方"
 ---

@@ -5,7 +5,7 @@ order: 9
 patch: true
 authors: "Larry_Wall"
 orig_url: "https://www.ioccc.org/1986/wall/wall.c"
-hint_url: "https://www.ioccc.org/1986/wall/hint.html"
+hint_url: "https://www.ioccc.org/1986/wall/index.html"
 title: "IOCCC 1986: The grand prize in most well-rounded in confusion"
 award_ja: "もっとも混乱たっぷりの大賞"
 ---

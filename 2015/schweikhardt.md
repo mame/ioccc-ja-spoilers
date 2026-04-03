@@ -4,7 +4,7 @@ year: 2015
 order: 12
 authors: "Jens_Schweikhardt"
 orig_url: "https://www.ioccc.org/2015/schweikhardt/prog.c"
-hint_url: "https://www.ioccc.org/2015/schweikhardt/hint.html"
+hint_url: "https://www.ioccc.org/2015/schweikhardt/index.html"
 title: "IOCCC 2015: Best Documented"
 award_ja: "最高にドキュメントが書かれている"
 tabsize: 4

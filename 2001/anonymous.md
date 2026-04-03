@@ -3,8 +3,8 @@ id: 2001/anonymous
 year: 2001
 order: 1
 authors: "Gavin_Barraclough"
-orig_url: "https://www.ioccc.org/2001/anonymous.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/anonymous.hint"
+orig_url: "https://www.ioccc.org/2001/anonymous/anonymous.orig.c"
+hint_url: "https://www.ioccc.org/2001/anonymous/index.html"
 title: "IOCCC 2001: Dishonorable mention"
 award_ja: "不名誉な言及"
 ---

@@ -3,8 +3,8 @@ id: 1988/westley
 year: 1988
 order: 8
 authors: "Brian_Westley"
-orig_url: "https://www.ioccc.org/1988/westley.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1988/westley.hint"
+orig_url: "https://www.ioccc.org/1988/westley/westley.orig.c"
+hint_url: "https://www.ioccc.org/1988/westley/index.html"
 title: "IOCCC 1988: Best layout"
 award_ja: "最高のレイアウト"
 ---

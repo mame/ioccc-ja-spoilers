@@ -4,7 +4,7 @@ year: 2011
 order: 5
 authors: "Kimmo_Fredriksson"
 orig_url: "https://www.ioccc.org/2011/fredriksson/fredriksson.c"
-hint_url: "https://www.ioccc.org/2011/fredriksson/hint.html"
+hint_url: "https://www.ioccc.org/2011/fredriksson/index.html"
 title: "IOCCC 2011: Most useful"
 award_ja: "もっとも便利"
 ---

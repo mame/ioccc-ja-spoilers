@@ -3,8 +3,8 @@ id: 2000/primenum
 year: 2000
 order: 8
 authors: "Raymond_Cheong"
-orig_url: "https://www.ioccc.org/2000/primenum.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/primenum.hint"
+orig_url: "https://www.ioccc.org/2000/primenum/primenum.orig.c"
+hint_url: "https://www.ioccc.org/2000/primenum/index.html"
 title: "IOCCC 2000: Best Abuse of CPP"
 award_ja: "CPPの最高の悪用"
 ---

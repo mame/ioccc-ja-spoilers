@@ -3,8 +3,8 @@ id: 1995/esde
 year: 1995
 order: 4
 authors: "Sebastian_Deorowicz"
-orig_url: "https://www.ioccc.org/1995/esde.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1995/esde.hint"
+orig_url: "https://www.ioccc.org/1995/esde/esde.orig.c"
+hint_url: "https://www.ioccc.org/1995/esde/index.html"
 title: "IOCCC 1995: Interesting Algorithm"
 award_ja: "興味深いアルゴリズム"
 ---

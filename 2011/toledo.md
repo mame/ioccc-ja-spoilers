@@ -4,7 +4,7 @@ year: 2011
 order: 11
 authors: "Oscar_Toledo_G."
 orig_url: "https://www.ioccc.org/2011/toledo/toledo.c"
-hint_url: "https://www.ioccc.org/2011/toledo/hint.html"
+hint_url: "https://www.ioccc.org/2011/toledo/index.html"
 title: "IOCCC 2011: Best non-chess game"
 award_ja: "最高のチェスじゃないゲーム"
 ---

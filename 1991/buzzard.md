@@ -3,8 +3,8 @@ id: 1991/buzzard
 year: 1991
 order: 2
 authors: "Sean_Barrett"
-orig_url: "https://www.ioccc.org/1991/buzzard.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1991/buzzard.hint"
+orig_url: "https://www.ioccc.org/1991/buzzard/buzzard.orig.c"
+hint_url: "https://www.ioccc.org/1991/buzzard/index.html"
 title: "IOCCC 1991: Best Output"
 award_ja: "最高の出力"
 ---

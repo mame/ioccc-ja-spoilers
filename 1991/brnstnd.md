@@ -4,8 +4,8 @@ year: 1991
 order: 9
 patch: true
 authors: "Daniel_J._Bernstein"
-orig_url: "https://www.ioccc.org/1991/brnstnd.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1991/brnstnd.hint"
+orig_url: "https://www.ioccc.org/1991/brnstnd/brnstnd.orig.c"
+hint_url: "https://www.ioccc.org/1991/brnstnd/index.html"
 title: "IOCCC 1991: Best Of Show"
 award_ja: "最優秀賞"
 linewrap: true

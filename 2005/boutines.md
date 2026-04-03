@@ -4,7 +4,7 @@ year: 2005
 order: 3
 authors: "Francois_Boutines"
 orig_url: "https://www.ioccc.org/2005/boutines/boutines.c"
-hint_url: "https://www.ioccc.org/2005/boutines/hint.text"
+hint_url: "https://www.ioccc.org/2005/boutines/index.html"
 title: "IOCCC 2005: Most superfluous output"
 award_ja: "もっとも過剰な出力"
 ---

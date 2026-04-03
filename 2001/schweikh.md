@@ -3,8 +3,8 @@ id: 2001/schweikh
 year: 2001
 order: 12
 authors: "Jens_Schweikhardt"
-orig_url: "https://www.ioccc.org/2001/schweikh.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/schweikh.hint"
+orig_url: "https://www.ioccc.org/2001/schweikh/schweikh.orig.c"
+hint_url: "https://www.ioccc.org/2001/schweikh/index.html"
 title: "IOCCC 2001: Best one-liner"
 award_ja: "最高のワンライナー"
 ---

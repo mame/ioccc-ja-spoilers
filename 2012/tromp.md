@@ -4,7 +4,7 @@ year: 2012
 order: 10
 authors: "John_Tromp"
 orig_url: "https://www.ioccc.org/2012/tromp/tromp.c"
-hint_url: "https://www.ioccc.org/2012/tromp/hint.html"
+hint_url: "https://www.ioccc.org/2012/tromp/index.html"
 title: "IOCCC 2012: Most functional"
 award_ja: "もっとも関数的"
 ---

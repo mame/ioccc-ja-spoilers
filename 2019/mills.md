@@ -4,7 +4,7 @@ year: 2019
 order: 12
 authors: "Christopher_Mills"
 orig_url: "https://www.ioccc.org/2019/mills/prog.c"
-hint_url: "https://www.ioccc.org/2019/mills/hint.html"
+hint_url: "https://www.ioccc.org/2019/mills/index.html"
 title: "IOCCC 2019: Most in need to be tweeted"
 award_ja: "もっともツイートされる必要がある"
 ---

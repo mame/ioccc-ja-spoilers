@@ -3,8 +3,8 @@ id: 1993/plummer
 year: 1993
 order: 8
 authors: "Mark_Plummer"
-orig_url: "https://www.ioccc.org/1993/plummer.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1993/plummer.hint"
+orig_url: "https://www.ioccc.org/1993/plummer/plummer.orig.c"
+hint_url: "https://www.ioccc.org/1993/plummer/index.html"
 title: "IOCCC 1993: Best One Liner"
 award_ja: "最高のワンライナー"
 ---

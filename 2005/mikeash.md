@@ -5,7 +5,7 @@ order: 8
 patch: true
 authors: "Michael_Ash"
 orig_url: "https://www.ioccc.org/2005/mikeash/mikeash.c"
-hint_url: "https://www.ioccc.org/2005/mikeash/hint.text"
+hint_url: "https://www.ioccc.org/2005/mikeash/index.html"
 title: "IOCCC 2005: Best use of parenthesis"
 award_ja: "カッコの最高の使い方"
 linewrap: true

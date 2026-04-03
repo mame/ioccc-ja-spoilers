@@ -4,7 +4,7 @@ year: 2005
 order: 12
 authors: "Oscar_Toledo_G."
 orig_url: "https://www.ioccc.org/2005/toledo/toledo.c"
-hint_url: "https://www.ioccc.org/2005/toledo/hint.text"
+hint_url: "https://www.ioccc.org/2005/toledo/index.html"
 title: "IOCCC 2005: Best game"
 award_ja: "最高のゲーム"
 ---

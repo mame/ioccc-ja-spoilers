@@ -4,7 +4,7 @@ year: 2019
 order: 6
 authors: "Gil_Dogon"
 orig_url: "https://www.ioccc.org/2019/dogon/prog.c"
-hint_url: "https://www.ioccc.org/2019/dogon/hint.html"
+hint_url: "https://www.ioccc.org/2019/dogon/index.html"
 title: "IOCCC 2019: Best use of space and time"
 award_ja: "空間と時間の最高の使い方"
 ---

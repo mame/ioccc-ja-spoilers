@@ -4,7 +4,7 @@ year: 2006
 order: 8
 authors: "Andy_Sloane"
 orig_url: "https://www.ioccc.org/2006/sloane/sloane.c"
-hint_url: "https://www.ioccc.org/2006/sloane/hint.text"
+hint_url: "https://www.ioccc.org/2006/sloane/index.html"
 title: "IOCCC 2006: Homer's Favorite"
 award_ja: "ホーマーのお気に入り"
 ---

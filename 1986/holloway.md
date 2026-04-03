@@ -4,7 +4,7 @@ year: 1986
 order: 3
 authors: "Bruce_Holloway"
 orig_url: "https://www.ioccc.org/1986/holloway/holloway.c"
-hint_url: "https://www.ioccc.org/1986/holloway/hint.html"
+hint_url: "https://www.ioccc.org/1986/holloway/index.html"
 title: "IOCCC 1986: Best simple task performed in a complex way"
 award_ja: "複雑なやり方で行われる最高のシンプルなタスク"
 ---

@@ -4,7 +4,7 @@ year: 2014
 order: 4
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2014/endoh2/prog.c"
-hint_url: "https://www.ioccc.org/2014/endoh2/hint.html"
+hint_url: "https://www.ioccc.org/2014/endoh2/index.html"
 title: "IOCCC 2014: Best use of bioinformatics"
 award_ja: "バイオインフォマティクスの最高の使い方"
 ---

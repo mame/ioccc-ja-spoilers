@@ -3,8 +3,8 @@ id: 1996/huffman
 year: 1996
 order: 4
 authors: "Ken_Huffman"
-orig_url: "https://www.ioccc.org/1996/huffman.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1996/huffman.hint"
+orig_url: "https://www.ioccc.org/1996/huffman/huffman.orig.c"
+hint_url: "https://www.ioccc.org/1996/huffman/index.html"
 title: "IOCCC 1996: Best Obfuscated Character Set Utility"
 award_ja: "最高の難読化文字集合ツール"
 ---

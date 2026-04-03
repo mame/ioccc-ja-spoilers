@@ -4,8 +4,8 @@ year: 1991
 order: 8
 patch: true
 authors: "Brian_Westley"
-orig_url: "https://www.ioccc.org/1991/westley.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1991/westley.hint"
+orig_url: "https://www.ioccc.org/1991/westley/westley.orig.c"
+hint_url: "https://www.ioccc.org/1991/westley/index.html"
 title: "IOCCC 1991: Grand Prize"
 award_ja: "大賞"
 ---

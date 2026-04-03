@@ -5,8 +5,8 @@ order: 1
 authors:
   - "Doron_Osovlanski"
   - "Baruch_Nissenbaum"
-orig_url: "https://www.ioccc.org/1990/baruch.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1990/baruch.hint"
+orig_url: "https://www.ioccc.org/1990/baruch/baruch.orig.c"
+hint_url: "https://www.ioccc.org/1990/baruch/index.html"
 title: "IOCCC 1990: Best Small Program"
 award_ja: "最高の小さいプログラム"
 linewrap: true

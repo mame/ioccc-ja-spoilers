@@ -3,8 +3,8 @@ id: 1989/westley
 year: 1989
 order: 9
 authors: "Brian_Westley"
-orig_url: "https://www.ioccc.org/1989/westley.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1989/westley.hint"
+orig_url: "https://www.ioccc.org/1989/westley/westley.orig.c"
+hint_url: "https://www.ioccc.org/1989/westley/index.html"
 title: "IOCCC 1989: Most algorithms in one program"
 award_ja: "単一プログラム中の最多アルゴリズム"
 ---

@@ -3,8 +3,8 @@ id: 1996/rcm
 year: 1996
 order: 6
 authors: "Ron_McFarland"
-orig_url: "https://www.ioccc.org/1996/rcm.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1996/rcm.hint"
+orig_url: "https://www.ioccc.org/1996/rcm/rcm.orig.c"
+hint_url: "https://www.ioccc.org/1996/rcm/index.html"
 title: "IOCCC 1996: Best RFC Obfuscation"
 award_ja: "最高のRFC難読化"
 ---

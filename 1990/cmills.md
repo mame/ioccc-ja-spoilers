@@ -4,8 +4,8 @@ year: 1990
 order: 2
 patch: true
 authors: "Christopher_Mills"
-orig_url: "https://www.ioccc.org/1990/cmills.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1990/cmills.hint"
+orig_url: "https://www.ioccc.org/1990/cmills/cmills.orig.c"
+hint_url: "https://www.ioccc.org/1990/cmills/index.html"
 title: "IOCCC 1990: Best Game"
 award_ja: "最高のゲーム"
 linewrap: true

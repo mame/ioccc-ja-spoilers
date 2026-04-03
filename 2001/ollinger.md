@@ -3,8 +3,8 @@ id: 2001/ollinger
 year: 2001
 order: 10
 authors: "Nicolas_Ollinger"
-orig_url: "https://www.ioccc.org/2001/ollinger.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/ollinger.hint"
+orig_url: "https://www.ioccc.org/2001/ollinger/ollinger.orig.c"
+hint_url: "https://www.ioccc.org/2001/ollinger/index.html"
 title: "IOCCC 2001: Best primal ASCII graphics"
 award_ja: "最高の主要なASCIIグラフィックス"
 ---

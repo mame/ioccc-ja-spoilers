@@ -3,8 +3,8 @@ id: 2004/sds
 year: 2004
 order: 12
 authors: "Stephen_Sykes"
-orig_url: "https://www.ioccc.org/2004/sds.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/sds.hint"
+orig_url: "https://www.ioccc.org/2004/sds/sds.orig.c"
+hint_url: "https://www.ioccc.org/2004/sds/index.html"
 title: "IOCCC 2004: Best Abuse of Indentation"
 award_ja: "インデントの最高の悪用"
 ---

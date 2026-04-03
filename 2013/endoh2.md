@@ -4,7 +4,7 @@ year: 2013
 order: 6
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2013/endoh2/endoh2.c"
-hint_url: "https://www.ioccc.org/2013/endoh2/hint.html"
+hint_url: "https://www.ioccc.org/2013/endoh2/index.html"
 title: "IOCCC 2013: Most recyclable"
 award_ja: "もっともリサイクル可能"
 ---

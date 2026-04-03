@@ -4,7 +4,7 @@ year: 2012
 order: 8
 authors: "Taketo_Konno"
 orig_url: "https://www.ioccc.org/2012/konno/konno.c"
-hint_url: "https://www.ioccc.org/2012/konno/hint.html"
+hint_url: "https://www.ioccc.org/2012/konno/index.html"
 title: "IOCCC 2012: Best one liner"
 award_ja: "最高のワンライナー"
 ---

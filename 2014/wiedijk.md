@@ -4,7 +4,7 @@ year: 2014
 order: 11
 authors: "Freek_Wiedijk"
 orig_url: "https://www.ioccc.org/2014/wiedijk/prog.c"
-hint_url: "https://www.ioccc.org/2014/wiedijk/hint.html"
+hint_url: "https://www.ioccc.org/2014/wiedijk/index.html"
 title: "IOCCC 2014: Most functional"
 award_ja: "最も関数的"
 ---

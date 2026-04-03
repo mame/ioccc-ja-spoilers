@@ -4,8 +4,8 @@ year: 1989
 order: 5
 patch: true
 authors: "Arch_D_Robison"
-orig_url: "https://www.ioccc.org/1989/robison.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1989/robison.hint"
+orig_url: "https://www.ioccc.org/1989/robison/robison.orig.c"
+hint_url: "https://www.ioccc.org/1989/robison/index.html"
 title: "IOCCC 1989: Best minimal use of C"
 award_ja: "Cの最高の最小限の使い方"
 ---

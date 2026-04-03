@@ -4,7 +4,7 @@ year: 2006
 order: 12
 authors: "Oscar_Toledo_G."
 orig_url: "https://www.ioccc.org/2006/toledo1/toledo1.c"
-hint_url: "https://www.ioccc.org/2006/toledo1/hint.text"
+hint_url: "https://www.ioccc.org/2006/toledo1/index.html"
 title: "IOCCC 2006: Best Small Program"
 award_ja: "最高のスモールプログラム"
 ---

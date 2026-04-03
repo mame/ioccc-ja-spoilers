@@ -3,8 +3,8 @@ id: 1992/ant
 year: 1992
 order: 3
 authors: "Anthony_C._Howe"
-orig_url: "https://www.ioccc.org/1992/ant.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/ant.hint"
+orig_url: "https://www.ioccc.org/1992/ant/ant.orig.c"
+hint_url: "https://www.ioccc.org/1992/ant/index.html"
 title: "IOCCC 1992: Best Utility"
 award_ja: "最高のユーティリティ"
 ---

@@ -4,7 +4,7 @@ year: 2019
 order: 7
 authors: "Etienne_Duble"
 orig_url: "https://www.ioccc.org/2019/duble/prog.c"
-hint_url: "https://www.ioccc.org/2019/duble/hint.html"
+hint_url: "https://www.ioccc.org/2019/duble/index.html"
 title: "IOCCC 2019: Best collaborative graphics"
 award_ja: "もっとも協力的なグラフィックス"
 ---

@@ -4,7 +4,7 @@ year: 2018
 order: 9
 authors: "Cody_Ferguson"
 orig_url: "https://www.ioccc.org/2018/ferguson/prog.c"
-hint_url: "https://www.ioccc.org/2018/ferguson/hint.html"
+hint_url: "https://www.ioccc.org/2018/ferguson/index.html"
 title: "IOCCC 2018: Best use of weasel words"
 award_ja: "イタチの言葉の最高の使い方"
 ---

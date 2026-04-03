@@ -4,8 +4,8 @@ year: 1996
 order: 3
 patch: true
 authors: "Dean_Swift"
-orig_url: "https://www.ioccc.org/1996/gandalf.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1996/gandalf.hint"
+orig_url: "https://www.ioccc.org/1996/gandalf/gandalf.orig.c"
+hint_url: "https://www.ioccc.org/1996/gandalf/index.html"
 title: "IOCCC 1996: Best Layout"
 award_ja: "最高のレイアウト"
 ---

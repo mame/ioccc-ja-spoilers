@@ -4,7 +4,7 @@ year: 1985
 order: 2
 authors: "Lennart_Augustsson"
 orig_url: "https://www.ioccc.org/1985/august/august.c"
-hint_url: "https://www.ioccc.org/1985/august/hint.html"
+hint_url: "https://www.ioccc.org/1985/august/index.html"
 title: "IOCCC 1985: The most obscure program"
 award_ja: "もっとも不明瞭なプログラム"
 ---

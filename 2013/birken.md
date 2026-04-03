@@ -4,7 +4,7 @@ year: 2013
 order: 1
 authors: "Michael_Birken"
 orig_url: "https://www.ioccc.org/2013/birken/birken.c"
-hint_url: "https://www.ioccc.org/2013/birken/hint.html"
+hint_url: "https://www.ioccc.org/2013/birken/index.html"
 title: "IOCCC 2013: Best painting tool"
 award_ja: "最高のお絵かきツール"
 ---

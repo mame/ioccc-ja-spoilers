@@ -4,7 +4,7 @@ year: 2018
 order: 1
 authors: "Anton_Älgmyr"
 orig_url: "https://www.ioccc.org/2018/algmyr/prog.c"
-hint_url: "https://www.ioccc.org/2018/algmyr/hint.html"
+hint_url: "https://www.ioccc.org/2018/algmyr/index.html"
 title: "IOCCC 2018: Most cacophonic"
 award_ja: "もっとも不快な音を持つ"
 ---

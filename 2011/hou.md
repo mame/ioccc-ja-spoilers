@@ -4,7 +4,7 @@ year: 2011
 order: 8
 authors: "Qiming_HOU"
 orig_url: "https://www.ioccc.org/2011/hou/hou.c"
-hint_url: "https://www.ioccc.org/2011/hou/hint.html"
+hint_url: "https://www.ioccc.org/2011/hou/index.html"
 title: "IOCCC 2011: Best self documenting program"
 award_ja: "最高の自己説明的なプログラム"
 ---

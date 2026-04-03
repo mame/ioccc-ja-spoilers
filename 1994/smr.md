@@ -3,8 +3,8 @@ id: 1994/smr
 year: 1994
 order: 7
 authors: "Szymon_Rusinkiewicz"
-orig_url: "https://www.ioccc.org/1994/smr.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1994/smr.hint"
+orig_url: "https://www.ioccc.org/1994/smr/smr.orig.c"
+hint_url: "https://www.ioccc.org/1994/smr/index.html"
 title: "IOCCC 1994: Worst Abuse of the Rules"
 award_ja: "ルールの最悪の悪用"
 ---

@@ -4,8 +4,8 @@ year: 1995
 order: 7
 patch: true
 authors: "Leonid_A._Broukhis"
-orig_url: "https://www.ioccc.org/1995/leo.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1995/leo.hint"
+orig_url: "https://www.ioccc.org/1995/leo/leo.orig.c"
+hint_url: "https://www.ioccc.org/1995/leo/index.html"
 title: "IOCCC 1995: Best Use of Obfuscation"
 award_ja: "難読化の最高の使い方"
 ---

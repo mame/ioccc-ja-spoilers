@@ -4,7 +4,7 @@ year: 2015
 order: 5
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2015/endoh2/prog.c"
-hint_url: "https://www.ioccc.org/2015/endoh2/hint.html"
+hint_url: "https://www.ioccc.org/2015/endoh2/index.html"
 title: "IOCCC 2015: Most Overlooked Obfuscation"
 award_ja: "もっとも見逃されていた難読化"
 ---

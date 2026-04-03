@@ -3,8 +3,8 @@ id: 1992/gson
 year: 1992
 order: 6
 authors: "Andreas_Gustafsson"
-orig_url: "https://www.ioccc.org/1992/gson.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/gson.hint"
+orig_url: "https://www.ioccc.org/1992/gson/gson.orig.c"
+hint_url: "https://www.ioccc.org/1992/gson/index.html"
 title: "IOCCC 1992: Most Humorous Output"
 award_ja: "もっともユーモラスな出力"
 ---

@@ -4,7 +4,7 @@ year: 2005
 order: 13
 authors: "Daniel_Vik"
 orig_url: "https://www.ioccc.org/2005/vik/vik.c"
-hint_url: "https://www.ioccc.org/2005/vik/hint.text"
+hint_url: "https://www.ioccc.org/2005/vik/index.html"
 title: "IOCCC 2005: Most circuitous walk"
 award_ja: "もっとも回り道"
 ---

@@ -4,7 +4,7 @@ year: 2019
 order: 3
 authors: "Marcin_Ciura"
 orig_url: "https://www.ioccc.org/2019/ciura/prog.c"
-hint_url: "https://www.ioccc.org/2019/ciura/hint.html"
+hint_url: "https://www.ioccc.org/2019/ciura/index.html"
 title: "IOCCC 2019: Most alphabetic"
 award_ja: "もっともアルファベット"
 ---

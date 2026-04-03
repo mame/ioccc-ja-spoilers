@@ -4,7 +4,7 @@ year: 2018
 order: 5
 authors: "Dave_Burton"
 orig_url: "https://www.ioccc.org/2018/burton2/prog.c"
-hint_url: "https://www.ioccc.org/2018/burton2/hint.html"
+hint_url: "https://www.ioccc.org/2018/burton2/index.html"
 title: "IOCCC 2018: Best abuse of the rules"
 award_ja: "ルールの最高の悪用"
 ---

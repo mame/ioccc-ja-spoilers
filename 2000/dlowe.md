@@ -4,8 +4,8 @@ year: 2000
 order: 6
 patch: true
 authors: "J_David_Lowe"
-orig_url: "https://www.ioccc.org/2000/dlowe.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/dlowe.hint"
+orig_url: "https://www.ioccc.org/2000/dlowe/dlowe.orig.c"
+hint_url: "https://www.ioccc.org/2000/dlowe/index.html"
 title: "IOCCC 2000: Worst Abuse of the Rules"
 award_ja: "ルールの最悪な悪用"
 ---

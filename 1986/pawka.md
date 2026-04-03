@@ -4,7 +4,7 @@ year: 1986
 order: 7
 authors: "Michael_H._Pawka"
 orig_url: "https://www.ioccc.org/1986/pawka/pawka.c"
-hint_url: "https://www.ioccc.org/1986/pawka/hint.html"
+hint_url: "https://www.ioccc.org/1986/pawka/index.html"
 title: "IOCCC 1986: Most illegible code"
 award_ja: "もっとも判読不能なコード"
 ---

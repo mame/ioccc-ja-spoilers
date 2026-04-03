@@ -4,7 +4,7 @@ year: 2013
 order: 7
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2013/endoh3/endoh3.c"
-hint_url: "https://www.ioccc.org/2013/endoh3/hint.html"
+hint_url: "https://www.ioccc.org/2013/endoh3/index.html"
 title: "IOCCC 2013: Most tweetable 1-liner"
 award_ja: "もっともツイート可能なワンライナー"
 ---

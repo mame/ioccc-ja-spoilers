@@ -4,7 +4,7 @@ year: 2013
 order: 14
 authors: "Arch_D_Robison"
 orig_url: "https://www.ioccc.org/2013/robison/robison.c"
-hint_url: "https://www.ioccc.org/2013/robison/hint.html"
+hint_url: "https://www.ioccc.org/2013/robison/index.html"
 title: "IOCCC 2013: Most poetic use of strings"
 award_ja: "文字列のもっとも詩的な使い方"
 ---

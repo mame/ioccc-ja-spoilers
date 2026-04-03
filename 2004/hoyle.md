@@ -3,8 +3,8 @@ id: 2004/hoyle
 year: 2004
 order: 6
 authors: "Jonathan_Hoyle"
-orig_url: "https://www.ioccc.org/2004/hoyle.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/hoyle.hint"
+orig_url: "https://www.ioccc.org/2004/hoyle/hoyle.orig.c"
+hint_url: "https://www.ioccc.org/2004/hoyle/index.html"
 title: "IOCCC 2004: Most Functional Output"
 award_ja: "もっとも関数的な出力"
 ---

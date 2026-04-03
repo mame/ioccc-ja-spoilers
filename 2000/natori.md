@@ -3,8 +3,8 @@ id: 2000/natori
 year: 2000
 order: 7
 authors: "NATORI_Shin"
-orig_url: "https://www.ioccc.org/2000/natori.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/natori.hint"
+orig_url: "https://www.ioccc.org/2000/natori/natori.orig.c"
+hint_url: "https://www.ioccc.org/2000/natori/index.html"
 title: "IOCCC 2000: Best Small Program"
 award_ja: "最高のスモールプログラム"
 linewrap: true

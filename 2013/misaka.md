@@ -4,7 +4,7 @@ year: 2013
 order: 11
 authors: "Don_Yang"
 orig_url: "https://www.ioccc.org/2013/misaka/misaka.c"
-hint_url: "https://www.ioccc.org/2013/misaka/hint.html"
+hint_url: "https://www.ioccc.org/2013/misaka/index.html"
 title: "IOCCC 2013: Most catty"
 award_ja: "もっとも意地悪"
 ---

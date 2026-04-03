@@ -6,7 +6,7 @@ authors:
   - "Shinichiro_Hamaji"
   - "bsoup"
 orig_url: "https://www.ioccc.org/2011/hamaji/hamaji.c"
-hint_url: "https://www.ioccc.org/2011/hamaji/hint.html"
+hint_url: "https://www.ioccc.org/2011/hamaji/index.html"
 title: "IOCCC 2011: Best solved puzzle"
 award_ja: "最高の解かれたパズル"
 ---

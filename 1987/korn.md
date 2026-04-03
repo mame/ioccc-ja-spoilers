@@ -4,7 +4,7 @@ year: 1987
 order: 4
 authors: "David_Korn"
 orig_url: "https://www.ioccc.org/1987/korn/korn.c"
-hint_url: "https://www.ioccc.org/1987/korn/hint.html"
+hint_url: "https://www.ioccc.org/1987/korn/index.html"
 title: "IOCCC 1987: Best One Liner"
 award_ja: "最高のワンライナー"
 ---

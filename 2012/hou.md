@@ -4,7 +4,7 @@ year: 2012
 order: 6
 authors: "Qiming_HOU"
 orig_url: "https://www.ioccc.org/2012/hou/hou.c"
-hint_url: "https://www.ioccc.org/2012/hou/hint.html"
+hint_url: "https://www.ioccc.org/2012/hou/index.html"
 title: "IOCCC 2012: Most useful obfuscation"
 award_ja: "もっとも便利な難読化"
 ---

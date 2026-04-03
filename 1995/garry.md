@@ -3,8 +3,8 @@ id: 1995/garry
 year: 1995
 order: 5
 authors: "Garry_Glendown"
-orig_url: "https://www.ioccc.org/1995/garry.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1995/garry.hint"
+orig_url: "https://www.ioccc.org/1995/garry/garry.orig.c"
+hint_url: "https://www.ioccc.org/1995/garry/index.html"
 title: "IOCCC 1995: Best Utility"
 award_ja: "最高のユーティリティ"
 ---

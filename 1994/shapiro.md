@@ -3,8 +3,8 @@ id: 1994/shapiro
 year: 1994
 order: 11
 authors: "Andrew_Shapiro"
-orig_url: "https://www.ioccc.org/1994/shapiro.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1994/shapiro.hint"
+orig_url: "https://www.ioccc.org/1994/shapiro/shapiro.orig.c"
+hint_url: "https://www.ioccc.org/1994/shapiro/index.html"
 title: "IOCCC 1994: Most Well Rounded Obfuscation"
 award_ja: "もっともよく練り上げられている"
 ---

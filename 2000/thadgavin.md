@@ -5,8 +5,8 @@ order: 12
 authors:
   - "Thaddaeus_Frogley"
   - "Gavin_Buttimore"
-orig_url: "https://www.ioccc.org/2000/thadgavin.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/thadgavin.hint"
+orig_url: "https://www.ioccc.org/2000/thadgavin/thadgavin.orig.c"
+hint_url: "https://www.ioccc.org/2000/thadgavin/index.html"
 title: "IOCCC 2000: Most Portable Output"
 award_ja: "もっともポータブルな出力"
 ---

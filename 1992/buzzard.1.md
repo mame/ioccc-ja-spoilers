@@ -3,8 +3,8 @@ id: 1992/buzzard.1
 year: 1992
 order: 4
 authors: "Sean_Barrett"
-orig_url: "https://www.ioccc.org/1992/buzzard.1.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/buzzard.1.hint"
+orig_url: "https://www.ioccc.org/1992/buzzard.1/buzzard.1.orig.c"
+hint_url: "https://www.ioccc.org/1992/buzzard.1/index.html"
 title: "IOCCC 1992: Most Obfuscated Algorithm"
 award_ja: "もっとも難読化されたアルゴリズム"
 ---

@@ -3,8 +3,8 @@ id: 1998/dlowe
 year: 1998
 order: 5
 authors: "J_David_Lowe"
-orig_url: "https://www.ioccc.org/1998/dlowe.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/dlowe.hint"
+orig_url: "https://www.ioccc.org/1998/dlowe/dlowe.orig.c"
+hint_url: "https://www.ioccc.org/1998/dlowe/index.html"
 title: "IOCCC 1998: Best Utility"
 award_ja: "最高のユーティリティ"
 ---

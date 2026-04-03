@@ -4,7 +4,7 @@ year: 2006
 order: 7
 authors: "Christopher_Night"
 orig_url: "https://www.ioccc.org/2006/night/night.c"
-hint_url: "https://www.ioccc.org/2006/night/hint.text"
+hint_url: "https://www.ioccc.org/2006/night/index.html"
 title: "IOCCC 2006: Best Abuse of Computation"
 award_ja: "計算の最高の悪用"
 ---

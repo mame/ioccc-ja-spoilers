@@ -4,7 +4,7 @@ year: 1984
 order: 1
 authors: "Anonymous_1984"
 orig_url: "https://www.ioccc.org/1984/anonymous/anonymous.c"
-hint_url: "https://www.ioccc.org/1984/anonymous/hint.html"
+hint_url: "https://www.ioccc.org/1984/anonymous/index.html"
 title: "IOCCC 1984: Dishonorable mention"
 award_ja: "不名誉な言及"
 ---

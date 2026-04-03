@@ -4,7 +4,7 @@ year: 2019
 order: 2
 authors: "Dave_Burton"
 orig_url: "https://www.ioccc.org/2019/burton/prog.c"
-hint_url: "https://www.ioccc.org/2019/burton/hint.html"
+hint_url: "https://www.ioccc.org/2019/burton/index.html"
 title: "IOCCC 2019: Best one-liner"
 award_ja: "最高のワンライナー"
 ---

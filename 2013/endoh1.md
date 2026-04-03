@@ -4,7 +4,7 @@ year: 2013
 order: 5
 authors: "Yusuke_Endoh"
 orig_url: "https://www.ioccc.org/2013/endoh1/endoh1.c"
-hint_url: "https://www.ioccc.org/2013/endoh1/hint.html"
+hint_url: "https://www.ioccc.org/2013/endoh1/index.html"
 title: "IOCCC 2013: Most lazy SKIer"
 award_ja: "もっとも怠惰なスキーヤー"
 ---

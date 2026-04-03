@@ -4,7 +4,7 @@ year: 2011
 order: 12
 authors: "Daniel_Vik"
 orig_url: "https://www.ioccc.org/2011/vik/vik.c"
-hint_url: "https://www.ioccc.org/2011/vik/hint.html"
+hint_url: "https://www.ioccc.org/2011/vik/index.html"
 title: "IOCCC 2011: Most sound"
 award_ja: "もっとも音的"
 ---

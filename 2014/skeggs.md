@@ -4,7 +4,7 @@ year: 2014
 order: 9
 authors: "Cel_Skeggs"
 orig_url: "https://www.ioccc.org/2014/skeggs/prog.c"
-hint_url: "https://www.ioccc.org/2014/skeggs/hint.html"
+hint_url: "https://www.ioccc.org/2014/skeggs/index.html"
 title: "IOCCC 2014: Most dynamic"
 award_ja: "もっともダイナミック"
 ---

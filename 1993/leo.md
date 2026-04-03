@@ -3,8 +3,8 @@ id: 1993/leo
 year: 1993
 order: 6
 authors: "Leonid_A._Broukhis"
-orig_url: "https://www.ioccc.org/1993/leo.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1993/leo.hint"
+orig_url: "https://www.ioccc.org/1993/leo/leo.orig.c"
+hint_url: "https://www.ioccc.org/1993/leo/index.html"
 title: "IOCCC 1993: Best Game"
 award_ja: "最高のゲーム"
 ---

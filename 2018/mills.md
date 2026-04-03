@@ -4,7 +4,7 @@ year: 2018
 order: 15
 authors: "Christopher_Mills"
 orig_url: "https://www.ioccc.org/2018/mills/prog.c"
-hint_url: "https://www.ioccc.org/2018/mills/hint.html"
+hint_url: "https://www.ioccc.org/2018/mills/index.html"
 title: "IOCCC 2018: Best of show"
 award_ja: "最優秀賞"
 ---

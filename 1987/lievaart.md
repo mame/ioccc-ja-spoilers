@@ -5,7 +5,7 @@ order: 7
 patch: true
 authors: "Roemer_B._Lievaart"
 orig_url: "https://www.ioccc.org/1987/lievaart/lievaart.c"
-hint_url: "https://www.ioccc.org/1987/lievaart/hint.html"
+hint_url: "https://www.ioccc.org/1987/lievaart/index.html"
 title: "IOCCC 1987: Grand Prize"
 award_ja: "大賞"
 ---

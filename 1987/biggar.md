@@ -4,7 +4,7 @@ year: 1987
 order: 1
 authors: "Mark_Biggar"
 orig_url: "https://www.ioccc.org/1987/biggar/biggar.c"
-hint_url: "https://www.ioccc.org/1987/biggar/hint.html"
+hint_url: "https://www.ioccc.org/1987/biggar/index.html"
 title: "IOCCC 1987: Best Abuse of the Rules"
 award_ja: "ルールの最高の悪用"
 ---

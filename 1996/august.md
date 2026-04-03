@@ -3,8 +3,8 @@ id: 1996/august
 year: 1996
 order: 11
 authors: "Lennart_Augustsson"
-orig_url: "https://www.ioccc.org/1996/august.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1996/august.hint"
+orig_url: "https://www.ioccc.org/1996/august/august.orig.c"
+hint_url: "https://www.ioccc.org/1996/august/index.html"
 title: "IOCCC 1996: Best of Show"
 award_ja: "最優秀賞"
 ---

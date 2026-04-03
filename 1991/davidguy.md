@@ -4,8 +4,8 @@ year: 1991
 order: 4
 patch: true
 authors: "David_Applegate"
-orig_url: "https://www.ioccc.org/1991/davidguy.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1991/davidguy.hint"
+orig_url: "https://www.ioccc.org/1991/davidguy/davidguy.orig.c"
+hint_url: "https://www.ioccc.org/1991/davidguy/index.html"
 title: "IOCCC 1991: Best X11 Graphics"
 award_ja: "最高のX11グラフィックス"
 ---

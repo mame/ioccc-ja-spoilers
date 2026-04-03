@@ -4,8 +4,8 @@ year: 2001
 order: 14
 patch: true
 authors: "John_Williams"
-orig_url: "https://www.ioccc.org/2001/williams.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/williams.hint"
+orig_url: "https://www.ioccc.org/2001/williams/williams.orig.c"
+hint_url: "https://www.ioccc.org/2001/williams/index.html"
 title: "IOCCC 2001: Best Graphic Game"
 award_ja: "最高のグラフィックゲーム"
 ---

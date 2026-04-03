@@ -4,8 +4,8 @@ year: 1991
 order: 3
 patch: true
 authors: "Christian_Dupont"
-orig_url: "https://www.ioccc.org/1991/cdupont.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1991/cdupont.hint"
+orig_url: "https://www.ioccc.org/1991/cdupont/cdupont.orig.c"
+hint_url: "https://www.ioccc.org/1991/cdupont/index.html"
 title: "IOCCC 1991: Most Useful Label"
 award_ja: "もっとも便利なラベル"
 ---

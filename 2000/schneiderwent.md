@@ -3,8 +3,8 @@ id: 2000/schneiderwent
 year: 2000
 order: 11
 authors: "Craig_Schneiderwent"
-orig_url: "https://www.ioccc.org/2000/schneiderwent.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/schneiderwent.hint"
+orig_url: "https://www.ioccc.org/2000/schneiderwent/schneiderwent.orig.c"
+hint_url: "https://www.ioccc.org/2000/schneiderwent/index.html"
 title: "IOCCC 2000: Most Timely Output"
 award_ja: "もっともタイムリーな出力"
 ---

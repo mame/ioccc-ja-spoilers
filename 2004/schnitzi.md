@@ -4,8 +4,8 @@ year: 2004
 order: 11
 patch: true
 authors: "Mark_Schnitzius"
-orig_url: "https://www.ioccc.org/2004/schnitzi.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/schnitzi.hint"
+orig_url: "https://www.ioccc.org/2004/schnitzi/schnitzi.orig.c"
+hint_url: "https://www.ioccc.org/2004/schnitzi/index.html"
 title: "IOCCC 2004: Best Non-Use of Curses"
 award_ja: "cursesの最高の不使用"
 ---

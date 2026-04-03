@@ -4,7 +4,7 @@ year: 2006
 order: 11
 authors: "Stephen_Sykes"
 orig_url: "https://www.ioccc.org/2006/sykes2/sykes2.c"
-hint_url: "https://www.ioccc.org/2006/sykes2/hint.text"
+hint_url: "https://www.ioccc.org/2006/sykes2/index.html"
 title: "IOCCC 2006: Best One Liner"
 award_ja: "最高のワンライナー"
 ---

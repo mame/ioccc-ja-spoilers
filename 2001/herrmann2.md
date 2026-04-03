@@ -3,8 +3,8 @@ id: 2001/herrmann2
 year: 2001
 order: 8
 authors: "Immanuel_Herrmann"
-orig_url: "https://www.ioccc.org/2001/herrmann2.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/herrmann2.hint"
+orig_url: "https://www.ioccc.org/2001/herrmann2/herrmann2.orig.c"
+hint_url: "https://www.ioccc.org/2001/herrmann2/index.html"
 title: "IOCCC 2001: Most eye-crossing"
 award_ja: "もっとも寄り目"
 ---

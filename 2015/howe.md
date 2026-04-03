@@ -4,7 +4,7 @@ year: 2015
 order: 8
 authors: "Anthony_C._Howe"
 orig_url: "https://www.ioccc.org/2015/howe/prog.c"
-hint_url: "https://www.ioccc.org/2015/howe/hint.html"
+hint_url: "https://www.ioccc.org/2015/howe/index.html"
 title: "IOCCC 2015: Most Different"
 award_ja: "もっとも異なる"
 ---

@@ -4,8 +4,8 @@ year: 1989
 order: 6
 patch: true
 authors: "Roemer_B._Lievaart"
-orig_url: "https://www.ioccc.org/1989/roemer.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1989/roemer.hint"
+orig_url: "https://www.ioccc.org/1989/roemer/roemer.orig.c"
+hint_url: "https://www.ioccc.org/1989/roemer/index.html"
 title: "IOCCC 1989: Best layout"
 award_ja: "最高のレイアウト"
 ---

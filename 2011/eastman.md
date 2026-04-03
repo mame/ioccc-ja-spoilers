@@ -4,7 +4,7 @@ year: 2011
 order: 4
 authors: "Peter_Eastman"
 orig_url: "https://www.ioccc.org/2011/eastman/eastman.c"
-hint_url: "https://www.ioccc.org/2011/eastman/hint.html"
+hint_url: "https://www.ioccc.org/2011/eastman/index.html"
 title: "IOCCC 2011: Best ball"
 award_ja: "最高のボール"
 ---

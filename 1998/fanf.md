@@ -4,8 +4,8 @@ year: 1998
 order: 8
 patch: true
 authors: "Tony_Finch"
-orig_url: "https://www.ioccc.org/1998/fanf.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/fanf.hint"
+orig_url: "https://www.ioccc.org/1998/fanf/fanf.orig.c"
+hint_url: "https://www.ioccc.org/1998/fanf/index.html"
 title: "IOCCC 1998: Most Obfuscated Translator"
 award_ja: "もっとも難読化された変換器"
 ---

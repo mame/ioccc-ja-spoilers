@@ -4,7 +4,7 @@ year: 2005
 order: 1
 authors: "Aidan_Thornton"
 orig_url: "https://www.ioccc.org/2005/aidan/aidan.c"
-hint_url: "https://www.ioccc.org/2005/aidan/hint.text"
+hint_url: "https://www.ioccc.org/2005/aidan/index.html"
 title: "IOCCC 2005: Most ingenious puzzle solution"
 award_ja: "もっとも巧妙なパズルの解"
 ---

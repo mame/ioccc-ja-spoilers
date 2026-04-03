@@ -3,8 +3,8 @@ id: 1996/schweikh3
 year: 1996
 order: 9
 authors: "Jens_Schweikhardt"
-orig_url: "https://www.ioccc.org/1996/schweikh3.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1996/schweikh3.hint"
+orig_url: "https://www.ioccc.org/1996/schweikh3/schweikh3.orig.c"
+hint_url: "https://www.ioccc.org/1996/schweikh3/index.html"
 title: "IOCCC 1996: Best Utility"
 award_ja: "最高のユーティリティ"
 ---

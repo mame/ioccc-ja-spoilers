@@ -3,8 +3,8 @@ id: 1995/savastio
 year: 1995
 order: 9
 authors: "Michael_Savastio"
-orig_url: "https://www.ioccc.org/1995/savastio.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1995/savastio.hint"
+orig_url: "https://www.ioccc.org/1995/savastio/savastio.orig.c"
+hint_url: "https://www.ioccc.org/1995/savastio/index.html"
 title: "IOCCC 1995: Most Obfuscated Syntax"
 award_ja: "もっとも難読化された構文"
 ---

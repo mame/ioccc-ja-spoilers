@@ -4,7 +4,7 @@ year: 2013
 order: 12
 authors: "Yves-Marie_Morgan"
 orig_url: "https://www.ioccc.org/2013/morgan1/morgan1.c"
-hint_url: "https://www.ioccc.org/2013/morgan1/hint.html"
+hint_url: "https://www.ioccc.org/2013/morgan1/index.html"
 title: "IOCCC 2013: Smallest large system simulator"
 award_ja: "大きいシステムの最小のエミュレータ"
 ---

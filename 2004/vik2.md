@@ -4,8 +4,8 @@ year: 2004
 order: 14
 patch: true
 authors: "Daniel_Vik"
-orig_url: "https://www.ioccc.org/2004/vik2.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/vik2.hint"
+orig_url: "https://www.ioccc.org/2004/vik2/vik2.orig.c"
+hint_url: "https://www.ioccc.org/2004/vik2/index.html"
 title: "IOCCC 2004: Best Abuse of CPP"
 award_ja: "最高のCPP悪用"
 ---

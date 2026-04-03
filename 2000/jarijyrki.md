@@ -5,8 +5,8 @@ order: 14
 authors:
   - "Jari_Arkko"
   - "Jyrki_Holopainen"
-orig_url: "https://www.ioccc.org/2000/jarijyrki.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2000/jarijyrki.hint"
+orig_url: "https://www.ioccc.org/2000/jarijyrki/jarijyrki.orig.c"
+hint_url: "https://www.ioccc.org/2000/jarijyrki/index.html"
 title: "IOCCC 2000: Best of Show"
 award_ja: "最優秀賞"
 ---

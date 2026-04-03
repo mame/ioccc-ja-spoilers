@@ -4,7 +4,7 @@ year: 2013
 order: 3
 authors: "Adrian_Cable"
 orig_url: "https://www.ioccc.org/2013/cable3/cable3.c"
-hint_url: "https://www.ioccc.org/2013/cable3/hint.html"
+hint_url: "https://www.ioccc.org/2013/cable3/index.html"
 title: "IOCCC 2013: Largest small system emulator"
 award_ja: "小さいシステムの最大のエミュレータ"
 linewrap: true

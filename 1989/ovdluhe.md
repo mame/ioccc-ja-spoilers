@@ -4,8 +4,8 @@ year: 1989
 order: 3
 patch: true
 authors: "Oskar_von_der_Luehe"
-orig_url: "https://www.ioccc.org/1989/ovdluhe.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1989/ovdluhe.hint"
+orig_url: "https://www.ioccc.org/1989/ovdluhe/ovdluhe.orig.c"
+hint_url: "https://www.ioccc.org/1989/ovdluhe/index.html"
 title: "IOCCC 1989: Most humorous output"
 award_ja: "もっともユーモラスな出力"
 ---

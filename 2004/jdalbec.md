@@ -4,8 +4,8 @@ year: 2004
 order: 7
 patch: true
 authors: "John_Dalbec"
-orig_url: "https://www.ioccc.org/2004/jdalbec.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/jdalbec.hint"
+orig_url: "https://www.ioccc.org/2004/jdalbec/jdalbec.orig.c"
+hint_url: "https://www.ioccc.org/2004/jdalbec/index.html"
 title: "IOCCC 2004: Best Abuse of the Periodic Table"
 award_ja: "周期表の最高の悪用"
 ---

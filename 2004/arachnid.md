@@ -3,8 +3,8 @@ id: 2004/arachnid
 year: 2004
 order: 2
 authors: "Nick_Johnson"
-orig_url: "https://www.ioccc.org/2004/arachnid.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/2004/arachnid.hint"
+orig_url: "https://www.ioccc.org/2004/arachnid/arachnid.orig.c"
+hint_url: "https://www.ioccc.org/2004/arachnid/index.html"
 title: "IOCCC 2004: Best use of Vision"
 award_ja: "視界の最高の使い方"
 ---

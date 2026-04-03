@@ -3,8 +3,8 @@ id: 1989/jar.1
 year: 1989
 order: 2
 authors: "Jari_Arkko"
-orig_url: "https://www.ioccc.org/1989/jar.1.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1989/jar.1.hint"
+orig_url: "https://www.ioccc.org/1989/jar.1/jar.1.orig.c"
+hint_url: "https://www.ioccc.org/1989/jar.1/index.html"
 title: "IOCCC 1989: Strangest abuse of the rules"
 award_ja: "もっとも奇妙なルール悪用"
 ---

@@ -4,8 +4,8 @@ year: 1992
 order: 9
 patch: true
 authors: "Ed_Luke"
-orig_url: "https://www.ioccc.org/1992/lush.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1992/lush.hint"
+orig_url: "https://www.ioccc.org/1992/lush/lush.orig.c"
+hint_url: "https://www.ioccc.org/1992/lush/index.html"
 title: "IOCCC 1992: Worst Abuse of the C Preprocessor"
 award_ja: "Cプリプロセッサの最悪の悪用"
 ---

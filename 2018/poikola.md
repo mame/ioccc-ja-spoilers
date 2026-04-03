@@ -4,7 +4,7 @@ year: 2018
 order: 12
 authors: "Timo_Poikola"
 orig_url: "https://www.ioccc.org/2018/poikola/prog.c"
-hint_url: "https://www.ioccc.org/2018/poikola/hint.html"
+hint_url: "https://www.ioccc.org/2018/poikola/index.html"
 title: "IOCCC 2018: Most stellar"
 award_ja: "もっとも輝かしい"
 ---

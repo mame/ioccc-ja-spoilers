@@ -3,8 +3,8 @@ id: 1998/schnitzi
 year: 1998
 order: 9
 authors: "Mark_Schnitzius"
-orig_url: "https://www.ioccc.org/1998/schnitzi.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1998/schnitzi.hint"
+orig_url: "https://www.ioccc.org/1998/schnitzi/schnitzi.orig.c"
+hint_url: "https://www.ioccc.org/1998/schnitzi/index.html"
 title: "IOCCC 1998: Best Flow Control"
 award_ja: "最高のフロー制御"
 ---

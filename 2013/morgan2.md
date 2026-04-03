@@ -4,7 +4,7 @@ year: 2013
 order: 13
 authors: "Yves-Marie_Morgan"
 orig_url: "https://www.ioccc.org/2013/morgan2/morgan2.c"
-hint_url: "https://www.ioccc.org/2013/morgan2/hint.html"
+hint_url: "https://www.ioccc.org/2013/morgan2/index.html"
 title: "IOCCC 2013: Most playfully versatile"
 award_ja: "もっともふざけて多用途"
 ---

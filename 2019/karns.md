@@ -4,7 +4,7 @@ year: 2019
 order: 10
 authors: "Joshua_Karns"
 orig_url: "https://www.ioccc.org/2019/karns/prog.c"
-hint_url: "https://www.ioccc.org/2019/karns/hint.html"
+hint_url: "https://www.ioccc.org/2019/karns/index.html"
 title: "IOCCC 2019: Most in need of whitespace"
 award_ja: "もっともホワイトスペースが必要"
 ---

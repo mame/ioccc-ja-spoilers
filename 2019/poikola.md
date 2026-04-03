@@ -4,7 +4,7 @@ year: 2019
 order: 13
 authors: "Timo_Poikola"
 orig_url: "https://www.ioccc.org/2019/poikola/prog.c"
-hint_url: "https://www.ioccc.org/2019/poikola/hint.html"
+hint_url: "https://www.ioccc.org/2019/poikola/index.html"
 title: "IOCCC 2019: Most calendrical"
 award_ja: "もっともカレンダー的"
 ---

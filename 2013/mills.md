@@ -4,7 +4,7 @@ year: 2013
 order: 10
 authors: "Christopher_Mills"
 orig_url: "https://www.ioccc.org/2013/mills/mills.c"
-hint_url: "https://www.ioccc.org/2013/mills/hint.html"
+hint_url: "https://www.ioccc.org/2013/mills/index.html"
 title: "IOCCC 2013: Most timely rendered"
 award_ja: "もっともタイムリーにレンダリングされている"
 ---

@@ -4,7 +4,7 @@ year: 2011
 order: 14
 authors: "Don_Yang"
 orig_url: "https://www.ioccc.org/2011/akari/akari.c"
-hint_url: "https://www.ioccc.org/2011/akari/hint.html"
+hint_url: "https://www.ioccc.org/2011/akari/index.html"
 title: "IOCCC 2011: Best of Show - Most Shrinkable"
 award_ja: "最優秀賞 - もっとも縮みやすい"
 ---

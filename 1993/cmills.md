@@ -4,8 +4,8 @@ year: 1993
 order: 2
 patch: true
 authors: "Christopher_Mills"
-orig_url: "https://www.ioccc.org/1993/cmills.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1993/cmills.hint"
+orig_url: "https://www.ioccc.org/1993/cmills/cmills.orig.c"
+hint_url: "https://www.ioccc.org/1993/cmills/index.html"
 title: "IOCCC 1993: \"Bill Gates\" Award"
 award_ja: "『ビル・ゲイツ』賞"
 linewrap: true

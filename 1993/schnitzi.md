@@ -3,8 +3,8 @@ id: 1993/schnitzi
 year: 1993
 order: 9
 authors: "Mark_Schnitzius"
-orig_url: "https://www.ioccc.org/1993/schnitzi.c"
-hint_url: "https://github.com/ioccc-src/winner/blob/main/1993/schnitzi.hint"
+orig_url: "https://www.ioccc.org/1993/schnitzi/schnitzi.orig.c"
+hint_url: "https://www.ioccc.org/1993/schnitzi/index.html"
 title: "IOCCC 1993: Obfuscated Intelligence Award"
 award_ja: "難読化された知能賞"
 ---

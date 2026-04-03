@@ -4,7 +4,7 @@ year: 2005
 order: 14
 authors: "Vincent_Weaver"
 orig_url: "https://www.ioccc.org/2005/vince/vince.c"
-hint_url: "https://www.ioccc.org/2005/vince/hint.text"
+hint_url: "https://www.ioccc.org/2005/vince/index.html"
 title: "IOCCC 2005: Most beauteous visuals"
 award_ja: "もっとも美しい見た目"
 ---
