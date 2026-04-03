@@ -19,7 +19,7 @@ IOCCCのWikipediaの記事を始め、いろいろなところでIOCCCの代表�
 審査員に入れ替わりがあった。
 Larry Basselは学業が忙しくなったので離脱し、Sriram Srinivasanは連絡がつかなくなったということで外れた。
 審査員を募集したところ応募が多数あって、Landon Curt Nollはまず[[[1993/leo]]]({{ site.baseurl }}{% link 1993/leo.md %})と[[[1995/leo]]]({{ site.baseurl }}{% link 1995/leo.md %})で入選しているLeonid A. Broukhisを選んだ。
-それからさらにJeremy HornとPeter Seebachが審査員に加え、4人体制に。
+それからさらにJeremy HornとPeter Seebachが審査員に加わり、4人体制に。
 
 IOCCC 1998の募集開始は1998年11月末だが、締切は1999年1月末であり、入賞作品発表はUSENIX ATC 1999（6月）で行われた模様。
 IOCCC 1998であるが、ほとんどの期間が1999年になっている。

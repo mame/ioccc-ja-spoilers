@@ -30,7 +30,7 @@ $ echo "Hello, world!" | md5sum
 ## 解説
 
 一部のスクリプト言語はしばしば、`double`型しか持たない（JavaScript、Lua、BASICなど）。
-これをリスペクトして、基本的に`double`型しか使わないでMD5が計算がされている。
+これをリスペクトして、基本的に`double`型しか使わないでMD5の計算がされている。
 JavaScriptなどでは`double`型に対して論理演算が使えるが、C言語では一切使えないので、難易度は非常に高くなる。
 
 `int`が現れるのは`printf()`の返り値と、`int main()`の返り値と、配列参照、`getchar()`、`EOF`だけ。

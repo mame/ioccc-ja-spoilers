@@ -58,7 +58,7 @@ $ ./lstm2 < IOCCC-Rules-Guidelines.cp98_0.175 | head -n 30
 
 ## 解説
 
-OMLET（Obfuscated Machine Learning Environment Toolkit）という名前をついている。
+OMLET（Obfuscated Machine Learning Environment Toolkit）という名前がついている。
 詳しいことは見ていない。
 コード形状が何を表現しているのかもわかっていない。
 hint.textはそれなりに長いが、コードについての説明はなさそう。

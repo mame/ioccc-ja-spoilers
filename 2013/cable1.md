@@ -42,7 +42,7 @@ republican
 
 ワンライナーではあるが、肝は上記の完全ハッシュ関数だけなので十分短い。
 86バイトは、[[[1987/biggar]]]({{ site.baseurl }}{% link 1987/biggar.md %})や[[[1994/smr]]]({{ site.baseurl }}{% link 1994/smr.md %})などのような色物を除けば最小かも。
-むしろ、`main(int riguing,char**acters)`はの引数名はintringuing characters（面白いキャラクターたち）というように、遊びを入れている。
+むしろ、`main(int riguing,char**acters)`の引数名はintringuing characters（面白いキャラクターたち）というように、遊びを入れている。
 
 審査員のコメントはMac/PC診断で遊んでいる。
 ちなみに残念ながらtrumpはdemocratと判断された。

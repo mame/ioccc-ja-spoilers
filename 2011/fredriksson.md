@@ -42,7 +42,7 @@ $ ./fredriksson -k2 -t -n bofuskate < /usr/share/dict/american-english-large
 コードでは巨大リテラルが目立つ。
 これはCコードを圧縮したデータ。
 grepの挙動は圧縮されたコードが実現している。
-fredriksson.cはそれをこれを展開してag.cとして保存し、`gcc -O3 ag.c -o ag`を実行するだけ。
+fredriksson.cはこれを展開してag.cとして保存し、`gcc -O3 ag.c -o ag`を実行するだけ。
 オリジナル版では、実行後にag.cと実行ファイルを削除していたけれど、この機能は削除したとのこと。
 
 難読化について。

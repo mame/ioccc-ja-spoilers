@@ -61,7 +61,7 @@ luna.ppmを開くと次のようになっている。
 なお、出力文字のうち空白文字の重みを大きくしたり、`'"'`や`'\'`の文字を出さないようにしたりして、IOCCCのサイズルールをパスするように工夫している。
 出力が[PPM](https://ja.wikipedia.org/wiki/PNM_%28%E7%94%BB%E5%83%8F%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%29)なのは、これにかけた洒落とのこと。
 
-hou.cコンパイルして実行すると、本体コードが出力される。
+hou.cをコンパイルして実行すると、本体コードが出力される。
 これをコンパイルしたものが3Dレンダラとして動く。
 本体はシェーダのプログラムのインタプリタと、[3D-DDA](https://en.wikipedia.org/wiki/Digital_differential_analyzer_%28graphics_algorithm%29)によるレイトレーサと、[PSSMLT](https://www.researchgate.net/publication/220507359_A_Simple_and_Robust_Mutation_Strategy_for_the_Metropolis_Light_Transport_Algorithm)の光線パスサンプラの組み合わせとのこと。
 知識がないのでほとんどわからない。
