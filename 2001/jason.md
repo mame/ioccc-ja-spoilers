@@ -5,7 +5,7 @@ order: 15
 authors: "Jason_Orendorff"
 orig_url: "https://www.ioccc.org/2001/jason.c"
 hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/jason.hint"
-title: "IOCCC 2001: Best Of Show"
+title: "IOCCC 2001: Best of Show"
 award_ja: "最優秀賞"
 ---
 

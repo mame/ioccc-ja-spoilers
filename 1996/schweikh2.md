@@ -87,4 +87,4 @@ R ( e ( n , i ) , e ( a , m ) )
 オリジナルのコードは[hunni.c](https://github.com/ioccc-src/winner/blob/main/1996/hunni.c)で、これを[hunni.pl](https://github.com/ioccc-src/winner/blob/main/1996/hunni.pl)で処理することで生成されているとのこと。
 当時の難読化コードの開発が垣間見えるのは興味深い。
 
-[[[1996/schweikh2]]]({{ site.baseurl }}{% link 1996/schweikh2.md %})と[[[1996/schweikh3]]]({{ site.baseurl }}{% link 1996/schweikh3.md %})とあわせて、同じ人が同年に3部門で入賞するのは初の事例。
+[[[1996/schweikh1]]]({{ site.baseurl }}{% link 1996/schweikh1.md %})と[[[1996/schweikh3]]]({{ site.baseurl }}{% link 1996/schweikh3.md %})とあわせて、同じ人が同年に3部門で入賞するのは初の事例。

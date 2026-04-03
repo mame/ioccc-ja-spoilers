@@ -2,7 +2,7 @@
 id: 2020/yang
 year: 2020
 order: 14
-authors: "Don Yang"
+authors: "Don_Yang"
 orig_url: "https://www.ioccc.org/2020/yang/prog.c"
 hint_url: "https://www.ioccc.org/2020/yang/index.html"
 title: "IOCCC 2020: Best abuse of CPP"

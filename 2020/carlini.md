@@ -2,7 +2,7 @@
 id: 2020/carlini
 year: 2020
 order: 15
-authors: "Nicholas Carlini"
+authors: "Nicholas_Carlini"
 orig_url: "https://www.ioccc.org/2020/carlini/prog.c"
 hint_url: "https://www.ioccc.org/2020/carlini/index.html"
 title: "IOCCC 2020: Best of show - abuse of libc"

@@ -43,10 +43,10 @@ y]b<Vj.zu]wT<wXy]b<Vju]wT<wp-Xy]b<Vju]wT<-Xy]b<AMVju]wT<-Xy]bMVju]wcMT<-Xy]bMVj
 ```
 
 これを寄り目で見ると"IOCCC"が浮き出す。
-[herrman2.ioccc](https://www.ioccc.org/2001/herrmann2.ioccc)が入力データ。
+[herrmann2.ioccc](https://www.ioccc.org/2001/herrmann2.ioccc)が入力データ。
 
 次はカップの例。こっちは比較的見やすい。
-[herrman2.cup](https://www.ioccc.org/2001/herrmann2.cup)が入力データ。
+[herrmann2.cup](https://www.ioccc.org/2001/herrmann2.cup)が入力データ。
 
 ```
 $ ./herrmann2 < herrmann2.cup
