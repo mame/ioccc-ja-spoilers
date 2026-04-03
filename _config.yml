@@ -7,7 +7,7 @@ twitter:
   username: mametter
 
 baseurl: "/ioccc-ja-spoilers"
-url: "http://mame.github.io"
+url: "https://mame.github.io"
 
 sass:
   style: compressed

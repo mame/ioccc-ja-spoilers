@@ -7,9 +7,9 @@
   }
   const $program_codeMirror = CodeMirror.fromTextArea($program, program_opts);
 
-  const $programHighlihght = document.getElementById("program-highlight");
-  $programHighlihght.addEventListener("change", function(event) {
-    $program_codeMirror.setOption("mode", $programHighlihght.checked ? "clike" : null);
+  const $programHighlight = document.getElementById("program-highlight");
+  $programHighlight.addEventListener("change", function(event) {
+    $program_codeMirror.setOption("mode", $programHighlight.checked ? "clike" : null);
   });
 
   const $programLinewrap = document.getElementById("program-linewrap");
