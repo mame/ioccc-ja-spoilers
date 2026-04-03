@@ -11,8 +11,7 @@ award_ja: "もっとも難読化された音"
 
 ## 動作
 
-X11を使って、古いアナログテレビの[砂嵐](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%8E%E3%82%A4%E3%82%BA)のような画面を出す
-。
+X11を使って、古いアナログテレビの[砂嵐](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%8E%E3%82%A4%E3%82%BA)のような画面を出す。
 
 ```
 $ gcc -o grothe grothe.c -lX11

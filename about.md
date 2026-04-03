@@ -45,7 +45,7 @@ IOCCCの作品を鑑賞するには、C言語だけでなく、情報科学全�
 これらのハードルのために、わかりやすい作品しか注目されていない現状があります。
 これはもったいないので、筆者が理解できた範囲でネタバレを共有する価値があると思いました。
 
-筆者の誤解や見逃しているネタに気づいたら、ぜひ[GitHubのissue](https://github.com/mame/ioccc-ja-spoilers/)や[Twitter: @mametter](https://twitter.com/mametter)などへご連絡ください。
+筆者の誤解や見逃しているネタに気づいたら、ぜひ[GitHubのissue](https://github.com/mame/ioccc-ja-spoilers/issues)や[X: @mametter](https://x.com/mametter)などへご連絡ください。
 
 本サイトの著作権は筆者（Yusuke Endoh）に帰属しますが、引用されているプログラムなどの著作権はそれぞれの作者に帰属します。
 基本的にIOCCCの審査員がpublic domainまたはCC BY-SAで公開しているものを引用しています。
