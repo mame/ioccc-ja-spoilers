@@ -62,7 +62,7 @@ $ ./vik d chocolate-in-ioccc.png > restored-chocolate.png
 
 {% include img.html src="2012-vik-5.png" desc="chocolate-in-ioccc.pngから取り出した画像（chocolate.png）" %}
 
-このチョコレートの画像はすこし特別で、他の画像に埋め込まれたときにBrainFuckのコードとして動く、とのこと。
+このチョコレートの画像はすこし特別で、他の画像に埋め込まれたときにBrainfuckのコードとして動く、とのこと。
 
 ```
 $ ./vik b chocolate-in-ioccc.png
@@ -77,6 +77,6 @@ this is not a bribe!
 もともとこのプログラムには、PNG画像に基づいてソースコードを整形する機能があったが、サイズ制限にあわなかったので削除したらしい。
 現在の形状はその機能で生成したとのこと。
 
-BrainFuckのコードが埋め込まれているというのもあまりよくわからないが、chocolate-in-ioccc.pngを普通のbrainfuckインタプリタで実行しても動作しないので、おそらく、PNGのビットマップデータ部をzlibで展開した状態にbrainfuckのコードが埋め込まれている。
+Brainfuckのコードが埋め込まれているというのもあまりよくわからないが、chocolate-in-ioccc.pngを普通のbrainfuckインタプリタで実行しても動作しないので、おそらく、PNGのビットマップデータ部をzlibで展開した状態にbrainfuckのコードが埋め込まれている。
 実行して出てくるメッセージ「これは賄賂ではない！」は、審査員間で投票を操作するためにチョコレートの賄賂を送ったとか送らないとかいう話がguideline.txtに書かれていることを踏まえたネタ。
 「チョコレートは審査に影響していないです。保証します」と審査員はコメントしている。

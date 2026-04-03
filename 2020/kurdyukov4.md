@@ -9,7 +9,7 @@ title: "IOCCC 2020: Best abuse of lámatyávë"
 award_ja: "lámatyávëの最高の悪用"
 ---
 
-### 動作
+## 動作
 
 与えられた辞書をもとにマルコフ連鎖でランダムなテキストを生成する。
 
@@ -22,7 +22,7 @@ r sons, wives for them, as the hope I had it. This is the way they be not too ra
 
 第1引数は辞書ファイル、第2引数は生成するテキストの長さ、第3引数は連鎖の長さ、第4引数は乱数のシード。
 
-### 解説
+## 解説
 
 挙動もコード形状も非常にシンプル。
 コード形状は[[[2020/kurdyukov2]]]({{ site.baseurl }}{% link 2020/kurdyukov2.md %})とコンセプトが酷似しており、特に意味はないと思う。

@@ -9,7 +9,7 @@ title: "IOCCC 2020: Least detailed"
 award_ja: "もっともざっくり"
 ---
 
-### 動作
+## 動作
 
 入力画像をざっくりと四角にする。
 
@@ -26,7 +26,7 @@ $ ./prog 1000 sample.jpg output.jpg
 
 {% include img.html src="2020-kurdyukov2-2.jpg" desc="output.jpg" %}
 
-### 解説
+## 解説
 
 コード形状の意味は不明。
 [[[2020/kurdyukov4]]]({{ site.baseurl }}{% link 2020/kurdyukov4.md %})と酷似しているので、特に意味はないか。

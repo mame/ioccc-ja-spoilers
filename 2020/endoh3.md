@@ -9,7 +9,7 @@ title: "IOCCC 2020: Most head-turning"
 award_ja: "もっとも振り向かせる"
 ---
 
-### 動作
+## 動作
 
 実行すると、散髪屋の時計（左右反転した時計）が表示される。
 
@@ -48,7 +48,7 @@ r;*p=k%2?*p%2?+/*                                             */59:44:*p>39?59:
 
 {% include youtube.html src="FmxcnXhvJlo" desc="作者によるデモ動画" %}
 
-### 解説
+## 解説
 
 動作がすべて。
 

@@ -41,7 +41,7 @@ $ ./prog ioccc.txt
 
 {% include youtube.html src="3SLf94gqUy0" desc="作者によるデモ動画" %}
 
-### 解説
+## 解説
 
 マインスイーパをプレイするときは、ふつう、次の2種類のアクションとなる。
 

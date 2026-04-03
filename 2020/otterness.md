@@ -9,7 +9,7 @@ title: "IOCCC 2020: Most percussive"
 award_ja: "もっともパーカッション的"
 ---
 
-### 動作
+## 動作
 
 MIDIファイルにドラムのトラックを付け加える。
 
@@ -19,7 +19,7 @@ $ gcc -o prog prog.c
 $ ./prog < input.mid > output.mid
 ```
 
-### 解説
+## 解説
 
 MIDIをパースし、最長のトラックを特定し、ドラムのトラックを追加する。
 

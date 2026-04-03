@@ -6,7 +6,7 @@ authors: "Jens_Schweikhardt"
 orig_url: "https://www.ioccc.org/1996/schweikh1.c"
 hint_url: "https://github.com/ioccc-src/winner/blob/main/1996/schweikh1.hint"
 title: "IOCCC 1996: Worst Abuse of the C Preprocessor"
-award_ja: "Cプリプロセッサの最悪な悪用"
+award_ja: "Cプリプロセッサの最悪の悪用"
 ---
 
 ## 動作

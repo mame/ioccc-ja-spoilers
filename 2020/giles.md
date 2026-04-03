@@ -9,7 +9,7 @@ title: "IOCCC 2020: Most phony"
 award_ja: "もっとも偽物"
 ---
 
-### 動作
+## 動作
 
 [DTMF](https://ja.wikipedia.org/wiki/DTMF)（トーンダイヤルの音）のエンコーダ・デコーダ。
 
@@ -35,7 +35,7 @@ $ cat tmp.wav | ./prog
 
 {% include audio.html src="2020-giles-2.mp3" desc="tmp.wav" %}
 
-### 解説
+## 解説
 
 コードは電話の受話器の形状。
 libmを使わずに自力で計算している。
