@@ -56,7 +56,7 @@ $ ./ctk
 [Apple II](https://en.wikipedia.org/wiki/Apple_II)の[Print Shop Companion](https://en.wikipedia.org/wiki/The_Print_Shop#The_Print_Shop_Companion)に入っていた"DRIVER"というイースターエッグを真似たゲームとのこと。
 
 当時とエスケープシーケンスの意味が変わっているようで、動かすのには苦労した。
-現代では[CSI sequence](https://en.wikipedia.org/wiki/ANSI_escape_code#Escape_sequences)は`ESC [`の2文字だが、当時は0x9fの1文字でもよかったらしい（現代ではUnicodeに乗っ取られている）。
+現代では[CSI sequence](https://en.wikipedia.org/wiki/ANSI_escape_code#Escape_sequences)は`ESC [`の2文字だが、当時は0x9bの1文字でもよかったらしい（現代ではUnicodeに乗っ取られている）。
 また、一行挿入するシーケンスがカーソルのカラム位置を変化させない前提があるようだが、現代では左端に戻ってしまうので、調整した。
 
 Linux consoleには独自のエスケープシーケンスがあるそうで、これを活用している。

@@ -5,8 +5,8 @@ order: 1
 authors: "Gavin_Barraclough"
 orig_url: "https://www.ioccc.org/2001/anonymous.c"
 hint_url: "https://github.com/ioccc-src/winner/blob/main/2001/anonymous.hint"
-title: "IOCCC 2001: Most likely to amaze"
-award_ja: "もっとも仰天させそう"
+title: "IOCCC 2001: Dishonorable mention"
+award_ja: "不名誉な言及"
 ---
 
 ## 動作

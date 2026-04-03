@@ -14,5 +14,5 @@ layout: contest
 また、プログラムの挙動も複雑なものが可能となり、数学定数の計算、polyglot、hex dumpなど、ハッカー好みのネタも増えてきた。
 プログラムの規模はまだ小さいものが多く、詳細に解読できるのが楽しい。
 
-Larry Basselが審査を手伝ってくれたとのこと。翌1986年から正式な審査員となり、Landon Curt Nollとの2人体制になる。
+Larry Basselが正式に2人目の審査員として加わり、Landon Curt Nollとの2人体制になる。
 READMEによると、この年から、入賞作品の発表がUSENIX Summerで行われるようになったとのこと。

@@ -40,7 +40,7 @@ $ echo "1985/10/28" | ./morgan1
 $ echo "1996/12/31" | ./morgan1
 ```
 
-{% include img.html src="2013-morgan1-3.png" desc="1996年12月31日ごろの太陽系の惑星の配置（Haはヘール・ボップ彗星）" %}
+{% include img.html src="2013-morgan1-3.png" desc="1996年12月31日ごろの太陽系の惑星の配置（Hbはヘール・ボップ彗星）" %}
 
 ## 解説
 
