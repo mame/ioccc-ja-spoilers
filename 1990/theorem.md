@@ -87,7 +87,7 @@ $ echo -e '2\n3\n1" | ./sorter 0 0 0 0
 そして、もとのソースコードをソートすると、フィボナッチ数列を計算するプログラムになる。
 
 ```
-$ ./sorther 0 0 0 0 < theorem.c > fibonacci.c
+$ ./sorter 0 0 0 0 < theorem.c > fibonacci.c
 
 $ gcc -o fibonacci fibonacci.c
 

@@ -30,7 +30,7 @@ Uryyb
 #define aqu(x) x'
 #define bqu(x) 'x
 
-aqu(bpu(A))
+aqu(bqu(A))
 ```
 
 によって`'A'`を作り出す、というのは動かないので、これは`'A'`に置き換えた（このことはdg.hintにも書かれている）。

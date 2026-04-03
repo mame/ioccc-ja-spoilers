@@ -136,7 +136,7 @@ $ ./sykes1
 
 そして同時に、より見やすいgifファイルも生成される。
 
-{% include img.html src="2006-sykes1.gif" desc="Bedlem cubeの解を説明しているアニメGIF" %}
+{% include img.html src="2006-sykes1.gif" desc="Bedlam cubeの解を説明しているアニメGIF" %}
 
 ## 解説
 

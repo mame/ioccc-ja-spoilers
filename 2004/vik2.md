@@ -45,4 +45,4 @@ vik2.hintで作者自身が言及している通り、ネタは[[[1988/applin]]]
 
 IOCCCのサイズ制限をクリアするために、プリプロセッサを2段にする必要があった（1段目では`#define C #define`などとして`#define`などを含むコードを生成する）。
 あいにく1段階目は現代のgccでは動かないので`-traditional-cpp`を用いた。
-しかし`-traditiona-cpp`と`#include <stdio.h>`は同時に利用できないので、`#include`のほうをvik2.cから削除して通した。
+しかし`-traditional-cpp`と`#include <stdio.h>`は同時に利用できないので、`#include`のほうをvik2.cから削除して通した。

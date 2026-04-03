@@ -30,6 +30,6 @@ $ ./bellard | wc -c
 10進数変換のためにModular Fast Fourier Transformというアルゴリズムを使っている。
 現代でも実行には数秒かかるが、当時は数分かかっていたらしい。
 
-賞名は、[[[2000/schneiderwent]]]({{ site.baseurl }}{% link 2000/schneiderwent.md %})と[[[2000/thadgavin]]]({{ site.baseurl }}{% link 2000/thadgavin.md %})と対象的になっている。
+賞名は、[[[2000/schneiderwent]]]({{ site.baseurl }}{% link 2000/schneiderwent.md %})と[[[2000/thadgavin]]]({{ site.baseurl }}{% link 2000/thadgavin.md %})と対照的になっている。
 
 なお、作者の[Fabrice Bellard](https://en.wikipedia.org/wiki/Fabrice_Bellard)は、QEMU、FFmpeg、tccなどを作ったすごいプログラマ。

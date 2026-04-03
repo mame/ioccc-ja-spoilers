@@ -5,7 +5,7 @@ order: 3
 authors: "Aaron_Grothe"
 orig_url: "https://www.ioccc.org/2006/grothe/grothe.c"
 hint_url: "https://www.ioccc.org/2006/grothe/hint.text"
-title: "IOCCC 2006: Most Obfuscaed Audio"
+title: "IOCCC 2006: Most Obfuscated Audio"
 award_ja: "もっとも難読化された音"
 ---
 

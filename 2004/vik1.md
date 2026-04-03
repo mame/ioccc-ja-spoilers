@@ -17,7 +17,7 @@ award_ja: "最高のX11ゲーム"
 ```
 $ gcc -o vik1 vik1.c -lX11
 
-$ ./vik
+$ ./vik1
 ```
 
 {% include img.html src="2004-vik1-1.png" desc="デフォルトのゲーム画面" %}

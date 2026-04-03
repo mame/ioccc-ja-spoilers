@@ -53,4 +53,4 @@ HashLifeはライフゲームを高速にシミュレーションするテクニ
 $ ./prog < message.mc
 ```
 
-{% include img.html src="2019-dogon-3.png" desc="'IOCCC 2019 #Hash Life Rules!'というメッセージがが流れる（ものすごくズームアウトしている）" %}
+{% include img.html src="2019-dogon-3.png" desc="'IOCCC 2019 #Hash Life Rules!'というメッセージが流れる（ものすごくズームアウトしている）" %}

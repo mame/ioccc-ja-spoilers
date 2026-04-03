@@ -23,7 +23,7 @@ $ gcc -o spinellis spinellis.c
 ここに好きなCコードを書き込み、Ctrl+Dなどで区切ることで、入力した内容をコンパイルさせることができる。
 
 ```
-$ gcc -o spinellisspinellis.c
+$ gcc -o spinellis spinellis.c
 #include <stdio.h>
 int main() {
   puts("Hello, world!");

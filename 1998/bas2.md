@@ -16,13 +16,13 @@ IOCCCのプログラムサイズのルールにしたがってテキストの文
 ```
 $ gcc -o bas2 bas2.c
 
-$ echo "foo" | ./baz2
+$ echo "foo" | ./bas2
 3
 
-$ echo "{ ; }" | ./baz2
+$ echo "{ ; }" | ./bas2
 0
 
-$ echo "x{x;x}x" | ./baz2
+$ echo "x{x;x}x" | ./bas2
 7
 ```
 

@@ -30,7 +30,7 @@ $ ./kivinen
 $ ./kivinen x
 ```
 
-{% include img.html src="1992-kivinen-2.png" desc="ブロック崩しい" %}
+{% include img.html src="1992-kivinen-2.png" desc="ブロック崩し" %}
 
 引数2つで起動したらDropout（落ちてくる破片を拾うゲーム）。
 

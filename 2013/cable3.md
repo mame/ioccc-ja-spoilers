@@ -55,7 +55,7 @@ QUITEMUコマンドを使うと終了する。
 > - PC speaker
 
 MS-DOS 6.22、Lotus 1-2-3 2.4やAutoCAD 2.5、QBASICやTurbo C++など、実アプリが動作する。
-いくつかクリーンショットが公開されている。
+いくつかスクリーンショットが公開されている。
 
 * [https://github.com/ioccc-src/winner/blob/main/2013/cable3/screenshot_autocad.png](https://github.com/ioccc-src/winner/blob/main/2013/cable3/screenshot_autocad.png)
 * [https://github.com/ioccc-src/winner/blob/main/2013/cable3/screenshot_flightsim4.png](https://github.com/ioccc-src/winner/blob/main/2013/cable3/screenshot_flightsim4.png)

@@ -29,4 +29,4 @@ it's just after ten 'til 6 in the evening
 * [trigraph](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%B0%E3%83%A9%E3%83%95)の使用は審査員が嫌っているが、[IBM 3270](https://ja.wikipedia.org/wiki/IBM_3270)では対応する文字がないのでやむを得ない（EBCDICなので鍵カッコがなかったらしい）。
 * 若い頃にCOBOLを覚えると冗長にしがちで、`#define`はその影響みたいなことが書いてある（よくわからず）。
 
-賞名は、[[[2000/bellard]]]({{ site.baseurl }}{% link 2000/bellard.md %})と[[[2000/thadgavin]]]({{ site.baseurl }}{% link 2000/thadgavin.md %})と対象的になっている。
+賞名は、[[[2000/bellard]]]({{ site.baseurl }}{% link 2000/bellard.md %})と[[[2000/thadgavin]]]({{ site.baseurl }}{% link 2000/thadgavin.md %})と対照的になっている。

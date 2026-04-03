@@ -48,7 +48,7 @@ $ cat august.c fac.oc | ./august > fac.oo
 
 ---
 
-august.cに埋め込まれたコンパイラのソースコードはparse.oc。これをコンパイルことで、コンパイラとして動くバイトコードparse.ooが得られる。
+august.cに埋め込まれたコンパイラのソースコードはparse.oc。これをコンパイルすることで、コンパイラとして動くバイトコードparse.ooが得られる。
 
 ```
 $ cat august.c parse.oc | ./august > parse.oo
@@ -134,4 +134,4 @@ factorial 9 = 362880
 OCが備える機能は、`getchar()`と`putchar()`、型は`int`と`char`とそれらへのポインタ、配列はグローバルなもののみ、演算子や制御構造もいろいろ制限があるとのこと。
 それでもサイズ制限が厳しい時代でこれが達成されたのは快挙。
 サイズ制限を回避するバイトコードの設計は楽しかったことだろう。
-august.hintから審査員の興奮が伺える。
+august.hintから審査員の興奮が窺える。

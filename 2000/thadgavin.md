@@ -62,7 +62,7 @@ $ ./thadgavin
 
 めまいがするようなアニメーションを表示する。服用しすぎないようにとのこと。
 
-賞名は、[[[2000/bellard]]]({{ site.baseurl }}{% link 2000/bellard.md %})と[[[2000/schneiderwent]]]({{ site.baseurl }}{% link 2000/schneiderwent.md %})と対象的になっている。
+賞名は、[[[2000/bellard]]]({{ site.baseurl }}{% link 2000/bellard.md %})と[[[2000/schneiderwent]]]({{ site.baseurl }}{% link 2000/schneiderwent.md %})と対照的になっている。
 賞名のとおり、ポータブルなことが売りで、cursesやXだけでなく、DOSやMicrosoft Visual Studioでも動作を確認しているとのこと。
 
 コード形状は意味ありげだけど、よくわからない。
