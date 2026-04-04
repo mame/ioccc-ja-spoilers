@@ -1,0 +1,24 @@
+baseURL = "https://mame.github.io/ioccc-ja-spoilers/"
+languageCode = "ja"
+title = "IOCCC日本語ネタバレ解説"
+uglyURLs = true
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "難読C言語コードのコンテスト、IOCCCの全作品を日本語で紹介することを目指すサイトです。"
+  email = "mame@ruby-lang.org"
+  twitterUsername = "mametter"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+  [markup.highlight]
+    codeFences = true
+    noClasses = false
+
+[taxonomies]

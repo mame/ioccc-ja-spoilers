@@ -1,0 +1,12 @@
+{{- $contests := slice -}}
+{{- range .Site.Sections -}}
+  {{- if .Params.year -}}
+    {{- $contests = $contests | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- $contests = sort $contests "Params.year" -}}
+<div class="contests list-group">
+{{ range $contests }}
+  <a href="{{ .RelPermalink }}" class="list-group-item list-group-item-action flex-column align-items-center text-center">IOCCC {{ .Params.year }}</a>
+{{ end }}
+</div>

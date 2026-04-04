@@ -1,0 +1,17 @@
+{{- $title := .Title | default .Site.Title -}}
+{{- $description := .Params.description | default .Site.Params.description -}}
+    <meta name="description" content="{{ $description }}">
+    <meta property="og:title" content="{{ $title }}">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:description" content="{{ $description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta name="twitter:card" content="summary">
+    <meta property="twitter:title" content="{{ $title }}">
+{{- with .Site.Params.twitterUsername }}
+    <meta name="twitter:site" content="@{{ . }}">
+{{- end }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    <script type="application/ld+json">
+    {{ printf `{"@context":"https://schema.org","@type":"WebPage","description":%q,"headline":%q,"url":%q}` $description $title .Permalink | safeJS }}</script>

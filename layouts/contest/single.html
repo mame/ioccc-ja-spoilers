@@ -1,0 +1,68 @@
+{{ define "main" }}
+{{- $year := printf "%d" (int .Params.year) -}}
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="{{ "" | relURL }}/">Home</a></li>
+        <li class="breadcrumb-item">IOCCC {{ $year }}</li>
+      </ol>
+    </nav>
+    <div class="container">
+      <h1 class="title">IOCCC {{ $year }}の解説</h1>
+
+{{ .Content }}
+
+{{ partial "ad.html" . }}
+
+<h2>入賞作品一覧</h2>
+
+<div class="entries list-group">
+{{- $entries := where .CurrentSection.Pages "Type" "entry" -}}
+{{- $entries = sort $entries "Params.order" -}}
+{{ range $entries }}
+  <a href="{{ .RelPermalink }}" class="list-group-item list-group-item-action flex-column align-items-start">
+    <p class="entry-id">[[{{ .Params.id }}]]</p>
+{{- $parts := split .Title ": " -}}
+{{- $award := index $parts (sub (len $parts) 1) -}}
+    <p class="award">{{ $award }}</p>
+    <p class="award-ja">{{ .Params.award_ja }}</p>
+  </a>
+{{ end }}
+</div>
+
+{{- $allContests := where .Site.Pages "Type" "contest" -}}
+{{- $allContests = sort $allContests "Params.year" -}}
+{{- $prev_page := false -}}
+{{- $next_page := false -}}
+{{- $pageYear := int .Params.year -}}
+{{- range $allContests -}}
+  {{- $thisYear := int .Params.year -}}
+  {{- if lt $thisYear $pageYear -}}
+    {{- $prev_page = . -}}
+  {{- end -}}
+{{- end -}}
+{{- $found := false -}}
+{{- range $allContests -}}
+  {{- $thisYear := int .Params.year -}}
+  {{- if and (gt $thisYear $pageYear) (not $found) -}}
+    {{- $next_page = . -}}
+    {{- $found = true -}}
+  {{- end -}}
+{{- end -}}
+
+<nav class="prev-next" aria-label="prev-next-entries">
+  <ul class="nav justify-content-between">
+{{ if $prev_page }}
+    <li><a class="btn page-link rounded-pill" href="{{ $prev_page.RelPermalink }}"><span aria-hidden="true">&larr;</span> IOCCC {{ $prev_page.Params.year }}</a></li>
+{{ else }}
+    <li></li>
+{{ end }}
+{{ if $next_page }}
+    <li><a class="btn page-link rounded-pill" href="{{ $next_page.RelPermalink }}">IOCCC {{ $next_page.Params.year }} <span aria-hidden="true">&rarr;</span></a></li>
+{{ else }}
+    <li></li>
+{{ end }}
+  </ul>
+</nav>
+
+    </div>
+{{ end }}

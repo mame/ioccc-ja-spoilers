@@ -1,0 +1,101 @@
+{{ define "main" }}
+{{- $year := printf "%d" (int .Params.year) -}}
+{{- $parts := split .Title ": " -}}
+{{- $award := index $parts (sub (len $parts) 1) -}}
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="{{ .Site.Home.RelPermalink }}">Home</a></li>
+        <li class="breadcrumb-item"><a href="{{ printf "%s/" $year | relURL }}">IOCCC {{ $year }}</a></li>
+        <li class="breadcrumb-item active">{{ $award }}</li>
+      </ol>
+    </nav>
+    <div class="container">
+
+<div class="award-title">
+  <h1>{{ $award }}</h1>
+  <p>{{ .Params.award_ja }}</p>
+  <p class="authors">
+受賞者：
+{{- $authors := .Params.authors -}}
+{{- if not (reflect.IsSlice $authors) -}}
+  {{- $authors = slice $authors -}}
+{{- end -}}
+{{- $data := .Site.Data -}}
+{{- range $i, $author := $authors -}}
+  {{- $show_name := index $data.authors $author -}}
+  {{- if not $show_name -}}
+    {{- $show_name = replace $author "_" " " -}}
+  {{- end -}}
+  {{- if and (eq $i (sub (len $authors) 1)) (gt (len $authors) 1) }} and {{ else }}{{ if (gt $i 0) }}, {{ end }}{{ end -}}
+    <a href="{{ "authors.html" | relURL }}#{{ $author }}">{{ $show_name }}</a>
+{{- end -}}
+  </p>
+</div>
+
+
+<div class="program-nav">
+  <p class="skip-link"><a href="#%E5%8B%95%E4%BD%9C">動作・解説にジャンプ <span aria-hidden="true">&raquo;</span></a></p>
+  <div class="program-control">
+    <div class="custom-control custom-checkbox custom-control-inline">
+      <input type="checkbox" class="custom-control-input" id="program-linewrap"{{ if .Params.linewrap }} checked{{ end }}>
+      <label class="custom-control-label" for="program-linewrap">Line wrap</label>
+    </div>
+    <div class="custom-control custom-checkbox custom-control-inline">
+      <input type="checkbox" class="custom-control-input" id="program-highlight">
+      <label class="custom-control-label" for="program-highlight">Highlight</label>
+    </div>
+  </div>
+</div>
+{{- $filebase := .Params.file | default .Params.id -}}
+{{- $incname := replace $filebase "/" "-" -}}
+{{- $incfile := printf "includes/%s.c.inc" $incname -}}
+{{ printf `<textarea id="program"%s readonly>%s</textarea>` (cond (isset .Params "tabsize") (printf ` class="tabsize-%v"` .Params.tabsize) "") (readFile $incfile) | safeHTML }}
+<p class="program-cite"><cite>引用元：<a href="{{ .Params.orig_url }}">{{ .Params.orig_url }}</a></cite></p>
+<p>審査員・作者による説明：<a href="{{ .Params.hint_url }}">{{ .Params.hint_url }}</a></p>
+
+{{ .Content }}
+
+{{ if .Params.patch }}
+<h2>パッチ</h2>
+{{- $patchname := printf "%s.patch" $incname -}}
+{{- $patchincfile := printf "includes/%s.inc" $patchname -}}
+{{ printf `<textarea id="diff"%s readonly>%s</textarea>` (cond (isset .Params "tabsize") (printf ` class="tabsize-%v"` .Params.tabsize) "") (readFile $patchincfile) | safeHTML }}
+<p class="diff-download"><a href="{{ printf "patches/%s" $patchname | relURL }}">パッチをダウンロード</a></p>
+{{ end }}
+
+{{ partial "ad.html" . }}
+
+{{- $section := .CurrentSection -}}
+{{- $fellows := where $section.Pages "Type" "entry" -}}
+{{- $prevOrder := sub (int .Params.order) 1 -}}
+{{- $nextOrder := add (int .Params.order) 1 -}}
+{{- $prev_page := false -}}
+{{- $next_page := false -}}
+{{- range $fellows -}}
+  {{- if eq (int .Params.order) $prevOrder -}}
+    {{- $prev_page = . -}}
+  {{- end -}}
+  {{- if eq (int .Params.order) $nextOrder -}}
+    {{- $next_page = . -}}
+  {{- end -}}
+{{- end -}}
+
+<nav class="prev-next" aria-label="prev-next-entries">
+  <ul class="nav justify-content-between">
+{{ if $prev_page }}
+    <li><a class="btn page-link rounded-pill" href="{{ $prev_page.RelPermalink }}"><span aria-hidden="true">&larr;</span> 前の作品</a></li>
+{{ else }}
+    <li></li>
+{{ end }}
+{{ if $next_page }}
+    <li><a class="btn page-link rounded-pill" href="{{ $next_page.RelPermalink }}">次の作品 <span aria-hidden="true">&rarr;</span></a></li>
+{{ else }}
+    <li><a class="btn page-link rounded-pill" href="{{ printf "%s/" $year | relURL }}">IOCCC {{ $year }}一覧 <span aria-hidden="true">&ldca;</span></a></li>
+{{ end }}
+  </ul>
+</nav>
+
+<script src="{{ "code.js" | relURL }}"></script>
+
+    </div>
+{{ end }}

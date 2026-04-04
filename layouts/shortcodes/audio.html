@@ -1,0 +1,4 @@
+<figure class="audio">
+	<audio src="{{ "imgs/" | relURL }}{{ .Get "src" }}" alt="{{ .Get "desc" }}" preload="auto" controls{{ with .Get "loop" }} loop{{ end }}></audio>
+  <figcaption>音：{{ .Get "desc" }}{{ with .Get "cite" }}<cite>（引用元：{{ . }}）</cite>{{ end }}</figcaption>
+</figure>

@@ -1,0 +1,4 @@
+<figure class="border border-dark rounded">
+  <img src="{{ "imgs/" | relURL }}{{ .Get "src" }}" alt="{{ .Get "desc" }}" class="img-fluid mx-auto d-block">
+  <figcaption>図：{{ .Get "desc" }}{{ with .Get "cite" }}<cite>（引用元：{{ . }}）</cite>{{ end }}</figcaption>
+</figure>

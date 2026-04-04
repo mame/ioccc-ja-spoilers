@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ if .Params.top }}
+    <div class="jumbotron">
+      <div class="container">
+        <h1>{{ .Site.Title }}</h1>
+        <p>C言語プログラムの独創性で競い合うプログラミングコンテスト、International Obfuscated C Code Contest（IOCCC）の全作品を日本語で紹介することを目指すサイトです。</p>
+      </div>
+    </div>
+    <div class="container">
+      {{ .Content }}
+    </div>
+{{ else }}
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="{{ .Site.Home.RelPermalink }}">Home</a></li>
+        <li class="breadcrumb-item">{{ .Title }}</li>
+      </ol>
+    </nav>
+    <div class="container">
+      <h1 class="title">{{ .Title }}</h1>
+      {{ .Content }}
+    </div>
+{{ end }}
+{{ end }}

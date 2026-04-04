@@ -1,0 +1,47 @@
+{{ define "main" }}
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="{{ .Site.Home.RelPermalink }}">Home</a></li>
+        <li class="breadcrumb-item">{{ .Title }}</li>
+      </ol>
+    </nav>
+    <div class="container">
+      <h1 class="title">{{ .Title }}</h1>
+
+{{- /* Collect all author-entry pairs */ -}}
+{{- $authorEntries := slice -}}
+{{- range .Site.Pages -}}
+  {{- if eq .Type "entry" -}}
+    {{- $entryID := .Params.id -}}
+    {{- $entryURL := .RelPermalink -}}
+    {{- $authors := .Params.authors -}}
+    {{- if not (reflect.IsSlice $authors) -}}
+      {{- $authors = slice $authors -}}
+    {{- end -}}
+    {{- range $authors -}}
+      {{- $authorEntries = $authorEntries | append (dict "author" . "id" $entryID "url" $entryURL) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Sort by author then by id */ -}}
+{{- $authorEntries = sort $authorEntries "author" -}}
+
+{{- $prevAuthor := "" -}}
+{{- range $authorEntries -}}
+  {{- if ne .author $prevAuthor -}}
+    {{- if ne $prevAuthor "" }}</ul>{{ end -}}
+    {{- $prevAuthor = .author -}}
+    {{- $showName := index $.Site.Data.authors .author -}}
+    {{- if not $showName -}}
+      {{- $showName = replace .author "_" " " -}}
+    {{- end }}
+<h2 id="{{ .author }}">{{ $showName }}</h2>
+<ul>
+  {{- end }}
+  <li><a href="{{ .url }}">[[{{ .id }}]]</a></li>
+{{- end }}
+</ul>
+
+    </div>
+{{ end }}
